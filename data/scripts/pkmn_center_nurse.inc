@@ -26,6 +26,7 @@ Common_EventScript_PkmnCenterNurse2::
 EventScript_PkmnCenterNurse_CheckVars::
 	goto_if_eq VAR_POKECENTER_NOW, VAR_POKECENTER_LAST, EventScript_PkmnCenterNurse_CannotHeal
 	goto_if_eq VAR_POKECENTER_NOW, VAR_POKECENTER_PREV, EventScript_PkmnCenterNurse_CannotHeal
+	goto_if_eq VAR_POKECENTER_NOW, VAR_POKECENTER_PREV2, EventScript_PkmnCenterNurse_CannotHeal
 	specialvar VAR_RESULT, CountPlayerTrainerStars
 	goto_if_eq VAR_RESULT, 4, EventScript_PkmnCenterNurse_GoldCard
 	msgbox gText_WouldYouLikeToRestYourPkmnPwr, MSGBOX_YESNO
@@ -39,6 +40,7 @@ EventScript_PkmnCenterNurse_CannotHeal::
 	end
 
 EventScript_PkmnCenterNurse_HealCycle::
+	copyvar VAR_POKECENTER_PREV2, VAR_POKECENTER_PREV
 	copyvar VAR_POKECENTER_PREV, VAR_POKECENTER_LAST
 	copyvar VAR_POKECENTER_LAST, VAR_POKECENTER_NOW
 	goto EventScript_PkmnCenterNurse_HealPkmn

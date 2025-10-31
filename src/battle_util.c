@@ -3323,10 +3323,11 @@ u8 ItemBattleEffects(u8 caseID, u8 battlerId, bool8 moveTurn)
                 PREPARE_STAT_BUFFER(gBattleTextBuff1, STAT_ATK);
                 PREPARE_STRING_BUFFER(gBattleTextBuff2, STRINGID_STATROSE);
                 gEffectBattler = battlerId;
+                gBattleScripting.battler = battlerId;
                 SET_STATCHANGER(STAT_ATK, battlerHoldEffectParam, FALSE);
                 gBattleScripting.animArg1 = STAT_ANIM_PLUS1 + STAT_ATK;
                 gBattleScripting.animArg2 = 0;
-                BattleScriptExecute(BattleScript_BerryStatRaiseEnd2);
+                BattleScriptPushCursorAndCallback(BattleScript_BerryStatRaiseEnd2);
                 effect = ITEM_STATS_CHANGE;  
             }
             break;
@@ -3336,10 +3337,11 @@ u8 ItemBattleEffects(u8 caseID, u8 battlerId, bool8 moveTurn)
                 PREPARE_STAT_BUFFER(gBattleTextBuff1, STAT_DEF);
                 PREPARE_STRING_BUFFER(gBattleTextBuff2, STRINGID_STATROSE);
                 gEffectBattler = battlerId;
+                gBattleScripting.battler = battlerId;
                 SET_STATCHANGER(STAT_DEF, battlerHoldEffectParam, FALSE);
                 gBattleScripting.animArg1 = STAT_ANIM_PLUS1 + STAT_DEF;
                 gBattleScripting.animArg2 = 0;
-                BattleScriptExecute(BattleScript_BerryStatRaiseEnd2);
+                BattleScriptPushCursorAndCallback(BattleScript_BerryStatRaiseEnd2);
                 effect = ITEM_STATS_CHANGE;  
             }
             break;
@@ -3349,10 +3351,11 @@ u8 ItemBattleEffects(u8 caseID, u8 battlerId, bool8 moveTurn)
                 PREPARE_STAT_BUFFER(gBattleTextBuff1, STAT_SPEED);
                 PREPARE_STRING_BUFFER(gBattleTextBuff2, STRINGID_STATROSE);
                 gEffectBattler = battlerId;
+                gBattleScripting.battler = battlerId;
                 SET_STATCHANGER(STAT_SPEED, battlerHoldEffectParam, FALSE);
                 gBattleScripting.animArg1 = STAT_ANIM_PLUS1 + STAT_SPEED;
                 gBattleScripting.animArg2 = 0;
-                BattleScriptExecute(BattleScript_BerryStatRaiseEnd2);
+                BattleScriptPushCursorAndCallback(BattleScript_BerryStatRaiseEnd2);
                 effect = ITEM_STATS_CHANGE;  
             }
             break;
@@ -3362,10 +3365,11 @@ u8 ItemBattleEffects(u8 caseID, u8 battlerId, bool8 moveTurn)
                 PREPARE_STAT_BUFFER(gBattleTextBuff1, STAT_SPATK);
                 PREPARE_STRING_BUFFER(gBattleTextBuff2, STRINGID_STATROSE);
                 gEffectBattler = battlerId;
+                gBattleScripting.battler = battlerId;
                 SET_STATCHANGER(STAT_SPATK, battlerHoldEffectParam, FALSE);
                 gBattleScripting.animArg1 = STAT_ANIM_PLUS1 + STAT_SPATK;
                 gBattleScripting.animArg2 = 0;
-                BattleScriptExecute(BattleScript_BerryStatRaiseEnd2);
+                BattleScriptPushCursorAndCallback(BattleScript_BerryStatRaiseEnd2);
                 effect = ITEM_STATS_CHANGE;  
             }
             break;
@@ -3375,10 +3379,11 @@ u8 ItemBattleEffects(u8 caseID, u8 battlerId, bool8 moveTurn)
                 PREPARE_STAT_BUFFER(gBattleTextBuff1, STAT_ACC);
                 PREPARE_STRING_BUFFER(gBattleTextBuff2, STRINGID_STATROSE);
                 gEffectBattler = battlerId;
+                gBattleScripting.battler = battlerId;
                 SET_STATCHANGER(STAT_ACC, battlerHoldEffectParam, FALSE);
                 gBattleScripting.animArg1 = STAT_ANIM_PLUS1 + STAT_ACC;
                 gBattleScripting.animArg2 = 0;
-                BattleScriptExecute(BattleScript_BerryStatRaiseEnd2);
+                BattleScriptPushCursorAndCallback(BattleScript_BerryStatRaiseEnd2);
                 effect = ITEM_STATS_CHANGE;  
             }
             break;
@@ -3386,7 +3391,8 @@ u8 ItemBattleEffects(u8 caseID, u8 battlerId, bool8 moveTurn)
             if (!(gBattleMons[battlerId].status2 & STATUS2_FOCUS_ENERGY))
             {
                 gBattleMons[battlerId].status2 |= STATUS2_FOCUS_ENERGY;
-                BattleScriptExecute(BattleScript_BerryFocusEnergyEnd2);
+                gBattleScripting.battler = battlerId;
+                BattleScriptPushCursorAndCallback(BattleScript_BerryFocusEnergyEnd2);
                 effect = ITEM_EFFECT_OTHER;  
             }
             break;
@@ -3397,7 +3403,8 @@ u8 ItemBattleEffects(u8 caseID, u8 battlerId, bool8 moveTurn)
                  {
                 gSideStatuses[side] |= SIDE_STATUS_MIST;
                 gSideTimers[side].mistTimer = 5;
-                 BattleScriptExecute(BattleScript_MistActivatesFromItem);
+                gBattleScripting.battler = battlerId;
+                 BattleScriptPushCursorAndCallback(BattleScript_MistActivatesFromItem);
                 effect = ITEM_EFFECT_OTHER;
                 }
             }

@@ -36,21 +36,24 @@ gText_Birch_BoyOrGirl::
 	.string "Or are you a girl?$"
 
 gText_Birch_Nuzlocke::
-	.string "Select difficulty.$"
+	.string "Of course!\p"
+	.string "And how tough do you think your\n"
+	.string "journey is going to be?…$"
 
 gText_Birch_AreYouSure_Normal::
 	.string "Are you sure?\n"
-	.string "Classic POKéMON rules.$"
+	.string "Classic POKéMON rules?$"
 
 gText_Birch_AreYouSure_Hard::
 	.string "Are you sure?\n"
-	.string "SET mode, no items in battle,\l"
-	.string "GYM level caps.$"
+	.string "SET mode, no items in battle,\p"
+	.string "GYM level caps, half of items\n"
+	.string "lost after a white out?$"
 
 gText_Birch_AreYouSure_Hardcore::
 	.string "Are you sure?\n"
-	.string "Hard mode, but POKéMON can't\l"
-	.string "be revived.$"
+	.string "Tough mode, but POKéMON can't\l"
+	.string "be revived after fainting?$"
 
 gText_Birch_WhatsYourName::
 	.string "All right.\n"
@@ -71,10 +74,10 @@ gText_Birch_PowerRumor::
     .string "rumors about the Mauville Power Plant?\p"
 	.string "They say it's causing energy problems\n"
     .string "for POKéMON CENTERS across HOENN.\p"
-	.string "Do you think its true?...$"
+	.string "Do you think its true?…$"
 
 gText_Birch_PowerYes::
-    .string "I see... Then the POKéMON CENTERS will be\n"
+    .string "I see… Then the POKéMON CENTERS will be\n"
     .string "saving power for trainers in danger.\p"
     .string "You'll need to use other POKéMON CENTERS\n"
     .string "before healing again at the same one.\p"

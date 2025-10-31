@@ -288,10 +288,10 @@ const u8 gText_MatchCallPkmnRanger_Catherine_Pokemon[] = _("I like strong POKéM
 const u8 gText_MatchCallPkmnRanger_Catherine_Intro1[] = _("I'm training for rescue");
 const u8 gText_MatchCallPkmnRanger_Catherine_Intro2[] = _("work with my POKéMON.");
 
-const u8 gText_MatchCallPkmnRanger_Jackson_Strategy[] = _("Attack in waves!");
-const u8 gText_MatchCallPkmnRanger_Jackson_Pokemon[] = _("I use different types.");
-const u8 gText_MatchCallPkmnRanger_Jackson_Intro1[] = _("Those who destroy nature");
-const u8 gText_MatchCallPkmnRanger_Jackson_Intro2[] = _("must never be forgiven!");
+const u8 gText_MatchCallPkmnRanger_Jackson_Strategy[] = _("Bring Big Brother power!");
+const u8 gText_MatchCallPkmnRanger_Jackson_Pokemon[] = _("I use cool POKéMON only.");
+const u8 gText_MatchCallPkmnRanger_Jackson_Intro1[] = _("I'm always training to");
+const u8 gText_MatchCallPkmnRanger_Jackson_Intro2[] = _("beat my lil' sibling!");
 
 const u8 gText_MatchCallLass_Haley_Strategy[] = _("I'll show you some guts!");
 const u8 gText_MatchCallLass_Haley_Pokemon[] = _("Cute POKéMON are my faves!");

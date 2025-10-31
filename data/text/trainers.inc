@@ -2803,34 +2803,47 @@ Route119_Text_KentPostBattle:
 	.string "Won't you join our MIMIC CIRCLE?$"
 
 Route119_Text_JacksonIntro:
-	.string "Who has the knowledge and\n"
-	.string "the technique for survival?\p"
-	.string "POKéMON RANGERS, that's who!$"
+	.string "Hey! I'm Jackson the POKéMON RANGER!\p"
+	.string "You give me a weird feeling…\p"
+	.string "I feel like I know you personally…\p"
+	.string "I just can't place your face…\p"
+	.string "I swear I've seen you before…\p"
+	.string "Your face… I should know it…\p"
+	.string "I bet we're long lost siblings\n"
+	.string "from another life!\p"
+	.string "Since that's the case I'll do my\n"
+	.string "best to force you to improve!$"
 
 Route119_Text_JacksonDefeat:
-	.string "I didn't have enough POKéMON\n"
-	.string "know-how…$"
+	.string "You sure showed me!\p"
+	.string "I clearly need to get better to\n"
+	.string "give you a run for your money!$"
 
 Route119_Text_JacksonPostBattle:
-	.string "To break away from civilization and\n"
-	.string "awaken the wild spirit within!\p"
-	.string "That's our vision.$"
+	.string "It was fun to battle you haha!\p"
+	.string "I promise I'll be way stronger\n"
+	.string "next time!$"
 
 Route119_Text_JacksonRegister:
 	.string "I hope you'll give me a rematch without\n"
-	.string "mocking my lack of knowledge.$"
+	.string "mocking my loss next time we meet up.\p"
+	.string "Let's battle again soon muhaha!$"
 
 Route119_Text_JacksonRematchIntro:
-	.string "I'm going to regain my wild spirit by\n"
-	.string "being together with POKéMON.$"
+	.string "I'm going to establish my Big\n"
+	.string "Brother dominance once again!$"
 
 Route119_Text_JacksonRematchDefeat:
-	.string "You've remained strong!$"
+	.string "Welp, there's always next time…\n"
+	.string "One day I'll beat you at this!$"
 
 Route119_Text_JacksonPostRematch:
-	.string "Believe in your POKéMON.\n"
-	.string "Believe in yourself.\p"
-	.string "The road will reveal itself to you.$"
+	.string "Trust in what is right.\p"
+	.string "Believe in your POKéMON.\p"
+	.string "Believe in yourself…\p"
+	.string "and always get back up.\p"
+	.string "That's what I'd tell you if you\n"
+	.string "didn't keep kicking my butt!$"
 
 Route119_Text_CatherineIntro:
 	.string "Oh? Look at you.\p"

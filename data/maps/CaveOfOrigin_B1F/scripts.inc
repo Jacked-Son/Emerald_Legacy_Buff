@@ -103,51 +103,60 @@ CaveOfOrigin_B1F_EventScript_End::
 	end
 
 CaveOfOrigin_B1F_Text_SmithIntro:
-	.string "Hey! What's up?\n"
+	.string "Hey! What's up? I'm Smith.\n"
+	.string "I'm the best ever… full stop.\p"
 	.string "Let me see how much zest you've got!$"
 
 CaveOfOrigin_B1F_Text_SmithDefeated:
-	.string "You're a zest god!$"
+	.string "You're as zesty as they come!$"
 
 CaveOfOrigin_B1F_Text_SmithPostBattle:
-	.string "I'm impressed! You beat me with all my\n"
-	.string "favorites!\p"
+	.string "I'm impressed! You beat me!\p"
+	.string "I thought I'd never be beaten.\p"
+	.string "My friends and I are from\n"
+	.string "somewhere far away and far ahead.\p"
+	.string "We thought we were the best.\p"
 	.string "As a token of respect, I want you to\n"
-	.string "have this. It doesn't do anything, but\l"
+	.string "have this.\p"
+	.string "It doesn't do anything, but\n"
 	.string "it looks cool!$"
 
 CaveOfOrigin_B1F_Text_SmithPostBattle2:
-	.string "Peace out, nerd!$"
+	.string "Peace out, Champ! See you around…$"
 
 CaveOfOrigin_B1F_Text_CraigIntro:
-	.string "They say only a few can enter here, yet\n"
-	.string "somehow… I was permitted.\p"
-	.string "Why, you ask?\n"
-	.string "Well, that's a secret.\p"
-	.string "Instead, let's battle. I think I can\n"
-	.string "gather some interesting data from you.$"
+	.string "They say only a few can enter here,\n"
+	.string "yet somehow… I got in.\p"
+	.string "How, you ask?…\n"
+	.string "Well, that's a big secret.\p"
+	.string "Let's just say my friends and I are\n"
+	.string "the strongest of all time back home.\p"
+	.string "Let's battle. I think I can gather\n"
+	.string "some interesting data from you.$"
 
 CaveOfOrigin_B1F_Text_CraigDefeated:
-	.string "This is good data!\n"
-	.string "I can use this.$"
+	.string "This is great data!\n"
+	.string "I can use this and improve!$"
 
 CaveOfOrigin_B1F_Text_CraigPostBattle:
 	.string "You know, most people wouldn't believe\n"
-	.string "I was allowed in here.\p"
+	.string "I was ever in here.\p"
 	.string "Here, take this as a token of our match.\n"
 	.string "A little something from… places unseen.$"
 
 CaveOfOrigin_B1F_Text_WeebraIntro:
 	.string "Intruders! Sound the alarm! That's the\n"
-	.string "line, right?$"
+	.string "line, right?… haha! I'm Weebra.\p"
+	.string "We came a long way to see this place…\p"
+	.string "And battle someone like you!$"
 
 CaveOfOrigin_B1F_Text_WeebraDefeated:
-	.string "Guess someone finally busted outta\n"
-	.string "their cage…$"
+	.string "Guess what we heard was right!\n"
+	.string "You're the strongest I've ever seen!$"
 
 CaveOfOrigin_B1F_Text_WeebraPostBattle:
 	.string "Anyway - a cool cat like you is gonna\n"
-	.string "need something fitting…$"
+	.string "need something fitting so take this…$"
 
 CaveOfOrigin_B1F_Text_NoRoomForDeco:
 	.string "Looks like you don't have space for any\n"

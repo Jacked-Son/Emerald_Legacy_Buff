@@ -12,7 +12,7 @@ OldaleTown_PokemonCenter_1F_OnTransition:
 
 OldaleTown_PokemonCenter_1F_EventScript_Nurse::
 	setvar VAR_0x800B, LOCALID_NURSE
-	setvar VAR_POKECENTER_NOW, 9   @ Oldale Town
+	setvar VAR_POKECENTER_NOW, 9   	@ Oldale Town
 	call Common_EventScript_PkmnCenterNurse
 	waitmessage
 	waitbuttonpress
@@ -20,11 +20,23 @@ OldaleTown_PokemonCenter_1F_EventScript_Nurse::
 	end
 
 OldaleTown_PokemonCenter_1F_EventScript_Gentleman::
-	msgbox OldaleTown_PokemonCenter_1F_Text_TrainersCanUsePC, MSGBOX_NPC
+	lock
+	faceplayer
+	if_set FLAG_HARD
+		msgbox OldaleTown_PokemonCenter_1F_Text_TrainersCanUsePCHard, MSGBOX_NPC
+	else
+		msgbox OldaleTown_PokemonCenter_1F_Text_TrainersCanUsePC, MSGBOX_NPC
+	release
 	end
 
 OldaleTown_PokemonCenter_1F_EventScript_Boy::
-	msgbox OldaleTown_PokemonCenter_1F_Text_PokemonCentersAreGreat, MSGBOX_NPC
+	lock
+	faceplayer
+	if_set FLAG_POKECENTER_DIFF_MAIN
+		msgbox OldaleTown_PokemonCenter_1F_Text_PokemonCentersAreGreatHard, MSGBOX_NPC
+	else
+		msgbox OldaleTown_PokemonCenter_1F_Text_PokemonCentersAreGreat, MSGBOX_NPC
+	release
 	end
 
 OldaleTown_PokemonCenter_1F_EventScript_Girl::
@@ -44,15 +56,33 @@ OldaleTown_PokemonCenter_1F_Text_TrainersCanUsePC:
 	.string "That PC in the corner there is\n"
 	.string "for any POKéMON TRAINER to use.\p"
 	.string "Naturally, that means you're welcome\n"
-	.string "to use it to store your pokemon too.\p"
+	.string "to use it too.\p"
 	.string "The wonders of modern technology are\n"
 	.string "truly incredible!$"
 
+OldaleTown_PokemonCenter_1F_Text_TrainersCanUsePCHard:
+	.string "That PC in the corner there is\n"
+	.string "for any POKéMON TRAINER to use.\p"
+	.string "Naturally, that means you're welcome\n"
+	.string "to use it too.\p"
+	.string "It's important to choose which items\n"
+	.string "and POKéMON to keep with you.\p"
+	.string "Trainers will take items and money,\n"
+	.string "from you as their prize if they\l"
+	.string "defeat you in battle!$"
+
 OldaleTown_PokemonCenter_1F_Text_PokemonCentersAreGreat:
+	.string "POKéMON CENTERS are great!\p"
+	.string "You can use their services as much\n"
+	.string "as you like, and it's all for free.\l"
+	.string "You never have to worry!$"
+
+OldaleTown_PokemonCenter_1F_Text_PokemonCentersAreGreatHard:
 	.string "I heard there's trouble with the\n"
-	.string "Power Plant in Mauville City...\p"
-	.string "I wonder if its true...\p"
-	.string "...\p"
+	.string "Power Plant in Mauville City…\p"
+	.string "I guess I won't be able to heal\n"
+	.string "as much as I want to.\p"
+	.string "…\p"
 	.string "Better plan my route carefully!$"
 
 OldaleTown_PokemonCenter_1F_Text_WirelessClubNotAvailable:

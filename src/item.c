@@ -14,6 +14,7 @@
 #include "battle_pyramid_bag.h"
 #include "constants/items.h"
 #include "constants/hold_effects.h"
+#include "random.h"
 
 static bool8 CheckPyramidBagHasItem(u16 itemId, u16 count);
 static bool8 CheckPyramidBagHasSpace(u16 itemId, u16 count);
@@ -456,6 +457,127 @@ static s32 FindFreePCItemSlot(void)
             return i;
     }
     return -1;
+}
+
+void HalveItemStacks(void)
+{
+    {
+        struct BagPocket *p = &gBagPockets[ITEMS_POCKET];
+        u16 i;
+
+        for (i = 0; i < p->capacity; i++)
+        {
+            u16 id = p->itemSlots[i].itemId;
+            if (id == ITEM_NONE)
+                continue;
+
+            u16 qty = GetBagItemQuantity(&p->itemSlots[i].quantity);
+            if (qty == 0)
+                continue;
+            if (qty ==1)
+            {
+                if (Random() & 1)
+                    RemoveBagItem(id,1);
+                continue;
+            }
+
+            u16 removeCount = (qty+1) / 2;
+
+            RemoveBagItem(id, removeCount);
+        }
+
+        // Clean up any empty slots left behind
+        CompactItemsInBagPocket(p);
+    }
+
+    {
+        struct BagPocket *p = &gBagPockets[BALLS_POCKET];
+        u16 i;
+
+        for (i = 0; i < p->capacity; i++)
+        {
+            u16 id = p->itemSlots[i].itemId;
+            if (id == ITEM_NONE)
+                continue;
+
+            u16 qty = GetBagItemQuantity(&p->itemSlots[i].quantity);
+            if (qty == 0)
+                continue;
+            if (qty ==1)
+            {
+                if (Random() & 1)
+                    RemoveBagItem(id,1);
+                continue;
+            }
+
+            u16 removeCount = (qty+1) / 2;
+
+            RemoveBagItem(id, removeCount);
+        }
+
+        // Clean up any empty slots left behind
+        CompactItemsInBagPocket(p);
+    }
+    
+    {
+        struct BagPocket *p = &gBagPockets[BERRIES_POCKET];
+        u16 i;
+
+        for (i = 0; i < p->capacity; i++)
+        {
+            u16 id = p->itemSlots[i].itemId;
+            if (id == ITEM_NONE)
+                continue;
+
+            u16 qty = GetBagItemQuantity(&p->itemSlots[i].quantity);
+            if (qty == 0)
+                continue;
+            if (qty ==1)
+            {
+                if (Random() & 1)
+                    RemoveBagItem(id,1);
+                continue;
+            }
+
+            u16 removeCount = (qty+1) / 2;
+
+            RemoveBagItem(id, removeCount);
+        }
+
+        // Clean up any empty slots left behind
+        CompactItemsInBagPocket(p);
+    }
+
+        {
+        struct BagPocket *p = &gBagPockets[TMHM_POCKET];
+        u16 i;
+
+        for (i = 0; i < p->capacity; i++)
+        {
+            u16 id = p->itemSlots[i].itemId;
+            if (id == ITEM_NONE)
+                continue;
+            if (id >= ITEM_HM01 && id <= ITEM_HM08)
+                continue;
+            u16 qty = GetBagItemQuantity(&p->itemSlots[i].quantity);
+            if (qty == 0)
+                continue;
+            if (qty ==1)
+            {
+                if (Random() & 1)
+                    RemoveBagItem(id,1);
+                continue;
+            }
+
+            u16 removeCount = (qty+1) / 2;
+
+            RemoveBagItem(id, removeCount);
+        }
+
+        // Clean up any empty slots left behind
+        CompactItemsInBagPocket(p);
+    }
+
 }
 
 u8 CountUsedPCItemSlots(void)

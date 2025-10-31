@@ -437,8 +437,8 @@ RusturfTunnel_Text_GruntIntro:
 	.string "be worthless!\p"
 	.string "And to think I made a getaway…\n"
 	.string "In this tunnel to nowhere!\p"
-	.string "Hey! You!\n"
-	.string "So you want to battle me?$"
+	.string "Hey! You! Nosy Kid!\n"
+	.string "So you want to battle me again?$"
 
 RusturfTunnel_Text_GruntDefeat:
 	.string "Urrrggh! My career in crime comes to\n"

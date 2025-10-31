@@ -69,5 +69,5 @@ gText_Nurse_CannotHeal::
     .string "We must conserve power for the\n"
     .string "TRAINERS who need healing most.\p"
     .string "Please try another POKéMON CENTER\n"
-    .string "and come back later...\p"
+    .string "and come back later…\p"
 	.string "We hope to see you again!$"

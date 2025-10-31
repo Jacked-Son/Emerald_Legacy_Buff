@@ -67,6 +67,8 @@
 #include "constants/songs.h"
 #include "constants/trainer_hill.h"
 #include "constants/weather.h"
+#include "item.h"               
+#include "constants/flags.h"    
 
 struct CableClubPlayer
 {
@@ -363,6 +365,10 @@ void DoWhiteOut(void)
     if (FlagGet(FLAG_NUZLOCKE))
     {
         DoSoftReset();
+    }
+    if (FlagGet(FLAG_HARD))
+    {
+        HalveItemStacks();
     }
     SetMoney(&gSaveBlock1Ptr->money, GetMoney(&gSaveBlock1Ptr->money) / 2);
     HealPlayerParty();
