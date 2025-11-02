@@ -22,20 +22,26 @@ OldaleTown_PokemonCenter_1F_EventScript_Nurse::
 OldaleTown_PokemonCenter_1F_EventScript_Gentleman::
 	lock
 	faceplayer
-	if_set FLAG_HARD
-		msgbox OldaleTown_PokemonCenter_1F_Text_TrainersCanUsePCHard, MSGBOX_NPC
-	else
-		msgbox OldaleTown_PokemonCenter_1F_Text_TrainersCanUsePC, MSGBOX_NPC
+	goto_if_set FLAG_HARD, OldaleTown_PokemonCenter_1F_EventScript_Gentleman_Hard
+	msgbox OldaleTown_PokemonCenter_1F_Text_TrainersCanUsePC, MSGBOX_NPC
+	release
+	end
+
+OldaleTown_PokemonCenter_1F_EventScript_Gentleman_Hard::
+	msgbox OldaleTown_PokemonCenter_1F_Text_TrainersCanUsePCHard, MSGBOX_NPC
 	release
 	end
 
 OldaleTown_PokemonCenter_1F_EventScript_Boy::
 	lock
 	faceplayer
-	if_set FLAG_POKECENTER_DIFF_MAIN
-		msgbox OldaleTown_PokemonCenter_1F_Text_PokemonCentersAreGreatHard, MSGBOX_NPC
-	else
-		msgbox OldaleTown_PokemonCenter_1F_Text_PokemonCentersAreGreat, MSGBOX_NPC
+	goto_if_set FLAG_POKECENTER_DIFF_MAIN, OldaleTown_PokemonCenter_1F_EventScript_Boy_Hard
+	msgbox OldaleTown_PokemonCenter_1F_Text_PokemonCentersAreGreat, MSGBOX_NPC
+	release
+	end
+
+OldaleTown_PokemonCenter_1F_EventScript_Boy_Hard::
+	msgbox OldaleTown_PokemonCenter_1F_Text_PokemonCentersAreGreatHard, MSGBOX_NPC
 	release
 	end
 
@@ -67,9 +73,8 @@ OldaleTown_PokemonCenter_1F_Text_TrainersCanUsePCHard:
 	.string "to use it too.\p"
 	.string "It's important to choose which items\n"
 	.string "and POKéMON to keep with you.\p"
-	.string "Trainers will take items and money,\n"
-	.string "from you as their prize if they\l"
-	.string "defeat you in battle!$"
+	.string "You'll lose some of your items\n"
+	.string "and money if you white out!\$"
 
 OldaleTown_PokemonCenter_1F_Text_PokemonCentersAreGreat:
 	.string "POKéMON CENTERS are great!\p"

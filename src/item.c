@@ -467,21 +467,26 @@ void HalveItemStacks(void)
 
         for (i = 0; i < p->capacity; i++)
         {
-            u16 id = p->itemSlots[i].itemId;
+            u16 id;
+            u16 qty;
+            u16 removeCount;
+
+            id = p->itemSlots[i].itemId;
+
             if (id == ITEM_NONE)
                 continue;
 
-            u16 qty = GetBagItemQuantity(&p->itemSlots[i].quantity);
+            qty = GetBagItemQuantity(&p->itemSlots[i].quantity);
             if (qty == 0)
                 continue;
             if (qty ==1)
             {
-                if (Random() & 1)
-                    RemoveBagItem(id,1);
+                if ((Random() & 1) != 0)
+                    RemoveBagItem(id, 1);
                 continue;
             }
 
-            u16 removeCount = (qty+1) / 2;
+            removeCount = (qty+1) / 2;
 
             RemoveBagItem(id, removeCount);
         }
@@ -496,21 +501,26 @@ void HalveItemStacks(void)
 
         for (i = 0; i < p->capacity; i++)
         {
-            u16 id = p->itemSlots[i].itemId;
+            u16 id;
+            u16 qty;
+            u16 removeCount;
+
+            id = p->itemSlots[i].itemId;
+
             if (id == ITEM_NONE)
                 continue;
 
-            u16 qty = GetBagItemQuantity(&p->itemSlots[i].quantity);
+            qty = GetBagItemQuantity(&p->itemSlots[i].quantity);
             if (qty == 0)
                 continue;
             if (qty ==1)
             {
-                if (Random() & 1)
-                    RemoveBagItem(id,1);
+                if ((Random() & 1) != 0)
+                    RemoveBagItem(id, 1);
                 continue;
             }
 
-            u16 removeCount = (qty+1) / 2;
+            removeCount = (qty+1) / 2;
 
             RemoveBagItem(id, removeCount);
         }
@@ -525,21 +535,26 @@ void HalveItemStacks(void)
 
         for (i = 0; i < p->capacity; i++)
         {
-            u16 id = p->itemSlots[i].itemId;
+            u16 id;
+            u16 qty;
+            u16 removeCount;
+
+            id = p->itemSlots[i].itemId;
+
             if (id == ITEM_NONE)
                 continue;
 
-            u16 qty = GetBagItemQuantity(&p->itemSlots[i].quantity);
+            qty = GetBagItemQuantity(&p->itemSlots[i].quantity);
             if (qty == 0)
                 continue;
             if (qty ==1)
             {
-                if (Random() & 1)
-                    RemoveBagItem(id,1);
+                if ((Random() & 1) != 0)
+                    RemoveBagItem(id, 1);
                 continue;
             }
 
-            u16 removeCount = (qty+1) / 2;
+            removeCount = (qty+1) / 2;
 
             RemoveBagItem(id, removeCount);
         }
@@ -554,22 +569,27 @@ void HalveItemStacks(void)
 
         for (i = 0; i < p->capacity; i++)
         {
-            u16 id = p->itemSlots[i].itemId;
+            u16 id;
+            u16 qty;
+            u16 removeCount;
+
+            id = p->itemSlots[i].itemId;
+
             if (id == ITEM_NONE)
                 continue;
             if (id >= ITEM_HM01 && id <= ITEM_HM08)
                 continue;
-            u16 qty = GetBagItemQuantity(&p->itemSlots[i].quantity);
+            qty = GetBagItemQuantity(&p->itemSlots[i].quantity);
             if (qty == 0)
                 continue;
             if (qty ==1)
             {
-                if (Random() & 1)
-                    RemoveBagItem(id,1);
+                if ((Random() & 1) != 0)
+                    RemoveBagItem(id, 1);
                 continue;
             }
 
-            u16 removeCount = (qty+1) / 2;
+            removeCount = (qty+1) / 2;
 
             RemoveBagItem(id, removeCount);
         }

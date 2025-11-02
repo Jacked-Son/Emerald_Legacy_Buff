@@ -1723,9 +1723,12 @@ static void Cmd_if_stat_level_not_equal(void)
 
 static void Cmd_if_can_faint(void)
 {
+    u32 targetHp;
+    u32 maxHealth;
+    u32 remainingHp;
     if (gBattleMoves[AI_THINKING_STRUCT->moveConsidered].power < 2)
     {
-        gAIScriptPtr += 5;
+        gAIScriptPtr += 9;
         return;
     }
 
@@ -1741,13 +1744,21 @@ static void Cmd_if_can_faint(void)
     gBattleMoveDamage = gBattleMoveDamage * AI_THINKING_STRUCT->simulatedRNG[AI_THINKING_STRUCT->movesetIndex] / 100;
 
     // Moves always do at least 1 damage.
+    targetHp = gBattleMons[gBattlerTarget].hp;
+    maxHealth = gBattleMons[gBattlerTarget].maxHP;
+    remainingHp = (targetHp > gBattleMoveDamage) ? (targetHp - gBattleMoveDamage) : 0;
+    
     if (gBattleMoveDamage == 0)
         gBattleMoveDamage = 1;
 
-    if (gBattleMons[gBattlerTarget].hp <= gBattleMoveDamage)
-        gAIScriptPtr = T1_READ_PTR(gAIScriptPtr + 1);
+    if (targetHp <= gBattleMoveDamage)
+        gAIScriptPtr = T2_READ_PTR(gAIScriptPtr + 1);
+
+    else if (remainingHp <= ((maxHealth+1)/4))
+        gAIScriptPtr = T2_READ_PTR(gAIScriptPtr + 5);
+
     else
-        gAIScriptPtr += 5;
+        gAIScriptPtr += 9;
 }
 
 static void Cmd_if_cant_faint(void)

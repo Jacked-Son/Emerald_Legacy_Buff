@@ -12,8 +12,10 @@ gText_WouldYouLikeToRestYourPkmnPwr::
 	.string "to full health.\p"
 	.string "Due to a power shortage,\n"
 	.string "regular healing is limited.\p"
-	.string "Power is being conserved for\n"
-	.string "emergencies.\p"
+	.string "Power is being saved for any\n"
+	.string "POKéMON TRAINERS that white out.\p"
+	.string "However, we can rest your POKéMON\n"
+	.string "at this time.\p"
 	.string "Would you like to rest your POKéMON?$"
 
 gText_IllTakeYourPkmn::
@@ -66,8 +68,8 @@ gText_Nurse_CannotHeal::
     .string "your POKéMON right now.\p"
     .string "All the regional POKéMON CENTERS\n"
     .string "are experiencing a power shortage.\p"
-    .string "We must conserve power for the\n"
-    .string "TRAINERS who need healing most.\p"
+    .string "We must save power for the\n"
+    .string "TRAINERS who have whited out.\p"
     .string "Please try another POKéMON CENTER\n"
     .string "and come back later…\p"
 	.string "We hope to see you again!$"

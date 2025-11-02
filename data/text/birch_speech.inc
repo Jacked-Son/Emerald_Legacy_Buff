@@ -36,9 +36,12 @@ gText_Birch_BoyOrGirl::
 	.string "Or are you a girl?$"
 
 gText_Birch_Nuzlocke::
-	.string "Of course!\p"
-	.string "And how tough do you think your\n"
-	.string "journey is going to be?…$"
+	.string "Of course.\p"
+	.string "Now then…\p"
+	.string "There's a world of adventure\n"
+	.string "waiting for you!\p"
+	.string "How tough will your\n"
+	.string "POKéMON adventure be?…$"
 
 gText_Birch_AreYouSure_Normal::
 	.string "Are you sure?\n"
@@ -52,7 +55,7 @@ gText_Birch_AreYouSure_Hard::
 
 gText_Birch_AreYouSure_Hardcore::
 	.string "Are you sure?\n"
-	.string "Tough mode, but POKéMON can't\l"
+	.string "TOUGH mode, but POKéMON can't\l"
 	.string "be revived after fainting?$"
 
 gText_Birch_WhatsYourName::
@@ -78,7 +81,8 @@ gText_Birch_PowerRumor::
 
 gText_Birch_PowerYes::
     .string "I see… Then the POKéMON CENTERS will be\n"
-    .string "saving power for trainers in danger.\p"
+    .string "saving power for POKéMON TRAINERS who\l"
+	.string "have whited out and are in danger.\p"
     .string "You'll need to use other POKéMON CENTERS\n"
     .string "before healing again at the same one.\p"
     .string "Does that sound right?$"

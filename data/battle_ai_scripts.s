@@ -2599,7 +2599,7 @@ AI_CV_DragonDance_End:
 
 AI_TryToFaint:
 	if_target_is_ally AI_Ret
-	if_can_faint AI_TryToFaint_TryToEncourageQuickAttack
+	if_can_faint AI_TryToFaint_TryToEncourageQuickAttack, AI_TryToFaint_TryToEncourageAttack2
 	get_how_powerful_move_is
 	if_equal MOVE_NOT_MOST_POWERFUL, Score_Minus1
 	if_type_effectiveness AI_EFFECTIVENESS_x4, AI_TryToFaint_DoubleSuperEffective
@@ -2617,6 +2617,10 @@ AI_TryToFaint_TryToEncourageQuickAttack:
 AI_TryToFaint_ScoreUp4:
 	score +4
 AI_TryToFaint_End:
+	end
+
+AI_TryToFaint_TryToEncourageAttack2:
+	score +4
 	end
 
 AI_SetupFirstTurn:

@@ -4480,9 +4480,17 @@ BattleScript_MistActivatesFromItem::
     playanimation BS_ATTACKER, B_ANIM_HELD_ITEM_EFFECT
     printfromtable gMistUsedStringIds
     waitmessage B_WAIT_TIME_LONG
-    end
+	removeitem BS_ATTACKER
+    end2
 
 BattleScript_BerryStatRaiseDoStatUp::
+	setbyte cMULTISTRING_CHOOSER, B_MSG_STAT_ROSE_ITEM
+	call BattleScript_StatUp
+	removeitem BS_ATTACKER
+	end2
+
+BattleScript_XStatRaiseDoStatUp::
+	playanimation BS_ATTACKER, B_ANIM_HELD_ITEM_EFFECT
 	setbyte cMULTISTRING_CHOOSER, B_MSG_STAT_ROSE_ITEM
 	call BattleScript_StatUp
 	removeitem BS_ATTACKER

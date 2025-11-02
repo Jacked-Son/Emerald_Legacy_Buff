@@ -357,10 +357,11 @@
 	.4byte \param3
 	.endm
 
-	.macro if_can_faint param0:req
-	.byte 0x3d
-	.4byte \param0
-	.endm
+	.macro if_can_faint param0:req, param1:req
+    .byte 0x3d
+    .4byte \param0
+    .4byte \param1
+    .endm
 
 	.macro if_cant_faint param0:req
 	.byte 0x3e

@@ -105,12 +105,12 @@ static const struct TrainerMon sParty_Gabrielle1[] = {
 static const struct TrainerMon sParty_GruntPetalburgWoods[] = {
     {
     .iv = 0,
-    .lvl = 10,
+    .lvl = 11,
     .species = SPECIES_POOCHYENA,
     },
     {
     .iv = 0,
-    .lvl = 10,
+    .lvl = 11,
     .species = SPECIES_CARVANHA,
     }
 };
@@ -1923,7 +1923,7 @@ static const struct TrainerMon sParty_Jessica5[] = {
 static const struct TrainerMon sParty_Winston1[] = {
     {
     .iv = 0,
-    .lvl = 11,
+    .lvl = 10,
     .species = SPECIES_SLAKOTH,
     .heldItem = ITEM_NUGGET
     }
@@ -4771,7 +4771,7 @@ static const struct TrainerMon sParty_Billy[] = {
     },
     {
     .iv = 0,
-    .lvl = 9,
+    .lvl = 10,
     .species = SPECIES_SEEDOT,
     }
 };
@@ -4815,12 +4815,12 @@ static const struct TrainerMon sParty_Tommy[] = {
 static const struct TrainerMon sParty_Joey[] = {
     {
     .iv = 0,
-    .lvl = 11,
+    .lvl = 12,
     .species = SPECIES_MACHOP,
     },
     {
     .iv = 0,
-    .lvl = 10,
+    .lvl = 12,
     .species = SPECIES_VULPIX,
     },
 };
@@ -4969,12 +4969,12 @@ static const struct TrainerMon sParty_Eddie[] = {
 static const struct TrainerMon sParty_Allen[] = {
     {
     .iv = 0,
-    .lvl = 6,
+    .lvl = 7,
     .species = SPECIES_ZIGZAGOON,
     },
     {
     .iv = 0,
-    .lvl = 5,
+    .lvl = 6,
     .species = SPECIES_TAILLOW,
     }
 };
@@ -5105,12 +5105,12 @@ static const struct TrainerMon sParty_Andrew[] = {
 static const struct TrainerMon sParty_Ivan[] = {
     {
     .iv = 0,
-    .lvl = 7,
+    .lvl = 8,
     .species = SPECIES_MAGIKARP,
     },
     {
     .iv = 0,
-    .lvl = 9,
+    .lvl = 10,
     .species = SPECIES_GOLDEEN,
     }
 };
@@ -9251,12 +9251,12 @@ static const struct TrainerMon sParty_MaxieMtChimney[] = {
 static const struct TrainerMon sParty_Tiana[] = {
     {
     .iv = 0,
-    .lvl = 6,
+    .lvl = 7,
     .species = SPECIES_ZIGZAGOON,
     },
     {
     .iv = 0,
-    .lvl = 6,
+    .lvl = 7,
     .species = SPECIES_SHROOMISH,
     }
 };
@@ -9412,12 +9412,12 @@ static const struct TrainerMon sParty_Crissy[] = {
 static const struct TrainerMon sParty_Rick[] = {
     {
     .iv = 0,
-    .lvl = 6,
+    .lvl = 7,
     .species = SPECIES_WURMPLE,
     },
     {
     .iv = 0,
-    .lvl = 6,
+    .lvl = 7,
     .species = SPECIES_WURMPLE,
     }
 };
@@ -9426,22 +9426,22 @@ static const struct TrainerMon sParty_Lyle[] = {
     {
     .iv = 0,
     .lvl = 7,
-    .species = SPECIES_WURMPLE,
+    .species = SPECIES_CASCOON,
     },
     {
     .iv = 0,
     .lvl = 7,
-    .species = SPECIES_WURMPLE,
+    .species = SPECIES_SILCOON,
     },
     {
     .iv = 0,
-    .lvl = 6,
-    .species = SPECIES_WURMPLE,
+    .lvl = 8,
+    .species = SPECIES_CASCOON,
     },
     {
     .iv = 0,
-    .lvl = 6,
-    .species = SPECIES_WURMPLE,
+    .lvl = 8,
+    .species = SPECIES_SILCOON,
     }
 };
 // Route 116 Bug Catcher - Wurmple & Nincada
@@ -10957,12 +10957,12 @@ static const struct TrainerMon sParty_Sarah[] = {
 static const struct TrainerMon sParty_Darian[] = {
     {
     .iv = 0,
-    .lvl = 11,
+    .lvl = 10,
     .species = SPECIES_MAGIKARP,
     },
     {
     .iv = 0,
-    .lvl = 10,
+    .lvl = 11,
     .species = SPECIES_GOLDEEN,
     }
 };
@@ -14898,7 +14898,7 @@ static const struct TrainerMon sParty_Smith[] = {
     .heldItem = ITEM_LEFTOVERS,
     .ability = ABILITY_SLOT_1,
     .evs = {252, 0, 0, 0, 252, 0},
-    .shiny = TRUE
+    .shiny = TRUE,
     .moves = {MOVE_SURF, MOVE_BLIZZARD, MOVE_EARTHQUAKE, MOVE_CALM_MIND}
     },
     {
@@ -14908,7 +14908,7 @@ static const struct TrainerMon sParty_Smith[] = {
     .heldItem = ITEM_MAGNET,
     .ability = ABILITY_SLOT_1,
     .evs = {0, 0, 0, 252, 252, 0},
-    .shiny = TRUE
+    .shiny = TRUE,
     .moves = {MOVE_THUNDER, MOVE_SKY_ATTACK, MOVE_THUNDER_WAVE, MOVE_PROTECT}
     },
     {
@@ -14918,7 +14918,7 @@ static const struct TrainerMon sParty_Smith[] = {
     .heldItem = ITEM_SALAC_BERRY,
     .ability = ABILITY_SLOT_1,
     .evs = {0, 0, 0, 252, 252, 0},
-    .shiny = TRUE
+    .shiny = TRUE,
     .moves = {MOVE_HYDRO_PUMP, MOVE_ICE_BEAM, MOVE_THUNDER, MOVE_RECOVER}
     },
     {
@@ -14928,7 +14928,7 @@ static const struct TrainerMon sParty_Smith[] = {
     .heldItem = ITEM_MAGNET,
     .ability = ABILITY_SLOT_1,
     .evs = {0, 0, 0, 252, 252, 0},
-    .shiny = TRUE
+    .shiny = TRUE,
     .moves = {MOVE_THUNDER, MOVE_RAIN_DANCE, MOVE_CALM_MIND, MOVE_SUBSTITUTE}
     },
     {
@@ -14938,7 +14938,7 @@ static const struct TrainerMon sParty_Smith[] = {
     .heldItem = ITEM_CHESTO_BERRY,
     .ability = ABILITY_SLOT_1,
     .evs = {252, 0, 0, 252, 0, 0},
-    .shiny = TRUE
+    .shiny = TRUE,
     .moves = {MOVE_SURF, MOVE_CALM_MIND, MOVE_REST, MOVE_ICE_BEAM}
     },
     {
@@ -14948,7 +14948,7 @@ static const struct TrainerMon sParty_Smith[] = {
     .heldItem = ITEM_SPELL_TAG,
     .ability = ABILITY_SLOT_1,
     .evs = {0, 0, 0, 252, 252, 0},
-    .shiny = TRUE
+    .shiny = TRUE,
     .moves = {MOVE_SHADOW_BALL, MOVE_ICE_PUNCH, MOVE_THUNDER, MOVE_GIGA_DRAIN}
     }
 };
@@ -14963,7 +14963,7 @@ static const struct TrainerMon sParty_Craig[] = {
     .heldItem = ITEM_AGUAV_BERRY,
     .ability = ABILITY_SLOT_1,
     .evs = {252, 0, 132, 0, 72, 52},
-    .shiny = TRUE
+    .shiny = TRUE,
     .moves = {MOVE_GRASS_WHISTLE, MOVE_GIGA_DRAIN, MOVE_LEECH_SEED, MOVE_REFLECT}
     },
     {
@@ -14974,7 +14974,7 @@ static const struct TrainerMon sParty_Craig[] = {
     .heldItem = ITEM_CHOICE_BAND,
     .ability = ABILITY_SLOT_1,
     .evs = {76, 252, 0, 180, 0, 0},
-    .shiny = TRUE
+    .shiny = TRUE,
     .moves = {MOVE_ROCK_SLIDE, MOVE_EARTHQUAKE, MOVE_DOUBLE_EDGE, MOVE_AERIAL_ACE}
     },
     {
@@ -14985,7 +14985,7 @@ static const struct TrainerMon sParty_Craig[] = {
     .heldItem = ITEM_LEFTOVERS,
     .ability = ABILITY_SLOT_1,
     .evs = {252, 0, 252, 0, 4, 0},
-    .shiny = TRUE
+    .shiny = TRUE,
     .moves = {MOVE_SURF, MOVE_ICE_BEAM, MOVE_RECOVER, MOVE_HYPNOSIS}
     },
     {
@@ -14996,7 +14996,7 @@ static const struct TrainerMon sParty_Craig[] = {
     .heldItem = ITEM_LUM_BERRY,
     .ability = ABILITY_SLOT_1,
     .evs = {40, 0, 0, 216, 252, 0},
-    .shiny = TRUE
+    .shiny = TRUE,
     .moves = {MOVE_CRUNCH, MOVE_DRAGON_CLAW, MOVE_THUNDERBOLT, MOVE_BRICK_BREAK}
     },
     {
@@ -15007,7 +15007,7 @@ static const struct TrainerMon sParty_Craig[] = {
     .heldItem = ITEM_MAGNET,
     .ability = ABILITY_SLOT_1,
     .evs = {76, 0, 0, 252, 180, 0},
-    .shiny = TRUE
+    .shiny = TRUE,
     .moves = {MOVE_THUNDERBOLT, MOVE_HELPING_HAND, MOVE_SHADOW_BALL, MOVE_HIDDEN_POWER}
     },
     {
@@ -15018,7 +15018,7 @@ static const struct TrainerMon sParty_Craig[] = {
     .heldItem = ITEM_WHITE_HERB,
     .ability = ABILITY_SLOT_1,
     .evs = {252, 0, 12, 152, 32, 60},
-    .shiny = TRUE
+    .shiny = TRUE,
     .moves = {MOVE_OVERHEAT, MOVE_HELPING_HAND, MOVE_EXTREME_SPEED, MOVE_PROTECT}
     }
 };
@@ -15033,7 +15033,7 @@ static const struct TrainerMon sParty_Weebra[] = {
     .heldItem = ITEM_LUM_BERRY,
     .ability = ABILITY_SLOT_1,
     .evs = {0, 0, 0, 252, 252, 0},
-    .shiny = TRUE
+    .shiny = TRUE,
     .moves = {MOVE_RAIN_DANCE, MOVE_THUNDER, MOVE_SECRET_POWER, MOVE_ICE_PUNCH}
     },
     {
@@ -15044,7 +15044,7 @@ static const struct TrainerMon sParty_Weebra[] = {
     .heldItem = ITEM_LEFTOVERS,
     .ability = ABILITY_SLOT_1,
     .evs = {0, 0, 0, 252, 252, 0},
-    .shiny = TRUE
+    .shiny = TRUE,
     .moves = {MOVE_FAKE_OUT, MOVE_TEETER_DANCE, MOVE_SURF, MOVE_GIGA_DRAIN}
     },
     {
@@ -15055,7 +15055,7 @@ static const struct TrainerMon sParty_Weebra[] = {
     .heldItem = ITEM_BRIGHT_POWDER,
     .ability = ABILITY_SLOT_1,
     .evs = {0, 0, 0, 252, 252, 0},
-    .shiny = TRUE
+    .shiny = TRUE,
     .moves = {MOVE_THUNDER, MOVE_SHADOW_BALL, MOVE_ICE_PUNCH, MOVE_MEAN_LOOK}
     },
     {
@@ -15066,7 +15066,7 @@ static const struct TrainerMon sParty_Weebra[] = {
     .heldItem = ITEM_SCOPE_LENS,
     .ability = ABILITY_SLOT_1,
     .evs = {0, 252, 0, 252, 0, 0},
-    .shiny = TRUE
+    .shiny = TRUE,
     .moves = {MOVE_EXPLOSION, MOVE_BRICK_BREAK, MOVE_METEOR_MASH, MOVE_EARTHQUAKE}
     },
     {
@@ -15077,7 +15077,7 @@ static const struct TrainerMon sParty_Weebra[] = {
     .heldItem = ITEM_SOUL_DEW,
     .ability = ABILITY_SLOT_1,
     .evs = {0, 0, 0, 252, 252, 0},
-    .shiny = TRUE
+    .shiny = TRUE,
     .moves = {MOVE_PSYCHIC, MOVE_THUNDER, MOVE_REFLECT, MOVE_DRAGON_CLAW}
     },
     {
@@ -15088,7 +15088,7 @@ static const struct TrainerMon sParty_Weebra[] = {
     .heldItem = ITEM_KINGS_ROCK,
     .ability = ABILITY_SLOT_1,
     .evs = {252, 0, 0, 252, 0, 0},
-    .shiny = TRUE
+    .shiny = TRUE,
     .moves = {MOVE_FAKE_OUT, MOVE_TRIPLE_KICK, MOVE_BULK_UP, MOVE_ROCK_SLIDE}
     }
 };
