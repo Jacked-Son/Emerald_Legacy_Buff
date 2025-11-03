@@ -74,7 +74,7 @@ OldaleTown_PokemonCenter_1F_Text_TrainersCanUsePCHard:
 	.string "It's important to choose which items\n"
 	.string "and POKéMON to keep with you.\p"
 	.string "You'll lose some of your items\n"
-	.string "and money if you white out!\$"
+	.string "and money if you white out!$"
 
 OldaleTown_PokemonCenter_1F_Text_PokemonCentersAreGreat:
 	.string "POKéMON CENTERS are great!\p"
