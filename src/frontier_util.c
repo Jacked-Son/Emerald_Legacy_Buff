@@ -1889,21 +1889,21 @@ static void GiveBattlePoints(void)
     if (challengeNum >= ARRAY_COUNT(sBattlePointAwards))
         challengeNum = ARRAY_COUNT(sBattlePointAwards) - 1;
 
-    points = sBattlePointAwards[challengeNum][facility][battleMode];
+    points = sBattlePointAwards[challengeNum][facility][battleMode] * 2;
     if (gTrainerBattleOpponent_A == TRAINER_FRONTIER_BRAIN)
-        points += 10;
+        points += 20;
     gSaveBlock2Ptr->frontier.battlePoints += points;
     ConvertIntToDecimalStringN(gStringVar1, points, STR_CONV_MODE_LEFT_ALIGN, 2);
     if (gSaveBlock2Ptr->frontier.battlePoints > MAX_BATTLE_FRONTIER_POINTS)
         gSaveBlock2Ptr->frontier.battlePoints = MAX_BATTLE_FRONTIER_POINTS;
 
     points = gSaveBlock2Ptr->frontier.cardBattlePoints;
-    points += sBattlePointAwards[challengeNum][facility][battleMode];
-    IncrementDailyBattlePoints(sBattlePointAwards[challengeNum][facility][battleMode]);
+    points += sBattlePointAwards[challengeNum][facility][battleMode] * 2;
+    IncrementDailyBattlePoints(sBattlePointAwards[challengeNum][facility][battleMode] * 2);
     if (gTrainerBattleOpponent_A == TRAINER_FRONTIER_BRAIN)
     {
-        points += 10;
-        IncrementDailyBattlePoints(10);
+        points += 20;
+        IncrementDailyBattlePoints(20);
     }
     if (points > 0xFFFF)
         points = 0xFFFF;

@@ -1,12 +1,7 @@
 .set LOCALID_RAIKOU1, 44
 
 Route123_MapScripts::
-	map_script MAP_SCRIPT_ON_TRANSITION, Route123_OnTransition
 	.byte 0
-
-Route123_OnTransition:
-	special SetRoute123Weather
-	end
 
 Route123_EventScript_GigaDrainGirl::
 	lock

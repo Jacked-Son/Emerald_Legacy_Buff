@@ -793,6 +793,22 @@ bool8 SetDiveWarpDive(u16 x, u16 y)
     return SetDiveWarp(CONNECTION_DIVE, x, y);
 }
 
+static void Task_DoWeatherAfterDelay(u8 taskId)
+{
+    if (--gTasks[taskId].tDelay == 0)
+    {
+        DoCurrentWeather();
+        DestroyTask(taskId);
+    }
+}
+
+static void DelayedDoWeather(void)
+{
+    u16 delay2 = (Random() % 2400) + 300; // ~5–45 seconds
+    u8 taskId = CreateTask(Task_DoWeatherAfterDelay, 255);
+    gTasks[taskId].tDelay = delay2;
+}
+
 void LoadMapFromCameraTransition(u8 mapGroup, u8 mapNum)
 {
     s32 paletteIndex;
@@ -827,7 +843,7 @@ void LoadMapFromCameraTransition(u8 mapGroup, u8 mapNum)
     InitSecondaryTilesetAnimation();
     UpdateLocationHistoryForRoamer();
     RoamerMove();
-    DoCurrentWeather();
+    DelayedDoWeather();
     ResetFieldTasksArgs();
     RunOnResumeMapScript();
 

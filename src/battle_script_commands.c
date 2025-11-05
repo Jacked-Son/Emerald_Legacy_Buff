@@ -3452,13 +3452,13 @@ static void Cmd_getexp(void)
                         if (GetMonData(&gPlayerParty[gBattleStruct->expGetterMonId], MON_DATA_LEVEL) < getLevelCap())
                             gBattleMoveDamage = (gBattleMoveDamage*1);
                         else if (GetMonData(&gPlayerParty[gBattleStruct->expGetterMonId], MON_DATA_LEVEL) == getLevelCap())
-                            gBattleMoveDamage = ((gBattleMoveDamage * 12) / 100) + 1;
+                            gBattleMoveDamage = ((gBattleMoveDamage * 20) / 100) + 1;
                         else if (GetMonData(&gPlayerParty[gBattleStruct->expGetterMonId], MON_DATA_LEVEL) == getLevelCap() + 1)
-                            gBattleMoveDamage = ((gBattleMoveDamage * 9) / 100) + 1;    // 1 above cap
+                            gBattleMoveDamage = ((gBattleMoveDamage * 15) / 100) + 1;    // 1 above cap
                         else if (GetMonData(&gPlayerParty[gBattleStruct->expGetterMonId], MON_DATA_LEVEL) == getLevelCap() + 2)
-                             gBattleMoveDamage = ((gBattleMoveDamage * 6) / 100) + 1;    // 2 above cap
+                             gBattleMoveDamage = ((gBattleMoveDamage * 10) / 100) + 1;    // 2 above cap
                         else
-                         gBattleMoveDamage = ((gBattleMoveDamage * 3) / 100) + 1;    // 3+ above cap
+                         gBattleMoveDamage = ((gBattleMoveDamage * 5) / 100) + 1;    // 3+ above cap
                     }
 
                     // get exp getter battlerId

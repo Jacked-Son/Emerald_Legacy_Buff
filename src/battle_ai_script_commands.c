@@ -1740,6 +1740,11 @@ static void Cmd_if_can_faint(void)
     gCurrentMove = AI_THINKING_STRUCT->moveConsidered;
     AI_CalcDmg(sBattler_AI, gBattlerTarget);
     TypeCalc(gCurrentMove, sBattler_AI, gBattlerTarget);
+    if (gMoveResultFlags & MOVE_RESULT_DOESNT_AFFECT_FOE)
+    {
+        gAIScriptPtr += 9;
+        return;
+    }
 
     gBattleMoveDamage = gBattleMoveDamage * AI_THINKING_STRUCT->simulatedRNG[AI_THINKING_STRUCT->movesetIndex] / 100;
 
@@ -1754,7 +1759,7 @@ static void Cmd_if_can_faint(void)
     if (targetHp <= gBattleMoveDamage)
         gAIScriptPtr = T2_READ_PTR(gAIScriptPtr + 1);
 
-    else if (remainingHp <= ((maxHealth+1)/4))
+    else if (remainingHp <= ((maxHealth+1)/3))
         gAIScriptPtr = T2_READ_PTR(gAIScriptPtr + 5);
 
     else

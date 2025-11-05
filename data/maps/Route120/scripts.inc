@@ -58,33 +58,7 @@ Route120_EventScript_SetBridgeKecleonMovement::
 
 Route120_OnTransition:
 	call GabbyAndTy_EventScript_UpdateLocation
-	call Route120_EventScript_SetWeather
 	end
-
-Route120_EventScript_SetWeather::
-	getplayerxy VAR_TEMP_0, VAR_TEMP_1
-	goto_if_le VAR_TEMP_1, 14, Route120_EventScript_SetSunnyWeather
-	goto_if_le VAR_TEMP_1, 60, Route120_EventScript_TrySetRainyWeather
-	goto_if_ge VAR_TEMP_1, 61, Route120_EventScript_SetCloudyWeather
-	return
-
-Route120_EventScript_SetCloudyWeather::
-	setweather WEATHER_SUNNY_CLOUDS
-	return
-
-Route120_EventScript_SetSunnyWeather::
-	setweather WEATHER_SUNNY
-	return
-
-Route120_EventScript_TrySetRainyWeather::
-	goto_if_le VAR_TEMP_0, 7, Route120_EventScript_SetRainyWeather
-	goto_if_le VAR_TEMP_0, 19, Route120_EventScript_SetSunnyWeather
-	goto Route120_EventScript_SetRainyWeather
-	end
-
-Route120_EventScript_SetRainyWeather::
-	setweather WEATHER_RAIN
-	return
 
 Route120_EventScript_BerryBeauty::
 	lock

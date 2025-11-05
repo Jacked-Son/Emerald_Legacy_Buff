@@ -2577,21 +2577,25 @@ void ResumePausedWeather(void)
     SetCurrentAndNextWeather(weather);
 }
 
-#define WEATHER_CYCLE_LENGTH  4
+#define WEATHER_CYCLE_LENGTH  6
 
 static const u8 sWeatherCycleRoute119[WEATHER_CYCLE_LENGTH] =
 {
     WEATHER_SUNNY,
+    WEATHER_NONE,
+    WEATHER_SUNNY_CLOUDS,
     WEATHER_RAIN,
     WEATHER_RAIN_THUNDERSTORM,
-    WEATHER_RAIN,
+    WEATHER_RAIN_THUNDERSTORM,
 };
 static const u8 sWeatherCycleRoute123[WEATHER_CYCLE_LENGTH] =
 {
     WEATHER_SUNNY,
     WEATHER_SUNNY,
+    WEATHER_NONE,
+    WEATHER_SUNNY_CLOUDS,
     WEATHER_RAIN,
-    WEATHER_SUNNY,
+    WEATHER_RAIN,
 };
 
 static u8 TranslateWeatherNum(u8 weather)
