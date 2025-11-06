@@ -2352,7 +2352,7 @@ void ShowScrollableMultichoice(void)
         break;
     case SCROLL_MULTI_BF_EXCHANGE_CORNER_VITAMIN_VENDOR:
         task->tMaxItemsOnScreen = MAX_SCROLL_MULTI_ON_SCREEN;
-        task->tNumItems = 8;
+        task->tNumItems = 9;
         task->tLeft = 14;
         task->tTop = 1;
         task->tWidth = 15;
@@ -2362,7 +2362,7 @@ void ShowScrollableMultichoice(void)
         break;
     case SCROLL_MULTI_BF_EXCHANGE_CORNER_HOLD_ITEM_VENDOR:
         task->tMaxItemsOnScreen = MAX_SCROLL_MULTI_ON_SCREEN;
-        task->tNumItems = 11;
+        task->tNumItems = 27;
         task->tLeft = 14;
         task->tTop = 1;
         task->tWidth = 15;

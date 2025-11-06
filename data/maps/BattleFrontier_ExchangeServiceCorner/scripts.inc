@@ -327,7 +327,7 @@ BattleFrontier_ExchangeServiceCorner_EventScript_PpMax::
 BattleFrontier_ExchangeServiceCorner_EventScript_RareCandy::
 	msgbox BattleFrontier_ExchangeServiceCorner_Text_ConfirmRareCandy, MSGBOX_YESNO
 	goto_if_eq VAR_RESULT, NO, BattleFrontier_ExchangeServiceCorner_EventScript_ChooseVitamin
-	setvar VAR_0x8008, 24
+	setvar VAR_0x8008, 8
 	setvar VAR_0x8009, ITEM_RARE_CANDY
 	goto BattleFrontier_ExchangeServiceCorner_EventScript_TryPurchasePrize
 	end

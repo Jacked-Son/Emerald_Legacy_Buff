@@ -15,7 +15,7 @@ static const struct TrainerMon sParty_Sawyer1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_GRAVELER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Aqua Hideout Entrance GruntM
@@ -24,7 +24,7 @@ static const struct TrainerMon sParty_GruntAquaHideout1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 39,
     .species = SPECIES_ELECTRODE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Aqua Hideout B1F 3 GruntM
@@ -33,13 +33,13 @@ static const struct TrainerMon sParty_GruntAquaHideout2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_WAILMER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_SEADRA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Aqua Hideout B1F 6 GruntM
@@ -48,7 +48,7 @@ static const struct TrainerMon sParty_GruntAquaHideout3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 40,
     .species = SPECIES_WAILMER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Aqua Hideout Submarine Room 1 GruntM
@@ -57,7 +57,7 @@ static const struct TrainerMon sParty_GruntAquaHideout4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 39,
     .species = SPECIES_SNEASEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -66,7 +66,7 @@ static const struct TrainerMon sParty_GruntSeafloorCavern1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 47,
     .species = SPECIES_SEVIPER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -75,7 +75,7 @@ static const struct TrainerMon sParty_GruntSeafloorCavern2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 47,
     .species = SPECIES_ELECTRODE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -84,7 +84,7 @@ static const struct TrainerMon sParty_GruntSeafloorCavern3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 47,
     .species = SPECIES_GOLBAT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Mt Pyre Interior 3F BreederF
@@ -93,25 +93,25 @@ static const struct TrainerMon sParty_Gabrielle1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 32,
     .species = SPECIES_SHUPPET,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 32,
     .species = SPECIES_DUSKULL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 32,
     .species = SPECIES_NATU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 32,
     .species = SPECIES_CHIMECHO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Petalburg Woods Team Aqua Grunt 
@@ -120,13 +120,13 @@ static const struct TrainerMon sParty_GruntPetalburgWoods[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 11,
     .species = SPECIES_POOCHYENA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 11,
     .species = SPECIES_CARVANHA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 121 CooltrainerM
@@ -135,13 +135,13 @@ static const struct TrainerMon sParty_Marcel[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 35,
     .species = SPECIES_HERACROSS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 35,
     .species = SPECIES_GIRAFARIG,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 123 (via 122 from Mt Pyre) Bird Keeper
@@ -150,13 +150,13 @@ static const struct TrainerMon sParty_Alberto[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_PELIPPER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_XATU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 123 (via 122 from Mt Pyre) Collector
@@ -165,13 +165,13 @@ static const struct TrainerMon sParty_Ed[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_ZANGOOSE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_SEVIPER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -180,7 +180,7 @@ static const struct TrainerMon sParty_GruntSeafloorCavern4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 47,
     .species = SPECIES_MUK,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 124 SwimmerM
@@ -189,7 +189,7 @@ static const struct TrainerMon sParty_Declan[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 40,
     .species = SPECIES_GYARADOS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Rusturf Tunnel Aqua Grunt
@@ -198,13 +198,13 @@ static const struct TrainerMon sParty_GruntRusturfTunnel[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 12,
     .species = SPECIES_POOCHYENA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 13,
     .species = SPECIES_CARVANHA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Weather Institute Aqua Grunt (1st floor)
@@ -213,13 +213,13 @@ static const struct TrainerMon sParty_GruntWeatherInst1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_GOLBAT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_TENTACOOL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Weather Institute Aqua Grunt (2nd floor double battle)
@@ -228,13 +228,13 @@ static const struct TrainerMon sParty_GruntWeatherInst2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_MIGHTYENA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_TENTACOOL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Weather Institute Aqua Grunt (2nd floor)
@@ -243,19 +243,19 @@ static const struct TrainerMon sParty_GruntWeatherInst3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_GRIMER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_VOLTORB,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_GRIMER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Slateport Museum Grunt 1
@@ -264,13 +264,13 @@ static const struct TrainerMon sParty_GruntMuseum1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 18,
     .species = SPECIES_CARVANHA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 19,
     .species = SPECIES_ZUBAT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Slateport Museum Grunt 2
@@ -279,13 +279,13 @@ static const struct TrainerMon sParty_GruntMuseum2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 19,
     .species = SPECIES_POOCHYENA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 20,
     .species = SPECIES_TENTACOOL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Space Center
@@ -294,7 +294,7 @@ static const struct TrainerMon sParty_GruntSpaceCenter1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_CAMERUPT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Mt Pyre Summit Magma Grunt 1
@@ -303,7 +303,7 @@ static const struct TrainerMon sParty_GruntMtPyre1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_CROBAT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Mt Pyre Summit Aqua Grunt 1
@@ -312,7 +312,7 @@ static const struct TrainerMon sParty_GruntMtPyre2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_SHARPEDO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // UNUSED Mt Pyre Summit Aqua GruntM 3 (Double Battle w GruntF)
@@ -321,13 +321,13 @@ static const struct TrainerMon sParty_GruntMtPyre3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_TENTACRUEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_SEVIPER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Weather Institute Aqua GruntF (1st floor)
@@ -336,7 +336,7 @@ static const struct TrainerMon sParty_GruntWeatherInst4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 32,
     .species = SPECIES_SEVIPER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Aqua Hideout B1F 3 GruntF
@@ -345,7 +345,7 @@ static const struct TrainerMon sParty_GruntAquaHideout5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_MUK,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Aqua Hideout Submarine Room 4 GruntF (Double)
@@ -354,13 +354,13 @@ static const struct TrainerMon sParty_GruntAquaHideout6[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_TENTACRUEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_GOLBAT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 123 (via 122 from Mt Pyre) Expert
@@ -369,13 +369,13 @@ static const struct TrainerMon sParty_Fredrick[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 35,
     .species = SPECIES_HARIYAMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_MACHOKE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Aqua Hideout Aqua Admin 
@@ -415,7 +415,7 @@ static const struct TrainerMon sParty_Zander[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_HARIYAMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Weather Institute Aqua Admin 
@@ -518,7 +518,7 @@ static const struct TrainerMon sParty_Leah[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_GRUMPIG,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 103 Aroma Lady
@@ -527,13 +527,13 @@ static const struct TrainerMon sParty_Daisy[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 18,
     .species = SPECIES_SHROOMISH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 18,
     .species = SPECIES_ROSELIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Route 118 Mauville Aroma Lady
@@ -542,19 +542,19 @@ static const struct TrainerMon sParty_Rose1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 19,
     .species = SPECIES_ODDISH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 18,
     .species = SPECIES_SHROOMISH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 20,
     .species = SPECIES_ROSELIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Victory Road CooltrainerM
@@ -587,13 +587,13 @@ static const struct TrainerMon sParty_Violet[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_ROSELIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_GLOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -602,19 +602,19 @@ static const struct TrainerMon sParty_Rose2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_GLOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_BRELOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_ROSELIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -623,19 +623,19 @@ static const struct TrainerMon sParty_Rose3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_GLOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_BRELOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_ROSELIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -644,31 +644,31 @@ static const struct TrainerMon sParty_Rose4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 51,
     .species = SPECIES_VILEPLUME,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 50,
     .species = SPECIES_BRELOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 50,
     .species = SPECIES_VICTREEBEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 50,
     .species = SPECIES_JUMPLUFF,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 51,
     .species = SPECIES_ROSELIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -815,7 +815,7 @@ static const struct TrainerMon sParty_Dusty5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 61,
     .species = SPECIES_DUGTRIO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
@@ -831,13 +831,13 @@ static const struct TrainerMon sParty_GabbyAndTy1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 24,
     .species = SPECIES_MAGNEMITE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 24,
     .species = SPECIES_WHISMUR,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Route 118 East Interviewer
@@ -846,13 +846,13 @@ static const struct TrainerMon sParty_GabbyAndTy2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_MAGNEMITE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_LOUDRED,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 120 Interviewer
@@ -861,13 +861,13 @@ static const struct TrainerMon sParty_GabbyAndTy3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_MAGNETON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_LOUDRED,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -876,13 +876,13 @@ static const struct TrainerMon sParty_GabbyAndTy4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_MAGNETON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_LOUDRED,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -891,13 +891,13 @@ static const struct TrainerMon sParty_GabbyAndTy5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_MAGNETON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_LOUDRED,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -923,13 +923,13 @@ static const struct TrainerMon sParty_Lola1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 14,
     .species = SPECIES_AZURILL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 16,
     .species = SPECIES_MARILL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Route 109 Surf TuberF 1
@@ -938,7 +938,7 @@ static const struct TrainerMon sParty_Austina[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_AZUMARILL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Route 109 Surf TuberF 2
@@ -947,7 +947,7 @@ static const struct TrainerMon sParty_Gwen[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_AZUMARILL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -956,13 +956,13 @@ static const struct TrainerMon sParty_Lola2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_MARILL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_AZUMARILL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -971,13 +971,13 @@ static const struct TrainerMon sParty_Lola3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_AZUMARILL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_AZUMARILL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -986,13 +986,13 @@ static const struct TrainerMon sParty_Lola4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 46,
     .species = SPECIES_AZUMARILL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 46,
     .species = SPECIES_AZUMARILL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -1001,13 +1001,13 @@ static const struct TrainerMon sParty_Lola5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 57,
     .species = SPECIES_AZUMARILL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 57,
     .species = SPECIES_AZUMARILL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 109 TuberM 1 (Potential Double Battle with Edmond or Hailey)
@@ -1026,13 +1026,13 @@ static const struct TrainerMon sParty_Simon[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 14,
     .species = SPECIES_CORPHISH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 16,
     .species = SPECIES_PSYDUCK,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Abandoned Ship TuberM
@@ -1173,19 +1173,19 @@ static const struct TrainerMon sParty_Vincent[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 55,
     .species = SPECIES_BANETTE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 54,
     .species = SPECIES_MEDICHAM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 55,
     .species = SPECIES_SHARPEDO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Trick House 8
@@ -1194,19 +1194,19 @@ static const struct TrainerMon sParty_Leroy[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 53,
     .species = SPECIES_MAWILE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 55,
     .species = SPECIES_STARMIE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 53,
     .species = SPECIES_FLYGON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 111 Northern End
@@ -1215,19 +1215,19 @@ static const struct TrainerMon sParty_Wilton1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 22,
     .species = SPECIES_ELECTRIKE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 23,
     .species = SPECIES_WAILMER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 22,
     .species = SPECIES_MAKUHITA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Victory Road CooltrainerM
@@ -1236,13 +1236,13 @@ static const struct TrainerMon sParty_Edgar[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 51,
     .species = SPECIES_CACTURNE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 51,
     .species = SPECIES_AGGRON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Victory Road CooltrainerM
@@ -1251,13 +1251,13 @@ static const struct TrainerMon sParty_Albert[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 51,
     .species = SPECIES_MAGNETON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 51,
     .species = SPECIES_MUK,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Victory Road CooltrainerM
@@ -1266,19 +1266,19 @@ static const struct TrainerMon sParty_Samuel[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 49,
     .species = SPECIES_SWELLOW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 50,
     .species = SPECIES_MAWILE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 49,
     .species = SPECIES_ALAKAZAM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Victory Road CooltrainerM Winstrate
@@ -1318,19 +1318,19 @@ static const struct TrainerMon sParty_Owen[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 50,
     .species = SPECIES_KECLEON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 49,
     .species = SPECIES_GOLEM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_WAILORD,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -1339,19 +1339,19 @@ static const struct TrainerMon sParty_Wilton2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_ELECTRIKE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_WAILMER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_HARIYAMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -1360,19 +1360,19 @@ static const struct TrainerMon sParty_Wilton3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 39,
     .species = SPECIES_MANECTRIC,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 39,
     .species = SPECIES_WAILMER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 39,
     .species = SPECIES_HARIYAMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -1381,19 +1381,19 @@ static const struct TrainerMon sParty_Wilton4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 52,
     .species = SPECIES_MANECTRIC,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 52,
     .species = SPECIES_WAILORD,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 52,
     .species = SPECIES_HARIYAMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -1402,19 +1402,19 @@ static const struct TrainerMon sParty_Wilton5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 58,
     .species = SPECIES_MANECTRIC,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 57,
     .species = SPECIES_WAILORD,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 58,
     .species = SPECIES_HARIYAMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 133 CooltrainerM
@@ -1423,19 +1423,19 @@ static const struct TrainerMon sParty_Warren[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 46,
     .species = SPECIES_GOLEM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 46,
     .species = SPECIES_LAIRON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 46,
     .species = SPECIES_SHIFTRY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Petalburg Gym CooltrainerF Accuracy Room
@@ -1501,19 +1501,19 @@ static const struct TrainerMon sParty_Keira[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 53,
     .species = SPECIES_AGGRON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 53,
     .species = SPECIES_MANECTRIC,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 53,
     .species = SPECIES_MILOTIC,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 111 Northern End
@@ -1522,19 +1522,19 @@ static const struct TrainerMon sParty_Brooke1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 23,
     .species = SPECIES_WINGULL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 23,
     .species = SPECIES_NUMEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 23,
     .species = SPECIES_ROSELIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 120 CooltrainerF
@@ -1543,7 +1543,7 @@ static const struct TrainerMon sParty_Jennifer[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_SWALOT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Victory Road CooltrainerF
@@ -1552,7 +1552,7 @@ static const struct TrainerMon sParty_Hope[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 51,
     .species = SPECIES_ROSELIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Victory Road CooltrainerF
@@ -1561,7 +1561,7 @@ static const struct TrainerMon sParty_Shannon[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 52,
     .species = SPECIES_CLAYDOL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Victory Road CooltrainerF
@@ -1570,19 +1570,19 @@ static const struct TrainerMon sParty_Michelle[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 50,
     .species = SPECIES_TORKOAL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 50,
     .species = SPECIES_MEDICHAM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 50,
     .species = SPECIES_LUDICOLO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Victory Road CooltrainerF
@@ -1591,13 +1591,13 @@ static const struct TrainerMon sParty_Caroline[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 50,
     .species = SPECIES_SKARMORY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 50,
     .species = SPECIES_SABLEYE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Victory Road CooltrainerF
@@ -1606,19 +1606,19 @@ static const struct TrainerMon sParty_Julie[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 49,
     .species = SPECIES_SANDSLASH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 49,
     .species = SPECIES_NINETALES,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 49,
     .species = SPECIES_TROPIUS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -1627,19 +1627,19 @@ static const struct TrainerMon sParty_Brooke2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_PELIPPER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_NUMEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_ROSELIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -1648,19 +1648,19 @@ static const struct TrainerMon sParty_Brooke3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_PELIPPER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_NUMEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_ROSELIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -1669,19 +1669,19 @@ static const struct TrainerMon sParty_Brooke4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 47,
     .species = SPECIES_PELIPPER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 49,
     .species = SPECIES_NUMEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 50,
     .species = SPECIES_ROSELIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -1690,19 +1690,19 @@ static const struct TrainerMon sParty_Brooke5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 61,
     .species = SPECIES_PELIPPER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 62,
     .species = SPECIES_CAMERUPT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 62,
     .species = SPECIES_ROSELIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Trick Room 7
@@ -1711,13 +1711,13 @@ static const struct TrainerMon sParty_Patricia[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_BANETTE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_LUNATONE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 123 (via 122 from Mt Pyre) Hex Maniac
@@ -1726,13 +1726,13 @@ static const struct TrainerMon sParty_Kindra[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_DUSKULL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_SHUPPET,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 121 Hex Maniac
@@ -1741,13 +1741,13 @@ static const struct TrainerMon sParty_Tammy[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_DUSKULL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_SHUPPET,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Mt Pyre Interior 6F Hex Maniac
@@ -1756,7 +1756,7 @@ static const struct TrainerMon sParty_Valerie1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_SABLEYE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Mt Pyre Interior 4F Hex Maniac
@@ -1765,7 +1765,7 @@ static const struct TrainerMon sParty_Tasha[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_SHUPPET,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -1774,13 +1774,13 @@ static const struct TrainerMon sParty_Valerie2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_SABLEYE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_GRUMPIG,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -1789,13 +1789,13 @@ static const struct TrainerMon sParty_Valerie3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 40,
     .species = SPECIES_GRUMPIG,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 40,
     .species = SPECIES_SABLEYE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -1804,13 +1804,13 @@ static const struct TrainerMon sParty_Valerie4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_GRUMPIG,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_SABLEYE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -1876,8 +1876,8 @@ static const struct TrainerMon sParty_Cindy1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 10,
     .species = SPECIES_SKITTY,
-    .heldItem = ITEM_NUGGET
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_NUGGET,
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Sootopolis Gym Lady 1 (Middle Level - Double Battle w Annika)
@@ -1905,19 +1905,19 @@ static const struct TrainerMon sParty_GruntSpaceCenter2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_MIGHTYENA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_GOLEM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_MAGCARGO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -1937,8 +1937,8 @@ static const struct TrainerMon sParty_Brianna[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_SEAKING,
-    .heldItem = ITEM_NUGGET
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_NUGGET,
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // SS Tidal Aroma Lady (nat dex)
@@ -1947,15 +1947,15 @@ static const struct TrainerMon sParty_Naomi[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 56,
     .species = SPECIES_SUNFLORA,
-    .heldItem = ITEM_SUN_STONE
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_SUN_STONE,
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 56,
     .species = SPECIES_SKIPLOOM,
-    .heldItem = ITEM_NONE
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_NONE,
+    .evs = {84, 84, 84, 84, 84, 84}
     },
 };
 
@@ -2008,7 +2008,7 @@ static const struct TrainerMon sParty_Melissa[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_AZUMARILL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Mt Chimney  Beauty 2
@@ -2017,7 +2017,7 @@ static const struct TrainerMon sParty_Sheila[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 27,
     .species = SPECIES_BRELOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Mt Chimney Beauty 3
@@ -2026,7 +2026,7 @@ static const struct TrainerMon sParty_Shirley[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 27,
     .species = SPECIES_SPOINK,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 121 Beauty
@@ -2052,7 +2052,7 @@ static const struct TrainerMon sParty_Connie[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 47,
     .species = SPECIES_WALREIN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Sootopolis Gym Beauty 4 (Highest Level - Double Battle w Brianna)
@@ -2061,7 +2061,7 @@ static const struct TrainerMon sParty_Bridget[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 49,
     .species = SPECIES_AZUMARILL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Sootopolis Gym Beauty 3 (Highest Level - Double Battle w Bethany)
@@ -2094,13 +2094,13 @@ static const struct TrainerMon sParty_Tiffany[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_SHARPEDO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 49,
     .species = SPECIES_SHARPEDO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -2184,8 +2184,8 @@ static const struct TrainerMon sParty_Winston1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 10,
     .species = SPECIES_SLAKOTH,
-    .heldItem = ITEM_NUGGET
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_NUGGET,
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 133 ExpertF
@@ -2194,13 +2194,13 @@ static const struct TrainerMon sParty_Mollie[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 47,
     .species = SPECIES_ROSELIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_MEDICHAM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // SS Tidal Rich Boy (nat dex)
@@ -2209,15 +2209,15 @@ static const struct TrainerMon sParty_Garret[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 53,
     .species = SPECIES_CHANSEY,
-    .heldItem = ITEM_NUGGET
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_NUGGET,
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 53,
     .species = SPECIES_PERSIAN,
-    .heldItem = ITEM_NUGGET
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_NUGGET,
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -2226,8 +2226,8 @@ static const struct TrainerMon sParty_Winston2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 32,
     .species = SPECIES_VIGOROTH,
-    .heldItem = ITEM_NUGGET
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_NUGGET,
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -2236,15 +2236,15 @@ static const struct TrainerMon sParty_Winston3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 35,
     .species = SPECIES_VIGOROTH,
-    .heldItem = ITEM_NUGGET
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_NUGGET,
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 35,
     .species = SPECIES_VIGOROTH,
-    .heldItem = ITEM_NUGGET
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_NUGGET,
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -2323,7 +2323,7 @@ static const struct TrainerMon sParty_Steve1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 25,
     .species = SPECIES_SEVIPER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Abandoned Ship Beauty
@@ -2332,13 +2332,13 @@ static const struct TrainerMon sParty_Thalia1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 32,
     .species = SPECIES_ROSELIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 32,
     .species = SPECIES_SWABLU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Mt Pyre Interior 2F Pokemaniac
@@ -2347,7 +2347,7 @@ static const struct TrainerMon sParty_Mark[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_RHYHORN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Mt Chimney GruntF (double)
@@ -2356,7 +2356,7 @@ static const struct TrainerMon sParty_GruntMtChimney1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_VULPIX,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -2364,8 +2364,8 @@ static const struct TrainerMon sParty_Steve2[] = {
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
-    .species = SPECIES_SEVIPER
-    .evs = {84, 84, 84, 84, 84, 84},
+    .species = SPECIES_SEVIPER,
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -2374,13 +2374,13 @@ static const struct TrainerMon sParty_Steve3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 40,
     .species = SPECIES_SEVIPER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 42,
     .species = SPECIES_RHYHORN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -2389,13 +2389,13 @@ static const struct TrainerMon sParty_Steve4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 49,
     .species = SPECIES_SEVIPER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 50,
     .species = SPECIES_RHYHORN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -2404,13 +2404,13 @@ static const struct TrainerMon sParty_Steve5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 61,
     .species = SPECIES_SEVIPER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 62,
     .species = SPECIES_RHYDON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 105 SwimmerM
@@ -2419,7 +2419,7 @@ static const struct TrainerMon sParty_Luis[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_CARVANHA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 105 SwimmerM
@@ -2428,7 +2428,7 @@ static const struct TrainerMon sParty_Dominik[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_TENTACOOL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 106 Surf SwimmerM
@@ -2437,13 +2437,13 @@ static const struct TrainerMon sParty_Douglas[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_TENTACOOL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_TENTACOOL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 107 SwimmerM
@@ -2452,19 +2452,19 @@ static const struct TrainerMon sParty_Darrin[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_TENTACOOL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_PELIPPER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_TENTACOOL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 107 SwimmerM
@@ -2473,7 +2473,7 @@ static const struct TrainerMon sParty_Tony1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 32,
     .species = SPECIES_CARVANHA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 108 SwimmerM
@@ -2482,7 +2482,7 @@ static const struct TrainerMon sParty_Jerome[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_TENTACRUEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 108 SwimmerM
@@ -2491,7 +2491,7 @@ static const struct TrainerMon sParty_Matthew[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_CARVANHA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Route 109 Surf SwimmerM
@@ -2500,13 +2500,13 @@ static const struct TrainerMon sParty_David[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_TENTACOOL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_CARVANHA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 124 SwimmerM
@@ -2515,13 +2515,13 @@ static const struct TrainerMon sParty_Spencer[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 39,
     .species = SPECIES_SEAKING,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 39,
     .species = SPECIES_PELIPPER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 124 SwimmerM
@@ -2530,7 +2530,7 @@ static const struct TrainerMon sParty_Roland[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 40,
     .species = SPECIES_LANTURN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 125 SwimmerM
@@ -2539,7 +2539,7 @@ static const struct TrainerMon sParty_Nolen[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 40,
     .species = SPECIES_TENTACRUEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 125 SwimmerM
@@ -2548,13 +2548,13 @@ static const struct TrainerMon sParty_Stan[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 40,
     .species = SPECIES_SEADRA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 40,
     .species = SPECIES_GYARADOS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 126 SwimmerM
@@ -2563,7 +2563,7 @@ static const struct TrainerMon sParty_Barry[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_GYARADOS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 126 SwimmerM
@@ -2572,19 +2572,19 @@ static const struct TrainerMon sParty_Dean[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 39,
     .species = SPECIES_SHARPEDO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 39,
     .species = SPECIES_CRAWDAUNT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 39,
     .species = SPECIES_CARVANHA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 130 SwimmerM
@@ -2593,7 +2593,7 @@ static const struct TrainerMon sParty_Rodney[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_GYARADOS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 131 SwimmerM
@@ -2602,7 +2602,7 @@ static const struct TrainerMon sParty_Richard[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 46,
     .species = SPECIES_PELIPPER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 131 SwimmerM 
@@ -2611,13 +2611,13 @@ static const struct TrainerMon sParty_Herman[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_PELIPPER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_TENTACRUEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 130 SwimmerM (Potential Double Battle with Katie)
@@ -2626,13 +2626,13 @@ static const struct TrainerMon sParty_Santiago[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_TENTACRUEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_WAILORD,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 132 SwimmerM
@@ -2641,7 +2641,7 @@ static const struct TrainerMon sParty_Gilbert[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 47,
     .species = SPECIES_SHARPEDO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 133 SwimmerM
@@ -2650,7 +2650,7 @@ static const struct TrainerMon sParty_Franklin[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_WALREIN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 131 SwimmerM
@@ -2659,7 +2659,7 @@ static const struct TrainerMon sParty_Kevin[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_RELICANTH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 134 SwimmerM
@@ -2668,7 +2668,7 @@ static const struct TrainerMon sParty_Jack[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 49,
     .species = SPECIES_GYARADOS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -2677,19 +2677,19 @@ static const struct TrainerMon sParty_Dudley[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_TENTACOOL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_WINGULL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_TENTACRUEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 124 SwimmerM
@@ -2698,13 +2698,13 @@ static const struct TrainerMon sParty_Chad[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 39,
     .species = SPECIES_TENTACRUEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_WAILMER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -2713,7 +2713,7 @@ static const struct TrainerMon sParty_Tony2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 33,
     .species = SPECIES_SHARPEDO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -2722,7 +2722,7 @@ static const struct TrainerMon sParty_Tony3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_SHARPEDO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -2731,13 +2731,13 @@ static const struct TrainerMon sParty_Tony4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 47,
     .species = SPECIES_STARMIE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 47,
     .species = SPECIES_SHARPEDO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -2746,25 +2746,25 @@ static const struct TrainerMon sParty_Tony5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 59,
     .species = SPECIES_WAILORD,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 60,
     .species = SPECIES_STARMIE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 59,
     .species = SPECIES_CRAWDAUNT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },    
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 60,
     .species = SPECIES_SHARPEDO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Dewford Gym Black Belt 1 (Bottom Left)
@@ -2773,13 +2773,13 @@ static const struct TrainerMon sParty_Takao[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 16,
     .species = SPECIES_MACHOP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 16,
     .species = SPECIES_MACHOP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 134 Black Belt
@@ -2788,19 +2788,19 @@ static const struct TrainerMon sParty_Hitoshi[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_HERACROSS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_MACHAMP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_BRELOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 132 Black Belt
@@ -2809,13 +2809,13 @@ static const struct TrainerMon sParty_Kiyo[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 46,
     .species = SPECIES_HARIYAMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 46,
     .species = SPECIES_MEDICHAM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
 };
 // Route 115 Surf Black Belt
@@ -2824,13 +2824,13 @@ static const struct TrainerMon sParty_Koichi[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 26,
     .species = SPECIES_MACHOP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 33,
     .species = SPECIES_MACHOKE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 115 Black Belt
@@ -2839,7 +2839,7 @@ static const struct TrainerMon sParty_Nob1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_MACHOKE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -2848,7 +2848,7 @@ static const struct TrainerMon sParty_Nob2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_MACHOKE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -2857,13 +2857,13 @@ static const struct TrainerMon sParty_Nob3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_MEDICHAM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_MACHAMP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -2872,19 +2872,19 @@ static const struct TrainerMon sParty_Nob4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 53,
     .species = SPECIES_HITMONCHAN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 53,
     .species = SPECIES_PRIMEAPE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 53,
     .species = SPECIES_MACHAMP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -2950,7 +2950,7 @@ static const struct TrainerMon sParty_Yuji[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_MEDICHAM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 111 Northern End (Mach Bike)
@@ -2959,7 +2959,7 @@ static const struct TrainerMon sParty_Daisuke[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 25,
     .species = SPECIES_MACHOP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Mt Pyre Interior 5F Black Belt
@@ -2968,7 +2968,7 @@ static const struct TrainerMon sParty_Atsushi[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_HARIYAMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Mauville Gym Guitarist 1
@@ -2994,13 +2994,13 @@ static const struct TrainerMon sParty_GruntAquaHideout7[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_ELECTRODE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_GOLBAT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Aqua Hideout Submarine Room 4 GruntM (Double)
@@ -3009,13 +3009,13 @@ static const struct TrainerMon sParty_GruntAquaHideout8[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_GYARADOS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_MURKROW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Mauville Gym Guitarist 2
@@ -3024,13 +3024,13 @@ static const struct TrainerMon sParty_Shawn[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 21,
     .species = SPECIES_VOLTORB,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 20,
     .species = SPECIES_MAGNEMITE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 123 (via 122 from Mt Pyre) Guitarist
@@ -3039,13 +3039,13 @@ static const struct TrainerMon sParty_Fernando1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_ELECTRODE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_LOUDRED,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Route 118 Mauville Guitarist
@@ -3054,13 +3054,13 @@ static const struct TrainerMon sParty_Dalton1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 20,
     .species = SPECIES_MAGNEMITE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 21,
     .species = SPECIES_WHISMUR,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -3069,13 +3069,13 @@ static const struct TrainerMon sParty_Dalton2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 27,
     .species = SPECIES_RAICHU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 27,
     .species = SPECIES_MAGNETON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -3084,19 +3084,19 @@ static const struct TrainerMon sParty_Dalton3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_PLUSLE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_MANECTRIC,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_MAGNETON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -3105,19 +3105,19 @@ static const struct TrainerMon sParty_Dalton4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 56,
     .species = SPECIES_MINUN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 56,
     .species = SPECIES_ELECTRODE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 57,
     .species = SPECIES_ELECTABUZZ,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -3183,7 +3183,7 @@ static const struct TrainerMon sParty_Cole[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_NUMEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Lavaridge Gym Kindler 1
@@ -3192,13 +3192,13 @@ static const struct TrainerMon sParty_Jeff[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_SLUGMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_SLUGMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Lavaridge Gym Kindler 4
@@ -3207,7 +3207,7 @@ static const struct TrainerMon sParty_Axle[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_NUMEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Lavaridge Gym Kindler 2
@@ -3216,7 +3216,7 @@ static const struct TrainerMon sParty_Jace[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_VULPIX,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Lavaridge Gym Kindler 5
@@ -3225,7 +3225,7 @@ static const struct TrainerMon sParty_Keegan[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_SLUGMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 114 Kindler
@@ -3234,13 +3234,13 @@ static const struct TrainerMon sParty_Bernie1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 27,
     .species = SPECIES_SLUGMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 27,
     .species = SPECIES_WINGULL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -3249,13 +3249,13 @@ static const struct TrainerMon sParty_Bernie2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 35,
     .species = SPECIES_MAGCARGO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 232,
     .species = SPECIES_HOUNDOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -3264,19 +3264,19 @@ static const struct TrainerMon sParty_Bernie3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_MAGCARGO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_RAPIDASH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_HOUNDOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -3285,19 +3285,19 @@ static const struct TrainerMon sParty_Bernie4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 53,
     .species = SPECIES_MAGCARGO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 54,
     .species = SPECIES_NINETALES,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 55,
     .species = SPECIES_HOUNDOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -3373,19 +3373,19 @@ static const struct TrainerMon sParty_Beau[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_BALTOY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_SANDSHREW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_TRAPINCH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 112 South Section Camper 1
@@ -3394,7 +3394,7 @@ static const struct TrainerMon sParty_Larry[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 24,
     .species = SPECIES_NUZLEAF,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 114 Camper 
@@ -3403,13 +3403,13 @@ static const struct TrainerMon sParty_Shane[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 26,
     .species = SPECIES_SANDSHREW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 26,
     .species = SPECIES_NUZLEAF,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Trick House 3 Camper
@@ -3418,7 +3418,7 @@ static const struct TrainerMon sParty_Justin[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 27,
     .species = SPECIES_MACHOKE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Jagged Pass Camper
@@ -3426,14 +3426,14 @@ static const struct TrainerMon sParty_Ethan1[] = {
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 27,
-    .species = SPECIES_SWELLOW
-    .evs = {84, 84, 84, 84, 84, 84},
+    .species = SPECIES_SWELLOW,
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 27,
     .species = SPECIES_LINOONE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Jagged Pass Picnicker 2
@@ -3442,7 +3442,7 @@ static const struct TrainerMon sParty_Autumn[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_BRELOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Route 111 Mid Camper
@@ -3451,7 +3451,7 @@ static const struct TrainerMon sParty_Travis[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 24,
     .species = SPECIES_SANDSHREW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -3459,14 +3459,14 @@ static const struct TrainerMon sParty_Ethan2[] = {
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 33,
-    .species = SPECIES_SWELLOW
-    .evs = {84, 84, 84, 84, 84, 84},
+    .species = SPECIES_SWELLOW,
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 33,
     .species = SPECIES_LINOONE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -3475,13 +3475,13 @@ static const struct TrainerMon sParty_Ethan3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 40,
     .species = SPECIES_LINOONE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_SWELLOW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -3490,19 +3490,19 @@ static const struct TrainerMon sParty_Ethan4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 47,
     .species = SPECIES_SANDSHREW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_SWELLOW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 49,
     .species = SPECIES_LINOONE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -3511,19 +3511,19 @@ static const struct TrainerMon sParty_Ethan5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 59,
     .species = SPECIES_SWELLOW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 59,
     .species = SPECIES_SANDSLASH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 59,
     .species = SPECIES_LINOONE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 119 Bug Maniac 3
@@ -3532,7 +3532,7 @@ static const struct TrainerMon sParty_Brent[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_MASQUERAIN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 119 Bug Maniac 1
@@ -3541,19 +3541,19 @@ static const struct TrainerMon sParty_Donald[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_WURMPLE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_SILCOON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_BEAUTIFLY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 119 Bug Maniac Taylor
@@ -3562,19 +3562,19 @@ static const struct TrainerMon sParty_Taylor[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_WURMPLE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_CASCOON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_DUSTOX,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 120 Bug Maniac
@@ -3583,19 +3583,19 @@ static const struct TrainerMon sParty_Jeffrey1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 32,
     .species = SPECIES_SURSKIT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 35,
     .species = SPECIES_MASQUERAIN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 32,
     .species = SPECIES_SURSKIT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 117 Bug Maniac
@@ -3604,13 +3604,13 @@ static const struct TrainerMon sParty_Derek[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 19,
     .species = SPECIES_DUSTOX,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 19,
     .species = SPECIES_BEAUTIFLY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -3619,19 +3619,19 @@ static const struct TrainerMon sParty_Jeffrey2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 34,
     .species = SPECIES_MASQUERAIN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 34,
     .species = SPECIES_MASQUERAIN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 34,
     .species = SPECIES_MASQUERAIN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -3640,19 +3640,19 @@ static const struct TrainerMon sParty_Jeffrey3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 42,
     .species = SPECIES_MASQUERAIN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 42,
     .species = SPECIES_MASQUERAIN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 42,
     .species = SPECIES_MASQUERAIN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -3661,25 +3661,25 @@ static const struct TrainerMon sParty_Jeffrey4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 50,
     .species = SPECIES_MASQUERAIN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 50,
     .species = SPECIES_DUSTOX,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 50,
     .species = SPECIES_MASQUERAIN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 50,
     .species = SPECIES_MASQUERAIN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -3688,36 +3688,36 @@ static const struct TrainerMon sParty_Jeffrey5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 62,
     .species = SPECIES_MASQUERAIN,
-    .heldItem = ITEM_NONE
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_NONE,
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 62,
     .species = SPECIES_DUSTOX,
-    .heldItem = ITEM_NONE
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_NONE,
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 62,
     .species = SPECIES_MASQUERAIN,
-    .heldItem = ITEM_NONE
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_NONE,
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 62,
     .species = SPECIES_MASQUERAIN,
-    .heldItem = ITEM_SILVER_POWDER
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_SILVER_POWDER,
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 62,
     .species = SPECIES_BEAUTIFLY,
-    .heldItem = ITEM_NONE
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_NONE,
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 110 PsychicM
@@ -3736,7 +3736,7 @@ static const struct TrainerMon sParty_Preston[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_GARDEVOIR,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Mossdeep Gym PsychicM 4 - Northwest (Double Battle w Nate or Sylvia)
@@ -3745,7 +3745,7 @@ static const struct TrainerMon sParty_Virgil[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_KADABRA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Mossdeep Gym PsychicM 2 - West Central (Double Battle w Samantha)
@@ -3754,7 +3754,7 @@ static const struct TrainerMon sParty_Blake[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_GIRAFARIG,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Mt Pyre Interior 3F PsychicM
@@ -3763,19 +3763,19 @@ static const struct TrainerMon sParty_William[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_RALTS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 32,
     .species = SPECIES_KIRLIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_GARDEVOIR,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Trick Room 7
@@ -3784,13 +3784,13 @@ static const struct TrainerMon sParty_Joshua[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_ALAKAZAM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_SOLROCK,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 123 (via 122 with Cut) Psychic
@@ -3799,7 +3799,7 @@ static const struct TrainerMon sParty_Cameron1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_SOLROCK,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -3808,13 +3808,13 @@ static const struct TrainerMon sParty_Cameron2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 39,
     .species = SPECIES_KADABRA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 39,
     .species = SPECIES_SOLROCK,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -3823,13 +3823,13 @@ static const struct TrainerMon sParty_Cameron3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_KADABRA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_SOLROCK,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -3838,13 +3838,13 @@ static const struct TrainerMon sParty_Cameron4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 54,
     .species = SPECIES_KADABRA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 54,
     .species = SPECIES_SOLROCK,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -3853,13 +3853,13 @@ static const struct TrainerMon sParty_Cameron5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 65,
     .species = SPECIES_SOLROCK,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 65,
     .species = SPECIES_ALAKAZAM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Cycling Road fPsychic
@@ -3878,7 +3878,7 @@ static const struct TrainerMon sParty_Hannah[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 44,
     .species = SPECIES_ABSOL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Mossdeep Gym PsychicF 2 - West Central (Double Battle w Blake)
@@ -3887,7 +3887,7 @@ static const struct TrainerMon sParty_Samantha[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 44,
     .species = SPECIES_XATU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Mossdeep Gym PsychicF 1 - Entrance Room (Double Battle w Preston)
@@ -3896,7 +3896,7 @@ static const struct TrainerMon sParty_Maura[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_KADABRA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Mt Pyre Interior 3F PsychicF
@@ -3905,19 +3905,19 @@ static const struct TrainerMon sParty_Kayla[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 35,
     .species = SPECIES_WOBBUFFET,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 34,
     .species = SPECIES_XATU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 35,
     .species = SPECIES_KADABRA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Trick Room 7
@@ -3926,13 +3926,13 @@ static const struct TrainerMon sParty_Alexis[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_GARDEVOIR,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_XATU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 123 (via 122 from Mt Pyre) Psychic
@@ -3941,13 +3941,13 @@ static const struct TrainerMon sParty_Jacki1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_KADABRA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 35,
     .species = SPECIES_LUNATONE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -3956,13 +3956,13 @@ static const struct TrainerMon sParty_Jacki2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_KADABRA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_LUNATONE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -3971,13 +3971,13 @@ static const struct TrainerMon sParty_Jacki3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 49,
     .species = SPECIES_KADABRA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 49,
     .species = SPECIES_LUNATONE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -3986,19 +3986,19 @@ static const struct TrainerMon sParty_Jacki4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 56,
     .species = SPECIES_ALAKAZAM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 56,
     .species = SPECIES_GIRAFARIG,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 56,
     .species = SPECIES_LUNATONE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -4064,7 +4064,7 @@ static const struct TrainerMon sParty_Walter1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 35,
     .species = SPECIES_MANECTRIC,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // SS Tidal Gentleman (nat dex)
@@ -4073,13 +4073,13 @@ static const struct TrainerMon sParty_Micah[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 53,
     .species = SPECIES_GROWLITHE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 55,
     .species = SPECIES_ARCANINE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // SS Tidal Gentleman (nat dex)
@@ -4088,7 +4088,7 @@ static const struct TrainerMon sParty_Thomas[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 55,
     .species = SPECIES_TAUROS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -4097,7 +4097,7 @@ static const struct TrainerMon sParty_Walter2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_MANECTRIC,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -4632,13 +4632,13 @@ static const struct TrainerMon sParty_Jerry1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 14,
     .species = SPECIES_MEDITITE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 14,
     .species = SPECIES_RALTS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Trick House 2
@@ -4647,7 +4647,7 @@ static const struct TrainerMon sParty_Ted[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 24,
     .species = SPECIES_KIRLIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Trick House 2
@@ -4656,19 +4656,19 @@ static const struct TrainerMon sParty_Paul[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 20,
     .species = SPECIES_NUMEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 21,
     .species = SPECIES_ODDISH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 20,
     .species = SPECIES_GULPIN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -4677,13 +4677,13 @@ static const struct TrainerMon sParty_Jerry2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_KIRLIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_MEDITITE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -4692,13 +4692,13 @@ static const struct TrainerMon sParty_Jerry3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 33,
     .species = SPECIES_KIRLIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 33,
     .species = SPECIES_MEDITITE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -4707,13 +4707,13 @@ static const struct TrainerMon sParty_Jerry4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 44,
     .species = SPECIES_GARDEVOIR,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 44,
     .species = SPECIES_MEDICHAM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -4722,19 +4722,19 @@ static const struct TrainerMon sParty_Jerry5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 61,
     .species = SPECIES_GARDEVOIR,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 61,
     .species = SPECIES_BANETTE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 61,
     .species = SPECIES_MEDICHAM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 116 School Kid
@@ -4743,7 +4743,7 @@ static const struct TrainerMon sParty_Karen1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 12,
     .species = SPECIES_SHROOMISH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Trick House 2 
@@ -4752,13 +4752,13 @@ static const struct TrainerMon sParty_Georgia[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 20,
     .species = SPECIES_SURSKIT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 22,
     .species = SPECIES_BEAUTIFLY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -4767,13 +4767,13 @@ static const struct TrainerMon sParty_Karen2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_BRELOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_LOUDRED,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -4782,13 +4782,13 @@ static const struct TrainerMon sParty_Karen3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 32,
     .species = SPECIES_BRELOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 32,
     .species = SPECIES_LOUDRED,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -4797,13 +4797,13 @@ static const struct TrainerMon sParty_Karen4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 35,
     .species = SPECIES_BRELOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 35,
     .species = SPECIES_LOUDRED,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -4812,25 +4812,25 @@ static const struct TrainerMon sParty_Karen5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 60,
     .species = SPECIES_BRELOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 60,
     .species = SPECIES_WHISCASH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 60,
     .species = SPECIES_TROPIUS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 60,
     .species = SPECIES_EXPLOUD,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 121 Sr and Jr
@@ -4955,15 +4955,15 @@ static const struct TrainerMon sParty_Victor[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 19,
     .species = SPECIES_TAILLOW,
-    .heldItem = ITEM_ORAN_BERRY
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_ORAN_BERRY,
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 19,
     .species = SPECIES_ZIGZAGOON,
-    .heldItem = ITEM_ORAN_BERRY
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_ORAN_BERRY,
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 103 Pokefan
@@ -4972,8 +4972,8 @@ static const struct TrainerMon sParty_Miguel1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 20,
     .species = SPECIES_SKITTY,
-    .heldItem = ITEM_ORAN_BERRY
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_ORAN_BERRY,
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // SS Tidal Pokefan Colton (all gen 2 baby from nat dex)
@@ -4983,42 +4983,42 @@ static const struct TrainerMon sParty_Colton[] = {
     .lvl = 56,
     .species = SPECIES_TOGEPI,
     .heldItem = ITEM_ORAN_BERRY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 55,
     .species = SPECIES_SMOOCHUM,
     .heldItem = ITEM_ORAN_BERRY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 56,
     .species = SPECIES_CLEFFA,
     .heldItem = ITEM_ORAN_BERRY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 57,
     .species = SPECIES_MAGBY,
     .heldItem = ITEM_ORAN_BERRY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 56,
     .species = SPECIES_ELEKID,
     .heldItem = ITEM_ORAN_BERRY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 58,
     .species = SPECIES_TYROGUE,
     .heldItem = ITEM_ORAN_BERRY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -5027,8 +5027,8 @@ static const struct TrainerMon sParty_Miguel2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 32,
     .species = SPECIES_SKITTY,
-    .heldItem = ITEM_ORAN_BERRY
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_ORAN_BERRY,
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -5037,8 +5037,8 @@ static const struct TrainerMon sParty_Miguel3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_DELCATTY,
-    .heldItem = ITEM_ORAN_BERRY
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_ORAN_BERRY,
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -5047,14 +5047,14 @@ static const struct TrainerMon sParty_Miguel4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 51,
     .species = SPECIES_CHANSEY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 51,
     .species = SPECIES_DELCATTY,
-    .heldItem = ITEM_ORAN_BERRY
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_ORAN_BERRY,
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -5063,31 +5063,31 @@ static const struct TrainerMon sParty_Miguel5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 60,
     .species = SPECIES_BLISSEY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 60,
     .species = SPECIES_BLISSEY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 60,
     .species = SPECIES_PERSIAN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 60,
     .species = SPECIES_BLISSEY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 61,
     .species = SPECIES_DELCATTY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Winstrate House
@@ -5107,8 +5107,8 @@ static const struct TrainerMon sParty_Vanessa[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_PIKACHU,
-    .heldItem = ITEM_SITRUS_BERRY
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_SITRUS_BERRY,
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Sootopolis Gym Pokefan 2 (Highest Level - Double Battle w Olivia)
@@ -5117,22 +5117,22 @@ static const struct TrainerMon sParty_Bethany[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_AZURILL,
-    .heldItem = ITEM_ORAN_BERRY
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_ORAN_BERRY,
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 47,
     .species = SPECIES_MARILL,
-    .heldItem = ITEM_ORAN_BERRY
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_ORAN_BERRY,
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 49,
     .species = SPECIES_AZUMARILL,
-    .heldItem = ITEM_ORAN_BERRY
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_ORAN_BERRY,
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Route 110 PokefanF 1
@@ -5160,15 +5160,15 @@ static const struct TrainerMon sParty_Isabel2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_PLUSLE,
-    .heldItem = ITEM_ORAN_BERRY
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_ORAN_BERRY,
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_MINUN,
-    .heldItem = ITEM_ORAN_BERRY
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_ORAN_BERRY,
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -5177,15 +5177,15 @@ static const struct TrainerMon sParty_Isabel3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 35,
     .species = SPECIES_PLUSLE,
-    .heldItem = ITEM_ORAN_BERRY
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_ORAN_BERRY,
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 35,
     .species = SPECIES_MINUN,
-    .heldItem = ITEM_ORAN_BERRY
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_ORAN_BERRY,
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -5194,15 +5194,15 @@ static const struct TrainerMon sParty_Isabel4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 49,
     .species = SPECIES_PLUSLE,
-    .heldItem = ITEM_ORAN_BERRY
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_ORAN_BERRY,
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 49,
     .species = SPECIES_MINUN,
-    .heldItem = ITEM_ORAN_BERRY
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_ORAN_BERRY,
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -5211,29 +5211,29 @@ static const struct TrainerMon sParty_Isabel5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 59,
     .species = SPECIES_PLUSLE,
-    .heldItem = ITEM_SITRUS_BERRY
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_SITRUS_BERRY,
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 57,
     .species = SPECIES_ILLUMISE,
-    .heldItem = ITEM_SITRUS_BERRY
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_SITRUS_BERRY,
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 57,
     .species = SPECIES_VOLBEAT,
-    .heldItem = ITEM_SITRUS_BERRY
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_SITRUS_BERRY,
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 59,
     .species = SPECIES_MINUN,
-    .heldItem = ITEM_SITRUS_BERRY
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_SITRUS_BERRY,
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 115 Surf Expert 
@@ -5242,7 +5242,7 @@ static const struct TrainerMon sParty_Timothy1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 34,
     .species = SPECIES_HARIYAMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -5278,7 +5278,7 @@ static const struct TrainerMon sParty_Timothy4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 51,
     .species = SPECIES_BRELOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -5287,19 +5287,19 @@ static const struct TrainerMon sParty_Timothy5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 60,
     .species = SPECIES_BRELOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 60,
     .species = SPECIES_PINSIR,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 61,
     .species = SPECIES_HARIYAMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Winstrate House
@@ -5319,7 +5319,7 @@ static const struct TrainerMon sParty_Shelby1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_HARIYAMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -5328,13 +5328,13 @@ static const struct TrainerMon sParty_Shelby2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 33,
     .species = SPECIES_MEDITITE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 33,
     .species = SPECIES_HARIYAMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -5343,13 +5343,13 @@ static const struct TrainerMon sParty_Shelby3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_MEDICHAM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_HARIYAMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -5358,13 +5358,13 @@ static const struct TrainerMon sParty_Shelby4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 47,
     .species = SPECIES_MEDICHAM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 47,
     .species = SPECIES_HARIYAMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -5373,19 +5373,19 @@ static const struct TrainerMon sParty_Shelby5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 61,
     .species = SPECIES_MEDICHAM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 60,
     .species = SPECIES_BANETTE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 61,
     .species = SPECIES_HARIYAMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Route 102 Youngster 1
@@ -5394,7 +5394,7 @@ static const struct TrainerMon sParty_Calvin1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_POOCHYENA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Route 104 Youngster
@@ -5403,13 +5403,13 @@ static const struct TrainerMon sParty_Billy[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 8,
     .species = SPECIES_ZIGZAGOON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 10,
     .species = SPECIES_SEEDOT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Rustboro Gym Youngster 1 (One by himself)
@@ -5459,13 +5459,13 @@ static const struct TrainerMon sParty_Joey[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 12,
     .species = SPECIES_MACHOP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 12,
     .species = SPECIES_VULPIX,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
 };
 // Mauville Gym Youngster
@@ -5525,7 +5525,7 @@ static const struct TrainerMon sParty_Jaylen[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 25,
     .species = SPECIES_TRAPINCH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 113 Youngster 2
@@ -5534,7 +5534,7 @@ static const struct TrainerMon sParty_Dillon[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 26,
     .species = SPECIES_ARON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -5543,7 +5543,7 @@ static const struct TrainerMon sParty_Calvin2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_MIGHTYENA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -5552,13 +5552,13 @@ static const struct TrainerMon sParty_Calvin3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_SWELLOW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 33,
     .species = SPECIES_MIGHTYENA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -5567,19 +5567,19 @@ static const struct TrainerMon sParty_Calvin4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 34,
     .species = SPECIES_SWELLOW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 32,
     .species = SPECIES_LINOONE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_MIGHTYENA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -5588,31 +5588,31 @@ static const struct TrainerMon sParty_Calvin5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 54,
     .species = SPECIES_SWELLOW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 54,
     .species = SPECIES_PIDGEOT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 54,
     .species = SPECIES_RATICATE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 52,
     .species = SPECIES_LINOONE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 53,
     .species = SPECIES_MIGHTYENA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Trick House 1 (Cut) Youngster
@@ -5621,13 +5621,13 @@ static const struct TrainerMon sParty_Eddie[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 18,
     .species = SPECIES_NINCADA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 18,
     .species = SPECIES_NUZLEAF,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Route 102 Youngster 2
@@ -5636,13 +5636,13 @@ static const struct TrainerMon sParty_Allen[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_ZIGZAGOON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 6,
     .species = SPECIES_TAILLOW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Route 110 Youngster 1
@@ -5651,13 +5651,13 @@ static const struct TrainerMon sParty_Timmy[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 18,
     .species = SPECIES_ARON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 18,
     .species = SPECIES_GULPIN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -5763,19 +5763,19 @@ static const struct TrainerMon sParty_Andrew[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 17,
     .species = SPECIES_BARBOACH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 17,
     .species = SPECIES_TENTACOOL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 21,
     .species = SPECIES_MAGIKARP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Route 104 North Fisherman
@@ -5784,13 +5784,13 @@ static const struct TrainerMon sParty_Ivan[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 8,
     .species = SPECIES_MAGIKARP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 10,
     .species = SPECIES_GOLDEEN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 114 Fisherman 3
@@ -5799,19 +5799,19 @@ static const struct TrainerMon sParty_Claude[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 25,
     .species = SPECIES_BARBOACH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 25,
     .species = SPECIES_GOLDEEN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 25,
     .species = SPECIES_BARBOACH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 106 Fisherman 2
@@ -5820,13 +5820,13 @@ static const struct TrainerMon sParty_Elliot1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 14,
     .species = SPECIES_TENTACOOL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 14,
     .species = SPECIES_CORPHISH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 106 Fisherman 1
@@ -5835,19 +5835,19 @@ static const struct TrainerMon sParty_Ned[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 13,
     .species = SPECIES_HORSEA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 13,
     .species = SPECIES_TENTACOOL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 13,
     .species = SPECIES_HORSEA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
 };
 // Route 110 Fisherman
@@ -5856,19 +5856,19 @@ static const struct TrainerMon sParty_Dale[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 18,
     .species = SPECIES_WAILMER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 17,
     .species = SPECIES_TENTACOOL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 18,
     .species = SPECIES_WAILMER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 114 Fisherman 1
@@ -5877,7 +5877,7 @@ static const struct TrainerMon sParty_Nolan[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 22,
     .species = SPECIES_GYARADOS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Route 118 East Fisherman
@@ -5886,13 +5886,13 @@ static const struct TrainerMon sParty_Barny[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_BARBOACH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_CARVANHA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Route 118 Mauville Fisherman
@@ -5901,7 +5901,7 @@ static const struct TrainerMon sParty_Wade[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 21,
     .species = SPECIES_BARBOACH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Route 109 Surf Fisherman 1
@@ -5910,13 +5910,13 @@ static const struct TrainerMon sParty_Carter[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_WAILMER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_TENTACRUEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -5925,19 +5925,19 @@ static const struct TrainerMon sParty_Elliot2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 26,
     .species = SPECIES_TENTACOOL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_CORPHISH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_GYARADOS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -5946,25 +5946,25 @@ static const struct TrainerMon sParty_Elliot3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 32,
     .species = SPECIES_GYARADOS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 32,
     .species = SPECIES_TENTACOOL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 32,
     .species = SPECIES_CRAWDAUNT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 32,
     .species = SPECIES_GYARADOS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -5973,25 +5973,25 @@ static const struct TrainerMon sParty_Elliot4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 34,
     .species = SPECIES_GYARADOS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 33,
     .species = SPECIES_CRAWDAUNT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 33,
     .species = SPECIES_TENTACRUEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 34,
     .species = SPECIES_GYARADOS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -6000,37 +6000,37 @@ static const struct TrainerMon sParty_Elliot5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 62,
     .species = SPECIES_GYARADOS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 62,
     .species = SPECIES_GYARADOS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 62,
     .species = SPECIES_GYARADOS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 62,
     .species = SPECIES_GYARADOS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 62,
     .species = SPECIES_GYARADOS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 62,
     .species = SPECIES_GYARADOS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 132 Fisherman
@@ -6039,37 +6039,37 @@ static const struct TrainerMon sParty_Ronald[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 21,
     .species = SPECIES_MAGIKARP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_GYARADOS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_GYARADOS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_GYARADOS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_GYARADOS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_GYARADOS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Cycling Road mTriathlete
@@ -6078,19 +6078,19 @@ static const struct TrainerMon sParty_Jacob[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 20,
     .species = SPECIES_TAILLOW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 22,
     .species = SPECIES_VOLTORB,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 20,
     .species = SPECIES_PONYTA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Cycling Road mTriathlete
@@ -6099,13 +6099,13 @@ static const struct TrainerMon sParty_Anthony[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 20,
     .species = SPECIES_PLUSLE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 20,
     .species = SPECIES_DODUO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Cycling Road mTriathlete 
@@ -6114,7 +6114,7 @@ static const struct TrainerMon sParty_Benjamin1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 22,
     .species = SPECIES_MAGNEMITE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -6123,7 +6123,7 @@ static const struct TrainerMon sParty_Benjamin2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 40,
     .species = SPECIES_MAGNETON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -6132,19 +6132,19 @@ static const struct TrainerMon sParty_Benjamin3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 49,
     .species = SPECIES_MAWILE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_AGGRON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 49,
     .species = SPECIES_MAGNETON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -6153,25 +6153,25 @@ static const struct TrainerMon sParty_Benjamin4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 56,
     .species = SPECIES_SCYTHER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 57,
     .species = SPECIES_MAWILE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 57,
     .species = SPECIES_AGGRON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 58,
     .species = SPECIES_MAGNETON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -6237,7 +6237,7 @@ static const struct TrainerMon sParty_Abigail1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 23,
     .species = SPECIES_MAGNEMITE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Cycling Road fTriathlete
@@ -6246,19 +6246,19 @@ static const struct TrainerMon sParty_Jasmine[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 20,
     .species = SPECIES_DODUO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 22,
     .species = SPECIES_PONYTA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 20,
     .species = SPECIES_VOLTORB,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -6267,7 +6267,7 @@ static const struct TrainerMon sParty_Abigail2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_MAGNEMITE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -6276,7 +6276,7 @@ static const struct TrainerMon sParty_Abigail3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_MAGNETON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -6285,7 +6285,7 @@ static const struct TrainerMon sParty_Abigail4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_MAGNETON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -6294,21 +6294,21 @@ static const struct TrainerMon sParty_Abigail5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 61,
     .species = SPECIES_AIPOM,
-    .heldItem = ITEM_SITRUS_BERRY
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_SITRUS_BERRY,
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 62,
     .species = SPECIES_RAPIDASH,
-    .heldItem = ITEM_SITRUS_BERRY
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_SITRUS_BERRY,
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 59,
     .species = SPECIES_MAGNETON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 117 Triathlete
@@ -6317,13 +6317,13 @@ static const struct TrainerMon sParty_Dylan1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 19,
     .species = SPECIES_DODUO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 19,
     .species = SPECIES_PONYTA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -6332,13 +6332,13 @@ static const struct TrainerMon sParty_Dylan2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_DODUO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 34,
     .species = SPECIES_PONYTA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -6347,13 +6347,13 @@ static const struct TrainerMon sParty_Dylan3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 34,
     .species = SPECIES_DODUO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_PONYTA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -6362,13 +6362,13 @@ static const struct TrainerMon sParty_Dylan4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_DODRIO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 40,
     .species = SPECIES_PONYTA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -6377,13 +6377,13 @@ static const struct TrainerMon sParty_Dylan5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 40,
     .species = SPECIES_DODRIO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_RAPIDASH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 117 TriathleteF
@@ -6392,7 +6392,7 @@ static const struct TrainerMon sParty_Maria1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 21,
     .species = SPECIES_DODUO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -6401,7 +6401,7 @@ static const struct TrainerMon sParty_Maria2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_DODUO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -6410,7 +6410,7 @@ static const struct TrainerMon sParty_Maria3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 34,
     .species = SPECIES_DODUO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -6419,7 +6419,7 @@ static const struct TrainerMon sParty_Maria4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 55,
     .species = SPECIES_DODRIO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -6428,13 +6428,13 @@ static const struct TrainerMon sParty_Maria5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 64,
     .species = SPECIES_DODRIO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 64,
     .species = SPECIES_RAPIDASH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 127 TriathleteM
@@ -6443,13 +6443,13 @@ static const struct TrainerMon sParty_Camden[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_STARMIE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_LUVDISC,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Abandoned Ship
@@ -6458,13 +6458,13 @@ static const struct TrainerMon sParty_Demetrius[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_MAGCARGO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_MANECTRIC,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 128 TriatheleteM
@@ -6473,7 +6473,7 @@ static const struct TrainerMon sParty_Isaiah1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_STARMIE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 126 Triathlete
@@ -6482,13 +6482,13 @@ static const struct TrainerMon sParty_Pablo1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_LANTURN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_STARMIE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 129 TriathleteM
@@ -6497,7 +6497,7 @@ static const struct TrainerMon sParty_Chase[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 44,
     .species = SPECIES_RELICANTH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -6506,7 +6506,7 @@ static const struct TrainerMon sParty_Isaiah2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_STARMIE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -6515,7 +6515,7 @@ static const struct TrainerMon sParty_Isaiah3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 47,
     .species = SPECIES_STARMIE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -6524,7 +6524,7 @@ static const struct TrainerMon sParty_Isaiah4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 49,
     .species = SPECIES_STARMIE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -6533,25 +6533,25 @@ static const struct TrainerMon sParty_Isaiah5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 62,
     .species = SPECIES_KINGLER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 62,
     .species = SPECIES_STARMIE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 62,
     .species = SPECIES_LANTURN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 62,
     .species = SPECIES_STARMIE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 126 SwimmerF
@@ -6560,7 +6560,7 @@ static const struct TrainerMon sParty_Isobel[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 42,
     .species = SPECIES_GOLDUCK,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 127 TriathleteF
@@ -6569,13 +6569,13 @@ static const struct TrainerMon sParty_Donny[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_PELIPPER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_STARYU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 131 TriathleteF
@@ -6584,7 +6584,7 @@ static const struct TrainerMon sParty_Talia[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_GYARADOS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 128 TriathleteF
@@ -6593,7 +6593,7 @@ static const struct TrainerMon sParty_Katelyn1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_STARMIE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 129 TriathleteF
@@ -6602,13 +6602,13 @@ static const struct TrainerMon sParty_Allison[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_PELIPPER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_SEAKING,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -6617,7 +6617,7 @@ static const struct TrainerMon sParty_Katelyn2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_STARMIE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -6626,7 +6626,7 @@ static const struct TrainerMon sParty_Katelyn3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 57,
     .species = SPECIES_STARMIE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -6635,7 +6635,7 @@ static const struct TrainerMon sParty_Katelyn4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 64,
     .species = SPECIES_STARMIE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -6644,7 +6644,7 @@ static const struct TrainerMon sParty_Katelyn5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 75,
     .species = SPECIES_STARMIE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Meteor Falls Dragon Tamer
@@ -6653,13 +6653,13 @@ static const struct TrainerMon sParty_Nicolas1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 51,
     .species = SPECIES_ALTARIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 51,
     .species = SPECIES_ALTARIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -6668,13 +6668,13 @@ static const struct TrainerMon sParty_Nicolas2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 55,
     .species = SPECIES_ALTARIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 56,
     .species = SPECIES_ALTARIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -6683,19 +6683,19 @@ static const struct TrainerMon sParty_Nicolas3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 57,
     .species = SPECIES_ALTARIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 58,
     .species = SPECIES_FLYGON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 58,
     .species = SPECIES_ALTARIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -6704,25 +6704,25 @@ static const struct TrainerMon sParty_Nicolas4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 52,
     .species = SPECIES_SHELGON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 60,
     .species = SPECIES_ALTARIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 59,
     .species = SPECIES_FLYGON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 61,
     .species = SPECIES_ALTARIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -6812,7 +6812,7 @@ static const struct TrainerMon sParty_Perry[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_PELIPPER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 119 Bird Keeper 2
@@ -6821,13 +6821,13 @@ static const struct TrainerMon sParty_Hugh[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_PELIPPER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_TROPIUS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 119 Bird Keeper 1
@@ -6836,7 +6836,7 @@ static const struct TrainerMon sParty_Phil[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_SWELLOW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Fortree Gym Bird Keeper 2
@@ -6845,13 +6845,13 @@ static const struct TrainerMon sParty_Jared[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 35,
     .species = SPECIES_DODUO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 35,
     .species = SPECIES_TROPIUS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Fortree Gym Bird Keeper 1
@@ -6860,7 +6860,7 @@ static const struct TrainerMon sParty_Humberto[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_SKARMORY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 125 Bird Keeper
@@ -6869,13 +6869,13 @@ static const struct TrainerMon sParty_Presley[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_TROPIUS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_XATU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Fortree Gym Bird Keeper 3 (Double Battle with Flint)
@@ -6884,13 +6884,13 @@ static const struct TrainerMon sParty_Edwardo[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_VIBRAVA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 35,
     .species = SPECIES_MASQUERAIN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 120 Bird Keeper 2
@@ -6899,13 +6899,13 @@ static const struct TrainerMon sParty_Colin[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 32,
     .species = SPECIES_PELIPPER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 32,
     .species = SPECIES_XATU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 120 Bird Keeper 1
@@ -6914,7 +6914,7 @@ static const struct TrainerMon sParty_Robert1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 35,
     .species = SPECIES_XATU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Trick Room 6
@@ -6923,13 +6923,13 @@ static const struct TrainerMon sParty_Benny[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_SWELLOW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_XATU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Route 118 East Bird Keeper 1
@@ -6938,13 +6938,13 @@ static const struct TrainerMon sParty_Chester[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_TAILLOW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_SWELLOW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -6953,13 +6953,13 @@ static const struct TrainerMon sParty_Robert2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 35,
     .species = SPECIES_XATU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_SWELLOW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -6968,13 +6968,13 @@ static const struct TrainerMon sParty_Robert3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_XATU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_SWELLOW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -6983,31 +6983,31 @@ static const struct TrainerMon sParty_Robert4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 56,
     .species = SPECIES_XATU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 56,
     .species = SPECIES_NOCTOWL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 56,
     .species = SPECIES_PIDGEOT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 56,
     .species = SPECIES_SKARMORY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 56,
     .species = SPECIES_SWELLOW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -7073,13 +7073,13 @@ static const struct TrainerMon sParty_Alex[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_XATU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_SWELLOW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 133 Bird Keeper
@@ -7088,7 +7088,7 @@ static const struct TrainerMon sParty_Beck[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_TROPIUS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 119 (Post Weather Insitute) Ninja Boy 1
@@ -7097,7 +7097,7 @@ static const struct TrainerMon sParty_Yasu[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_NINJASK,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 119 Ninja Boy
@@ -7106,13 +7106,13 @@ static const struct TrainerMon sParty_Takashi[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_NINJASK,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_KOFFING,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Victory Road CooltrainerF
@@ -7148,7 +7148,7 @@ static const struct TrainerMon sParty_Jani[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 33,
     .species = SPECIES_SPHEAL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 113 Ninja Boy 2
@@ -7181,13 +7181,13 @@ static const struct TrainerMon sParty_Lung[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 24,
     .species = SPECIES_NINCADA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 24,
     .species = SPECIES_NINJASK,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -7196,25 +7196,25 @@ static const struct TrainerMon sParty_Lao2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_SWALOT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_CROBAT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 39,
     .species = SPECIES_WEEZING,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 39,
     .species = SPECIES_WEEZING,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -7223,25 +7223,25 @@ static const struct TrainerMon sParty_Lao3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 44,
     .species = SPECIES_SWALOT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 44,
     .species = SPECIES_CROBAT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_WEEZING,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 46,
     .species = SPECIES_WEEZING,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -7250,25 +7250,25 @@ static const struct TrainerMon sParty_Lao4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 55,
     .species = SPECIES_SWALOT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 55,
     .species = SPECIES_CROBAT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 55,
     .species = SPECIES_WEEZING,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 55,
     .species = SPECIES_WEEZING,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -7334,13 +7334,13 @@ static const struct TrainerMon sParty_Jocelyn[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 15,
     .species = SPECIES_MEDITITE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
      {
     .ivs = BEST_IV_SPREAD,
     .lvl = 15,
     .species = SPECIES_SHROOMISH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Dewford Gym Battle Girl 1 (Bottom Right/First)
@@ -7349,7 +7349,7 @@ static const struct TrainerMon sParty_Laura[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 16,
     .species = SPECIES_MEDITITE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 115 Battle Girl
@@ -7358,7 +7358,7 @@ static const struct TrainerMon sParty_Cyndy1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 27,
     .species = SPECIES_MEDITITE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Trick Room 4
@@ -7367,7 +7367,7 @@ static const struct TrainerMon sParty_Cora[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 33,
     .species = SPECIES_MACHOKE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Trick Room 4
@@ -7376,7 +7376,7 @@ static const struct TrainerMon sParty_Paula[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 32,
     .species = SPECIES_BRELOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -7385,7 +7385,7 @@ static const struct TrainerMon sParty_Cyndy2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 33,
     .species = SPECIES_MEDITITE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -7394,7 +7394,7 @@ static const struct TrainerMon sParty_Cyndy3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 47,
     .species = SPECIES_MEDICHAM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -7403,13 +7403,13 @@ static const struct TrainerMon sParty_Cyndy4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 54,
     .species = SPECIES_MEDICHAM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 54,
     .species = SPECIES_HARIYAMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -7418,13 +7418,13 @@ static const struct TrainerMon sParty_Cyndy5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 63,
     .species = SPECIES_MEDICHAM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 63,
     .species = SPECIES_HARIYAMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 113 Parasol Lady
@@ -7443,13 +7443,13 @@ static const struct TrainerMon sParty_Clarissa[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 34,
     .species = SPECIES_ROSELIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 34,
     .species = SPECIES_WAILMER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 120 Parasol Lady 2
@@ -7522,13 +7522,13 @@ static const struct TrainerMon sParty_Beverly[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_TENTACOOL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_TENTACOOL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 105 SwimmerF
@@ -7537,7 +7537,7 @@ static const struct TrainerMon sParty_Imani[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_CORSOLA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 106 Surf SwimmerF
@@ -7546,7 +7546,7 @@ static const struct TrainerMon sParty_Kyla[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 32,
     .species = SPECIES_WAILMER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 107 SwimmerF
@@ -7555,13 +7555,13 @@ static const struct TrainerMon sParty_Denise[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_SPHEAL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_GOLDEEN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 107 SwimmerF
@@ -7570,7 +7570,7 @@ static const struct TrainerMon sParty_Beth[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_CORSOLA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 108 SwimmerF
@@ -7579,13 +7579,13 @@ static const struct TrainerMon sParty_Tara[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_HORSEA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_AZUMARILL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 108 SwimmerF
@@ -7594,7 +7594,7 @@ static const struct TrainerMon sParty_Missy[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_GOLDEEN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Route 109 Surf SwimmerF
@@ -7603,19 +7603,19 @@ static const struct TrainerMon sParty_Alice[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_GOLDEEN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_PELIPPER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_GOLDEEN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 124 SwimmerF
@@ -7624,13 +7624,13 @@ static const struct TrainerMon sParty_Jenny1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 39,
     .species = SPECIES_AZUMARILL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 39,
-    .species = SPECIES_WAILMER
-    .evs = {84, 84, 84, 84, 84, 84},
+    .species = SPECIES_WAILMER,
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 124 SwimmerF
@@ -7639,13 +7639,13 @@ static const struct TrainerMon sParty_Grace[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 39,
     .species = SPECIES_WHISCASH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 39,
     .species = SPECIES_WHISCASH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 125 SwimmerF
@@ -7654,7 +7654,7 @@ static const struct TrainerMon sParty_Tanya[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 42,
     .species = SPECIES_LUVDISC,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 125 SwimmerF
@@ -7663,7 +7663,7 @@ static const struct TrainerMon sParty_Sharon[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_SEAKING,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 126 SwimmerF
@@ -7672,13 +7672,13 @@ static const struct TrainerMon sParty_Nikki[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_AZUMARILL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_SEALEO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 126
@@ -7687,7 +7687,7 @@ static const struct TrainerMon sParty_Brenda[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 42,
     .species = SPECIES_SEAKING,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 130 SwimmerF (Potential Double with Santiago)
@@ -7696,13 +7696,13 @@ static const struct TrainerMon sParty_Katie[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_SEAKING,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_WALREIN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 131 SwimmerF
@@ -7711,7 +7711,7 @@ static const struct TrainerMon sParty_Susie[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_LUVDISC,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 131 SwimmerF
@@ -7720,7 +7720,7 @@ static const struct TrainerMon sParty_Kara[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_SEAKING,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 132 SwimmerF
@@ -7729,7 +7729,7 @@ static const struct TrainerMon sParty_Dana[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 47,
     .species = SPECIES_AZUMARILL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 126 SwimmerF
@@ -7738,13 +7738,13 @@ static const struct TrainerMon sParty_Sienna[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_LUDICOLO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_PELIPPER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 133 SwimmerF
@@ -7753,7 +7753,7 @@ static const struct TrainerMon sParty_Debra[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_SEAKING,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 133 SwimmerF
@@ -7762,13 +7762,13 @@ static const struct TrainerMon sParty_Linda[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_SEADRA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_SEADRA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -7777,13 +7777,13 @@ static const struct TrainerMon sParty_Kaylee[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_LANTURN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_PELIPPER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 134 SwimmerF
@@ -7792,13 +7792,13 @@ static const struct TrainerMon sParty_Laurel[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_LUVDISC,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_LUVDISC,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 128 SwimmerF
@@ -7807,7 +7807,7 @@ static const struct TrainerMon sParty_Carlee[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_GOREBYSS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -7816,13 +7816,13 @@ static const struct TrainerMon sParty_Jenny2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_AZUMARILL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 49,
     .species = SPECIES_WAILORD,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -7831,19 +7831,19 @@ static const struct TrainerMon sParty_Jenny3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 52,
     .species = SPECIES_LUDICOLO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 52,
     .species = SPECIES_AZUMARILL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 52,
     .species = SPECIES_WAILORD,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -7852,26 +7852,26 @@ static const struct TrainerMon sParty_Jenny4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 44,
     .species = SPECIES_WHISCASH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 52,
     .species = SPECIES_LUDICOLO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 52,
     .species = SPECIES_STARMIE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
 
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 46,
     .species = SPECIES_WAILORD,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -7971,13 +7971,13 @@ static const struct TrainerMon sParty_Carol[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 23,
     .species = SPECIES_TAILLOW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 23,
     .species = SPECIES_LOMBRE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 114 Picnicker 2
@@ -7986,13 +7986,13 @@ static const struct TrainerMon sParty_Nancy[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 26,
     .species = SPECIES_MARILL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 26,
     .species = SPECIES_LOMBRE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Trick House 3 Picknicker
@@ -8001,13 +8001,13 @@ static const struct TrainerMon sParty_Martha[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 27,
     .species = SPECIES_SKITTY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 27,
     .species = SPECIES_SPOINK,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Jagged Pass Picnicker
@@ -8016,19 +8016,19 @@ static const struct TrainerMon sParty_Diana1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 27,
     .species = SPECIES_VULPIX,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 27,
     .species = SPECIES_GLOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 27,
     .species = SPECIES_SWABLU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Mt Pyre Interior 6F PsychicM
@@ -8047,13 +8047,13 @@ static const struct TrainerMon sParty_Irene[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 24,
     .species = SPECIES_SHROOMISH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 24,
     .species = SPECIES_MARILL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -8062,19 +8062,19 @@ static const struct TrainerMon sParty_Diana2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_VULPIX,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_GLOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_SWABLU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -8083,19 +8083,19 @@ static const struct TrainerMon sParty_Diana3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 42,
     .species = SPECIES_VULPIX,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 42,
     .species = SPECIES_VILEPLUME,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 42,
     .species = SPECIES_SWABLU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -8104,19 +8104,19 @@ static const struct TrainerMon sParty_Diana4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 51,
     .species = SPECIES_VULPIX,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 51,
     .species = SPECIES_VILEPLUME,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 51,
     .species = SPECIES_ALTARIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -8125,19 +8125,19 @@ static const struct TrainerMon sParty_Diana5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 59,
     .species = SPECIES_NINETALES,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 60,
     .species = SPECIES_VILEPLUME,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 61,
     .species = SPECIES_ALTARIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 103 Twins
@@ -8163,13 +8163,13 @@ static const struct TrainerMon sParty_AmyAndLiv2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_PLUSLE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_MINUN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Route 104 North Twins
@@ -8178,13 +8178,13 @@ static const struct TrainerMon sParty_GinaAndMia1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 9,
     .species = SPECIES_SEEDOT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 9,
     .species = SPECIES_LOTAD,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 123 (via 118 from mauville) Twins
@@ -8193,13 +8193,13 @@ static const struct TrainerMon sParty_MiuAndYuki[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_BEAUTIFLY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_DUSTOX,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -8208,13 +8208,13 @@ static const struct TrainerMon sParty_AmyAndLiv3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_PLUSLE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_MINUN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -8240,13 +8240,13 @@ static const struct TrainerMon sParty_AmyAndLiv4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 53,
     .species = SPECIES_PLUSLE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 53,
     .species = SPECIES_MINUN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -8289,13 +8289,13 @@ static const struct TrainerMon sParty_Huey[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 16,
     .species = SPECIES_WINGULL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 16,
     .species = SPECIES_MACHOP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 109 Sailor 2 (Potential Double Battle w Hailey or Ricky)
@@ -8304,7 +8304,7 @@ static const struct TrainerMon sParty_Edmond[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 17,
     .species = SPECIES_SPHEAL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 125 Sailor
@@ -8313,19 +8313,19 @@ static const struct TrainerMon sParty_Ernest1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 40,
     .species = SPECIES_PILOSWINE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_SNORUNT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 40,
     .species = SPECIES_HARIYAMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 109 Seashore House Sailor
@@ -8334,19 +8334,19 @@ static const struct TrainerMon sParty_Dwayne[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 15,
     .species = SPECIES_TENTACOOL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 15,
     .species = SPECIES_MACHOP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 15,
     .species = SPECIES_CLAMPERL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // SS Tidal Storage Sailor (nat dex)
@@ -8355,19 +8355,19 @@ static const struct TrainerMon sParty_Phillip[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 51,
     .species = SPECIES_MANKEY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 52,
     .species = SPECIES_POLIWRATH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 53,
     .species = SPECIES_PRIMEAPE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // SS Tidal Storage Sailor (nat dex)
@@ -8376,19 +8376,19 @@ static const struct TrainerMon sParty_Leonard[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 51,
     .species = SPECIES_POLIWHIRL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 53,
     .species = SPECIES_HITMONTOP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 54,
     .species = SPECIES_QWILFISH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Abandoned Ship Sailor
@@ -8397,13 +8397,13 @@ static const struct TrainerMon sParty_Duncan[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_SPHEAL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_MACHOKE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -8412,13 +8412,13 @@ static const struct TrainerMon sParty_Ernest2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_HARIYAMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_MACHAMP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -8427,19 +8427,19 @@ static const struct TrainerMon sParty_Ernest3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_PELIPPER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_HARIYAMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_MACHAMP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -8448,19 +8448,19 @@ static const struct TrainerMon sParty_Ernest4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 51,
     .species = SPECIES_PELIPPER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 51,
     .species = SPECIES_HARIYAMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 51,
     .species = SPECIES_MACHAMP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -8469,19 +8469,19 @@ static const struct TrainerMon sParty_Ernest5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 62,
     .species = SPECIES_PELIPPER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 62,
     .species = SPECIES_HARIYAMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 62,
     .species = SPECIES_MACHAMP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Lavaridge Gym Hiker
@@ -8490,7 +8490,7 @@ static const struct TrainerMon sParty_Eli[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_GRAVELER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Sootopolis Gym Pokefan 1 (Middle Level - Double Battle w Daphne)
@@ -8518,7 +8518,7 @@ static const struct TrainerMon sParty_Jazmyn[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_ABSOL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 123 (via 123 with Cut) Ninja Boy
@@ -8547,19 +8547,19 @@ static const struct TrainerMon sParty_Auron[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_MANECTRIC,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_GLALIE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_BANETTE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 134 Sailor
@@ -8568,13 +8568,13 @@ static const struct TrainerMon sParty_Kelvin[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_MACHAMP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_WALREIN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 134 CooltrainerF
@@ -8594,19 +8594,19 @@ static const struct TrainerMon sParty_Reyna[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_PINSIR,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_BRELOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_HERACROSS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 134 Sailor
@@ -8615,13 +8615,13 @@ static const struct TrainerMon sParty_Hudson[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_WAILORD,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_MACHAMP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 133 Expert
@@ -8630,13 +8630,13 @@ static const struct TrainerMon sParty_Conor[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_HERACROSS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_DONPHAN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Route 110 Collector (Potential Double Battle with Joseph)
@@ -8645,13 +8645,13 @@ static const struct TrainerMon sParty_Edwin1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 18,
     .species = SPECIES_LOMBRE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 18,
     .species = SPECIES_NUZLEAF,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 115 Collector
@@ -8660,7 +8660,7 @@ static const struct TrainerMon sParty_Hector[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 27,
     .species = SPECIES_ZANGOOSE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Magma Admin Space Center (Double SC)
@@ -8696,13 +8696,13 @@ static const struct TrainerMon sParty_Edwin2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_LOMBRE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_NUZLEAF,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -8711,13 +8711,13 @@ static const struct TrainerMon sParty_Edwin3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 39,
     .species = SPECIES_LUDICOLO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 39,
     .species = SPECIES_SHIFTRY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -8726,13 +8726,13 @@ static const struct TrainerMon sParty_Edwin4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 46,
     .species = SPECIES_LUDICOLO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 46,
     .species = SPECIES_SHIFTRY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -8741,27 +8741,27 @@ static const struct TrainerMon sParty_Edwin5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 59,
     .species = SPECIES_LUDICOLO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 59,
     .species = SPECIES_TROPIUS,
-    .heldItem = ITEM_SITRUS_BERRY
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_SITRUS_BERRY,
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 59,
     .species = SPECIES_PELIPPER,
-    .heldItem = ITEM_SITRUS_BERRY
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_SITRUS_BERRY,
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 59,
     .species = SPECIES_SHIFTRY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Victory Road Pre Champion
@@ -8821,7 +8821,7 @@ static const struct TrainerMon sParty_BrendanRoute103Mudkip[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 5,
     .species = SPECIES_TREECKO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Rival 3
@@ -8885,7 +8885,7 @@ static const struct TrainerMon sParty_BrendanRoute103Treecko[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 5,
     .species = SPECIES_TORCHIC,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Rival 3
@@ -8949,7 +8949,7 @@ static const struct TrainerMon sParty_BrendanRoute103Torchic[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 5,
     .species = SPECIES_MUDKIP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Rival 3
@@ -9013,7 +9013,7 @@ static const struct TrainerMon sParty_MayRoute103Mudkip[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 5,
     .species = SPECIES_TREECKO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Rival 3
@@ -9077,7 +9077,7 @@ static const struct TrainerMon sParty_MayRoute103Treecko[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 5,
     .species = SPECIES_TORCHIC,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Rival 3
@@ -9141,7 +9141,7 @@ static const struct TrainerMon sParty_MayRoute103Torchic[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 5,
     .species = SPECIES_MUDKIP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Rival 3
@@ -9205,37 +9205,37 @@ static const struct TrainerMon sParty_Isaac1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 14,
     .species = SPECIES_SNORUNT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 14,
     .species = SPECIES_ZIGZAGOON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 14,
     .species = SPECIES_ARON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 14,
     .species = SPECIES_POOCHYENA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 14,
     .species = SPECIES_TAILLOW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 14,
     .species = SPECIES_MAKUHITA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 123 (via 118 from mauville) Bug Catcher
@@ -9244,7 +9244,7 @@ static const struct TrainerMon sParty_Davis[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_PINSIR,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Victory Road CooltrainerM
@@ -9270,37 +9270,37 @@ static const struct TrainerMon sParty_Isaac2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 24,
     .species = SPECIES_SNORUNT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 24,
     .species = SPECIES_LINOONE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 24,
     .species = SPECIES_ARON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 24,
     .species = SPECIES_MIGHTYENA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 24,
     .species = SPECIES_SWELLOW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 24,
     .species = SPECIES_MAKUHITA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -9309,37 +9309,37 @@ static const struct TrainerMon sParty_Isaac3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_SNEASEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_LINOONE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_ARON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_MIGHTYENA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_MURKROW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_HARIYAMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -9348,37 +9348,37 @@ static const struct TrainerMon sParty_Isaac4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 47,
     .species = SPECIES_SNEASEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 47,
     .species = SPECIES_HOUNDOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 47,
     .species = SPECIES_CRAWDAUNT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 47,
     .species = SPECIES_MIGHTYENA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 47,
     .species = SPECIES_MURKROW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 47,
     .species = SPECIES_CACTURNE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -9444,37 +9444,37 @@ static const struct TrainerMon sParty_Lydia1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 14,
     .species = SPECIES_WINGULL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 14,
     .species = SPECIES_SHROOMISH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 14,
     .species = SPECIES_MARILL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 14,
     .species = SPECIES_ROSELIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 14,
     .species = SPECIES_SKITTY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 14,
     .species = SPECIES_GOLDEEN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Victory Road CooltrainerM
@@ -9483,13 +9483,13 @@ static const struct TrainerMon sParty_Halle[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 50,
     .species = SPECIES_SABLEYE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 50,
     .species = SPECIES_ABSOL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Abandoned Ship
@@ -9498,7 +9498,7 @@ static const struct TrainerMon sParty_Garrison[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 32,
     .species = SPECIES_RELICANTH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -9507,37 +9507,37 @@ static const struct TrainerMon sParty_Lydia2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_WINGULL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_SHROOMISH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_MARILL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_ROSELIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_SKITTY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_GOLDEEN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -9546,37 +9546,37 @@ static const struct TrainerMon sParty_Lydia3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_PELIPPER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_BRELOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_AZUMARILL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_ROSELIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_DELCATTY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_SEAKING,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -9585,37 +9585,37 @@ static const struct TrainerMon sParty_Lydia4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 52,
     .species = SPECIES_PELIPPER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 52,
     .species = SPECIES_BRELOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 52,
     .species = SPECIES_MARILL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 52,
     .species = SPECIES_ROSELIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 52,
     .species = SPECIES_DELCATTY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 52,
     .species = SPECIES_GOLDEEN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -9624,37 +9624,37 @@ static const struct TrainerMon sParty_Lydia5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 61,
     .species = SPECIES_PELIPPER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 61,
     .species = SPECIES_BRELOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 61,
     .species = SPECIES_AZUMARILL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 61,
     .species = SPECIES_ROSELIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 61,
     .species = SPECIES_DELCATTY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 61,
     .species = SPECIES_SEAKING,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 119 Pokemon RangerM
@@ -9682,19 +9682,19 @@ static const struct TrainerMon sParty_Lorenzo[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 33,
     .species = SPECIES_SEEDOT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 33,
     .species = SPECIES_NUZLEAF,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 33,
     .species = SPECIES_SHIFTRY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Trick Room 6
@@ -9703,7 +9703,7 @@ static const struct TrainerMon sParty_Sebastian[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_CACTURNE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -9836,7 +9836,7 @@ static const struct TrainerMon sParty_Catherine1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_HERACROSS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 120 Pokemon RangerF
@@ -9845,19 +9845,19 @@ static const struct TrainerMon sParty_Jenna[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 33,
     .species = SPECIES_LOTAD,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 33,
     .species = SPECIES_LOMBRE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 33,
     .species = SPECIES_LUDICOLO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Trick Room 6
@@ -9866,13 +9866,13 @@ static const struct TrainerMon sParty_Sophia[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_VIBRAVA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_ROSELIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -9881,7 +9881,7 @@ static const struct TrainerMon sParty_Catherine2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 42,
     .species = SPECIES_HERACROSS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
 };
 
@@ -9890,13 +9890,13 @@ static const struct TrainerMon sParty_Catherine3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 49,
     .species = SPECIES_HERACROSS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 49,
     .species = SPECIES_ROSELIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -9905,13 +9905,13 @@ static const struct TrainerMon sParty_Catherine4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 57,
     .species = SPECIES_HERACROSS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 57,
     .species = SPECIES_ROSELIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -9920,13 +9920,13 @@ static const struct TrainerMon sParty_Catherine5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 66,
     .species = SPECIES_HERACROSS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 66,
     .species = SPECIES_ROSELIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Jagged Pass Triathlete
@@ -9935,7 +9935,7 @@ static const struct TrainerMon sParty_Julio[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_MAGNEMITE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Seafloor Cavern (Double with shelly)
@@ -9971,13 +9971,13 @@ static const struct TrainerMon sParty_GruntUnused[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 34,
     .species = SPECIES_WAILMER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 34,
     .species = SPECIES_ZUBAT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // UNUSED Mt Pyre Summit Aqua GruntF (Double Battle with GruntM 3)
@@ -9986,13 +9986,13 @@ static const struct TrainerMon sParty_GruntMtPyre4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_MIGHTYENA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_SEADRA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Jagged Pass Magma Grunt
@@ -10001,13 +10001,13 @@ static const struct TrainerMon sParty_GruntJaggedPass[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_ZANGOOSE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_NUMEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Rustboro Gym Hiker 1 (Potential Double Battle with Tommy)
@@ -10016,13 +10016,13 @@ static const struct TrainerMon sParty_Marc[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 11,
     .species = SPECIES_ARON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 12,
     .species = SPECIES_GEODUDE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Dewford Gym Sailor 1 (Double Battle w Lilith)
@@ -10050,13 +10050,13 @@ static const struct TrainerMon sParty_Lilith[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 15,
     .species = SPECIES_MEDITITE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 15,
     .species = SPECIES_MEDITITE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Dewford Gym Black Belt 2 (Top Middle)
@@ -10065,19 +10065,19 @@ static const struct TrainerMon sParty_Cristian[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 14,
     .species = SPECIES_MACHOP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 16,
     .species = SPECIES_MAKUHITA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 14,
     .species = SPECIES_MACHOP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Mossdeep Gym Hex Maniac 2 - Northwest (Double Battle w Hannah or Virgil)
@@ -10086,7 +10086,7 @@ static const struct TrainerMon sParty_Sylvia[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_MEDICHAM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 126 SwimmerM
@@ -10095,7 +10095,7 @@ static const struct TrainerMon sParty_Leonardo[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_SHARPEDO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 127 CooltrainerF 
@@ -10131,7 +10131,7 @@ static const struct TrainerMon sParty_Harrison[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_HUNTAIL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Mt Chimney GruntM (double)
@@ -10140,7 +10140,7 @@ static const struct TrainerMon sParty_GruntMtChimney2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_GOLBAT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 129 SwimmerM
@@ -10149,7 +10149,7 @@ static const struct TrainerMon sParty_Clarence[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_SHARPEDO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -10158,7 +10158,7 @@ static const struct TrainerMon sParty_Terry[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 40,
     .species = SPECIES_GIRAFARIG,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Mossdeep Gym Gentleman 2 - Northwest (Double Battle w Virgil)
@@ -10167,7 +10167,7 @@ static const struct TrainerMon sParty_Nate[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 44,
     .species = SPECIES_GRUMPIG,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Mossdeep Gym Hex Maniac - Southeast (Double Battle w Clifford or Nicholas)
@@ -10176,7 +10176,7 @@ static const struct TrainerMon sParty_Kathleen[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_ALAKAZAM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Mossdeep Gym Gentleman 1 - Southeast (Double Battle w Macey or Kathleen)
@@ -10185,7 +10185,7 @@ static const struct TrainerMon sParty_Clifford[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_GIRAFARIG,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Mossdeep Gym PsychicM 3 - Entrance Room (Double Battle w Kathleen)
@@ -10194,7 +10194,7 @@ static const struct TrainerMon sParty_Nicholas[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_WOBBUFFET,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Space Center
@@ -10203,13 +10203,13 @@ static const struct TrainerMon sParty_GruntSpaceCenter3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 44,
     .species = SPECIES_GOLBAT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 44,
     .species = SPECIES_MIGHTYENA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Space Center
@@ -10218,7 +10218,7 @@ static const struct TrainerMon sParty_GruntSpaceCenter4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_RHYDON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Space Center
@@ -10227,7 +10227,7 @@ static const struct TrainerMon sParty_GruntSpaceCenter5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_NINETALES,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Space Center
@@ -10236,7 +10236,7 @@ static const struct TrainerMon sParty_GruntSpaceCenter6[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 46,
     .species = SPECIES_MIGHTYENA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Space Center
@@ -10245,7 +10245,7 @@ static const struct TrainerMon sParty_GruntSpaceCenter7[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_CLAYDOL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Mossdeep Gym PsychicF 4 - Southeast (Double Battle w Clifford)
@@ -10254,7 +10254,7 @@ static const struct TrainerMon sParty_Macey[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_XATU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Rival 2 Torchic & Lotad
@@ -10297,19 +10297,19 @@ static const struct TrainerMon sParty_Paxton[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 46,
     .species = SPECIES_SWELLOW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 46,
     .species = SPECIES_BRELOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 46,
     .species = SPECIES_CHIMECHO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 124 TriathleteF
@@ -10318,7 +10318,7 @@ static const struct TrainerMon sParty_Isabella[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_STARMIE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Weather Institute Aqua GruntF (2nd floor double)
@@ -10327,13 +10327,13 @@ static const struct TrainerMon sParty_GruntWeatherInst5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_SNEASEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_WAILMER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Magma Admin Mt Chimney 
@@ -10366,19 +10366,19 @@ static const struct TrainerMon sParty_Jonathan[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 46,
     .species = SPECIES_KECLEON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 46,
     .species = SPECIES_EXPLOUD,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 46,
     .species = SPECIES_SABLEYE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Rival 2 Mudkip & Slugma
@@ -10498,13 +10498,13 @@ static const struct TrainerMon sParty_Tiana[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_ZIGZAGOON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_SHROOMISH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Route 104 North Lass
@@ -10513,13 +10513,13 @@ static const struct TrainerMon sParty_Haley1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 9,
     .species = SPECIES_LOTAD,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 9,
     .species = SPECIES_SHROOMISH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 116 Cut Lass
@@ -10528,13 +10528,13 @@ static const struct TrainerMon sParty_Janice[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 13,
     .species = SPECIES_VULPIX,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 13,
     .species = SPECIES_MARILL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
 };
 // Winstrate House
@@ -10543,19 +10543,19 @@ static const struct TrainerMon sParty_Vivi[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 18,
     .species = SPECIES_MARILL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 18,
     .species = SPECIES_SHROOMISH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 18,
     .species = SPECIES_NUMEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -10564,13 +10564,13 @@ static const struct TrainerMon sParty_Haley2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_LOMBRE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_SHROOMISH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -10579,13 +10579,13 @@ static const struct TrainerMon sParty_Haley3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 33,
     .species = SPECIES_LOMBRE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 33,
     .species = SPECIES_BRELOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -10594,13 +10594,13 @@ static const struct TrainerMon sParty_Haley4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 44,
     .species = SPECIES_LOMBRE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 44,
     .species = SPECIES_BRELOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -10609,19 +10609,19 @@ static const struct TrainerMon sParty_Haley5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 57,
     .species = SPECIES_SWELLOW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 58,
     .species = SPECIES_LUDICOLO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 58,
     .species = SPECIES_BRELOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Trick House 1 (Cut) Lass 
@@ -10630,7 +10630,7 @@ static const struct TrainerMon sParty_Sally[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 19,
     .species = SPECIES_ODDISH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Trick House 1 (Cut) Lass
@@ -10639,19 +10639,19 @@ static const struct TrainerMon sParty_Robin[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 17,
     .species = SPECIES_LOMBRE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 17,
     .species = SPECIES_ZIGZAGOON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 17,
     .species = SPECIES_SANDSHREW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Sootopolis Gym Lass 1 (Lowest Level)
@@ -10660,7 +10660,7 @@ static const struct TrainerMon sParty_Andrea[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 49,
     .species = SPECIES_GYARADOS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Sootopolis Gym Lass 2 (Highest Level - Double Battle w Tiffany)
@@ -10669,13 +10669,13 @@ static const struct TrainerMon sParty_Crissy[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_SEAKING,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_WAILORD,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Route 102 Bug Catcher
@@ -10684,13 +10684,13 @@ static const struct TrainerMon sParty_Rick[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_WURMPLE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_WURMPLE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Petalburg Woods Bug Catcher 1
@@ -10699,25 +10699,25 @@ static const struct TrainerMon sParty_Lyle[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_CASCOON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_SILCOON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 8,
     .species = SPECIES_CASCOON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 8,
     .species = SPECIES_SILCOON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 116 Bug Catcher - Wurmple & Nincada
@@ -10726,13 +10726,13 @@ static const struct TrainerMon sParty_Jose[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 10,
     .species = SPECIES_SILCOON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 10,
     .species = SPECIES_NINCADA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 119 Bug Catcher 3
@@ -10741,13 +10741,13 @@ static const struct TrainerMon sParty_Doug[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_NINJASK,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_SHEDINJA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 119 Bug Catcher 2
@@ -10756,13 +10756,13 @@ static const struct TrainerMon sParty_Greg[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_VOLBEAT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_ILLUMISE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 119 Bug Catcher 1
@@ -10771,7 +10771,7 @@ static const struct TrainerMon sParty_Kent[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 27,
     .species = SPECIES_PINSIR,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Petalburg Woods Bug Catcher 2
@@ -10780,13 +10780,13 @@ static const struct TrainerMon sParty_James1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 8,
     .species = SPECIES_NINCADA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 9,
     .species = SPECIES_NINCADA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -10795,19 +10795,19 @@ static const struct TrainerMon sParty_James2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_NINCADA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_NINJASK,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_SHEDINJA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -10816,19 +10816,19 @@ static const struct TrainerMon sParty_James3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 34,
     .species = SPECIES_DUSTOX,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 33,
     .species = SPECIES_NINJASK,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 35,
     .species = SPECIES_SHEDINJA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -10837,19 +10837,19 @@ static const struct TrainerMon sParty_James4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 52,
     .species = SPECIES_HERACROSS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 52,
     .species = SPECIES_NINJASK,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 52,
     .species = SPECIES_SCYTHER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -10915,13 +10915,13 @@ static const struct TrainerMon sParty_Brice[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 23,
     .species = SPECIES_NUMEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 23,
     .species = SPECIES_MACHOP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 112 South Section Hiker 1
@@ -10930,19 +10930,19 @@ static const struct TrainerMon sParty_Trent1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 23,
     .species = SPECIES_GEODUDE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 24,
     .species = SPECIES_GEODUDE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 25,
     .species = SPECIES_GEODUDE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 114 Hiker 2
@@ -10951,13 +10951,13 @@ static const struct TrainerMon sParty_Lenny[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 26,
     .species = SPECIES_GEODUDE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 26,
     .species = SPECIES_MACHOP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 114 Hiker 1
@@ -10966,13 +10966,13 @@ static const struct TrainerMon sParty_Lucas1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 26,
     .species = SPECIES_GEODUDE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 26,
     .species = SPECIES_NUMEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Trick House 3 Hiker
@@ -10981,19 +10981,19 @@ static const struct TrainerMon sParty_Alan[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 26,
     .species = SPECIES_GEODUDE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 27,
     .species = SPECIES_NOSEPASS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 27,
     .species = SPECIES_GRAVELER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 116 Hiker 1
@@ -11002,13 +11002,13 @@ static const struct TrainerMon sParty_Clark[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 11,
     .species = SPECIES_GEODUDE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 10,
     .species = SPECIES_GEODUDE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Jagged Pass Hiker
@@ -11017,13 +11017,13 @@ static const struct TrainerMon sParty_Eric[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_GRAVELER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_BALTOY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Flag Note: what is this? 114 
@@ -11059,19 +11059,19 @@ static const struct TrainerMon sParty_Mike2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 20,
     .species = SPECIES_GEODUDE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 20,
     .species = SPECIES_SABLEYE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 20,
     .species = SPECIES_RHYHORN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -11080,25 +11080,25 @@ static const struct TrainerMon sParty_Trent2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 26,
     .species = SPECIES_GEODUDE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 26,
     .species = SPECIES_GEODUDE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 26,
     .species = SPECIES_GEODUDE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 27,
     .species = SPECIES_GRAVELER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -11107,25 +11107,25 @@ static const struct TrainerMon sParty_Trent3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_GEODUDE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_GEODUDE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_GRAVELER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 33,
     .species = SPECIES_GRAVELER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -11134,25 +11134,25 @@ static const struct TrainerMon sParty_Trent4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 56,
     .species = SPECIES_PUPITAR,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 57,
     .species = SPECIES_ARMALDO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 57,
     .species = SPECIES_GOLEM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 57,
     .species = SPECIES_GOLEM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -11218,13 +11218,13 @@ static const struct TrainerMon sParty_DezAndLuke[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_DELCATTY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_MANECTRIC,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // SS Tidal Young Couple (nat dex)
@@ -11233,13 +11233,13 @@ static const struct TrainerMon sParty_LeaAndJed[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 53,
     .species = SPECIES_MILTANK,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 53,
     .species = SPECIES_SLOWBRO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Abandoned Ship
@@ -11248,13 +11248,13 @@ static const struct TrainerMon sParty_KiraAndDan1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 33,
     .species = SPECIES_VOLBEAT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 33,
     .species = SPECIES_ILLUMISE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -11263,13 +11263,13 @@ static const struct TrainerMon sParty_KiraAndDan2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_VOLBEAT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_ILLUMISE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -11278,13 +11278,13 @@ static const struct TrainerMon sParty_KiraAndDan3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_VOLBEAT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_ILLUMISE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -11293,13 +11293,13 @@ static const struct TrainerMon sParty_KiraAndDan4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 46,
     .species = SPECIES_VOLBEAT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 46,
     .species = SPECIES_ILLUMISE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -11308,13 +11308,13 @@ static const struct TrainerMon sParty_KiraAndDan5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 58,
     .species = SPECIES_VOLBEAT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 58,
     .species = SPECIES_ILLUMISE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 109 Seashore House Beauty
@@ -11323,13 +11323,13 @@ static const struct TrainerMon sParty_Johanna[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 18,
     .species = SPECIES_HORSEA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 18,
     .species = SPECIES_ODDISH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Lavaridge Gym CooltrainerM
@@ -11392,13 +11392,13 @@ static const struct TrainerMon sParty_Keigo[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_SWALOT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_NINJASK,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 120 Ninja Boy 1
@@ -11424,13 +11424,13 @@ static const struct TrainerMon sParty_Flint[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 35,
     .species = SPECIES_SWELLOW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_XATU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Fortree Gym Picknicker
@@ -11439,13 +11439,13 @@ static const struct TrainerMon sParty_Ashley[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 35,
     .species = SPECIES_SWABLU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 35,
     .species = SPECIES_DODRIO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Mauville
@@ -11454,7 +11454,7 @@ static const struct TrainerMon sParty_WallyMauville[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 18,
     .species = SPECIES_RALTS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Rematch 1
@@ -11896,19 +11896,19 @@ static const struct TrainerMon sParty_Jonah[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 39,
     .species = SPECIES_TENTACRUEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_WAILMER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_SHARPEDO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 127 Fisherman 3
@@ -11917,19 +11917,19 @@ static const struct TrainerMon sParty_Henry[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_CLAMPERL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_SEAKING,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_WAILMER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 127 Fisherman 2
@@ -11938,31 +11938,31 @@ static const struct TrainerMon sParty_Roger[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_MAGIKARP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_GYARADOS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_GYARADOS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_GYARADOS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_GYARADOS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 128 CooltrainerF
@@ -11971,13 +11971,13 @@ static const struct TrainerMon sParty_Alexa[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_BELLOSSOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_VILEPLUME,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 128 CooltrainerM
@@ -11986,13 +11986,13 @@ static const struct TrainerMon sParty_Ruben[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_MASQUERAIN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_NOSEPASS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 127 Black Belt 
@@ -12001,7 +12001,7 @@ static const struct TrainerMon sParty_Koji1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_BRELOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 128 Fisherman 
@@ -12010,19 +12010,19 @@ static const struct TrainerMon sParty_Wayne[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_TENTACRUEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_TENTACRUEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_WAILORD,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 127 Bird Keeper
@@ -12031,13 +12031,13 @@ static const struct TrainerMon sParty_Aidan[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_TROPIUS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_SKARMORY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 129 SwimmerM note we need to give all these mons surf lol
@@ -12046,19 +12046,19 @@ static const struct TrainerMon sParty_Reed[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_LINOONE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_ZANGOOSE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_EXPLOUD,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 129 SwimmerF
@@ -12067,7 +12067,7 @@ static const struct TrainerMon sParty_Tisha[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_LANTURN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 113 Twins
@@ -12076,13 +12076,13 @@ static const struct TrainerMon sParty_ToriAndTia[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 26,
     .species = SPECIES_SPINDA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 26,
     .species = SPECIES_SNORUNT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 125 Sr and Jr
@@ -12255,13 +12255,13 @@ static const struct TrainerMon sParty_ReliAndIan[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_LINOONE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_LINOONE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 124 Sis and Bro
@@ -12270,13 +12270,13 @@ static const struct TrainerMon sParty_LilaAndRoy1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 39,
     .species = SPECIES_CORSOLA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 39,
     .species = SPECIES_RELICANTH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -12285,13 +12285,13 @@ static const struct TrainerMon sParty_LilaAndRoy2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_CORSOLA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_RELICANTH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -12300,13 +12300,13 @@ static const struct TrainerMon sParty_LilaAndRoy3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_CORSOLA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_RELICANTH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -12315,25 +12315,25 @@ static const struct TrainerMon sParty_LilaAndRoy4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 53,
     .species = SPECIES_CORSOLA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 52,
     .species = SPECIES_LANTURN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 53,
     .species = SPECIES_RELICANTH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 52,
     .species = SPECIES_SHARPEDO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -12342,25 +12342,25 @@ static const struct TrainerMon sParty_LilaAndRoy5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 61,
     .species = SPECIES_CORSOLA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 60,
     .species = SPECIES_LANTURN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 60,
     .species = SPECIES_RELICANTH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 61,
     .species = SPECIES_SHARPEDO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 107 Sis and Bro
@@ -12369,13 +12369,13 @@ static const struct TrainerMon sParty_LisaAndRay[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_GOLDEEN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 27,
     .species = SPECIES_TENTACOOL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 119 Fisherman 
@@ -12384,25 +12384,25 @@ static const struct TrainerMon sParty_Chris[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 27,
     .species = SPECIES_GYARADOS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_TENTACOOL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 32,
     .species = SPECIES_FEEBAS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_CARVANHA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 116 Cut Rich Boy
@@ -12411,15 +12411,15 @@ static const struct TrainerMon sParty_Dawson[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 12,
     .species = SPECIES_SPOINK,
-    .heldItem = ITEM_NUGGET
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_NUGGET,
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 12,
     .species = SPECIES_POOCHYENA,
-    .heldItem = ITEM_NONE
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_NONE,
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 116 Cut Lady
@@ -12428,15 +12428,15 @@ static const struct TrainerMon sParty_Sarah[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 12,
     .species = SPECIES_LOTAD,
-    .heldItem = ITEM_NONE
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_NONE,
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 14,
     .species = SPECIES_IGGLYBUFF,
-    .heldItem = ITEM_NUGGET
-    .evs = {84, 84, 84, 84, 84, 84},
+    .heldItem = ITEM_NUGGET,
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Route 104 Fisherman
@@ -12445,13 +12445,13 @@ static const struct TrainerMon sParty_Darian[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 10,
     .species = SPECIES_MAGIKARP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 11,
     .species = SPECIES_GOLDEEN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 109 TuberF 1 (Potential Double Battle with Edmond or Ricky)
@@ -12460,7 +12460,7 @@ static const struct TrainerMon sParty_Hailey[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 16,
     .species = SPECIES_MARILL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 109 TuberM 2 (Potential Double Battle with Lola)
@@ -12469,13 +12469,13 @@ static const struct TrainerMon sParty_Chandler[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 15,
     .species = SPECIES_STARYU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 15,
     .species = SPECIES_CORPHISH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Route 110 PokefanM 1 (Double Battle w Isabel)
@@ -12503,13 +12503,13 @@ static const struct TrainerMon sParty_Joseph[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 17,
     .species = SPECIES_ELECTRIKE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 17,
     .species = SPECIES_VOLTORB,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 110 Triathlete
@@ -12518,7 +12518,7 @@ static const struct TrainerMon sParty_Alyssa[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 20,
     .species = SPECIES_MAGNEMITE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 103 Cut Guitarist (Double Battle w Rhett)
@@ -12527,13 +12527,13 @@ static const struct TrainerMon sParty_Marcos[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 19,
     .species = SPECIES_VOLTORB,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 19,
     .species = SPECIES_WHISMUR,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
 };
 // Route 103 Cut Black Belt (Double Battle w Marcos)
@@ -12542,7 +12542,7 @@ static const struct TrainerMon sParty_Rhett[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 20,
     .species = SPECIES_MAKUHITA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Route 111 South Camper 
@@ -12551,7 +12551,7 @@ static const struct TrainerMon sParty_Tyron[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 23,
     .species = SPECIES_SANDSHREW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Route 111 South Aroma Lady
@@ -12560,7 +12560,7 @@ static const struct TrainerMon sParty_Celina[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 23,
     .species = SPECIES_ROSELIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Route 111 South Picnicker
@@ -12569,7 +12569,7 @@ static const struct TrainerMon sParty_Bianca[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 23,
     .species = SPECIES_SHROOMISH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Route 111 Mid Kindler
@@ -12578,7 +12578,7 @@ static const struct TrainerMon sParty_Hayden[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 24,
     .species = SPECIES_NUMEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 113 Picnicker
@@ -12587,13 +12587,13 @@ static const struct TrainerMon sParty_Sophie[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 25,
     .species = SPECIES_MARILL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 25,
     .species = SPECIES_LOMBRE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 113 Bird Keeper (optional double)
@@ -12602,13 +12602,13 @@ static const struct TrainerMon sParty_Coby[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 24,
     .species = SPECIES_SKARMORY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 24,
     .species = SPECIES_SWELLOW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 113 Camper
@@ -12617,13 +12617,13 @@ static const struct TrainerMon sParty_Lawrence[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 25,
     .species = SPECIES_BALTOY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 25,
     .species = SPECIES_SANDSHREW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 113 Pokemaniac
@@ -12632,7 +12632,7 @@ static const struct TrainerMon sParty_Wyatt[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 25,
     .species = SPECIES_SNEASEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 114 Picnicker 3
@@ -12641,13 +12641,13 @@ static const struct TrainerMon sParty_Angelina[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 26,
     .species = SPECIES_SWABLU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 26,
     .species = SPECIES_SURSKIT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 114 Fisherman 2
@@ -12656,7 +12656,7 @@ static const struct TrainerMon sParty_Kai[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 27,
     .species = SPECIES_BARBOACH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 114 Picnicker 1
@@ -12665,7 +12665,7 @@ static const struct TrainerMon sParty_Charlotte[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 26,
     .species = SPECIES_BRELOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Route 118 Mauville Youngster
@@ -12674,19 +12674,19 @@ static const struct TrainerMon sParty_Deandre[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 18,
     .species = SPECIES_ZIGZAGOON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 19,
     .species = SPECIES_ARON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 18,
     .species = SPECIES_ELECTRIKE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Magma Hideout Entrance (Elevated Level)
@@ -12695,7 +12695,7 @@ static const struct TrainerMon sParty_GruntMagmaHideout1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_GRAVELER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Magma Hideout Entrance Magma GruntM
@@ -12704,7 +12704,7 @@ static const struct TrainerMon sParty_GruntMagmaHideout2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_ZANGOOSE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Magma Hideout 1F Magma GruntM
@@ -12713,7 +12713,7 @@ static const struct TrainerMon sParty_GruntMagmaHideout3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_TORKOAL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Magma Hideout 1F Magma GruntM (Double)
@@ -12722,13 +12722,13 @@ static const struct TrainerMon sParty_GruntMagmaHideout4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_DONPHAN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_GOLBAT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Magma Hideout 1F Magma GruntM (Double)
@@ -12737,13 +12737,13 @@ static const struct TrainerMon sParty_GruntMagmaHideout5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_MIGHTYENA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 35,
     .species = SPECIES_CACTURNE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Magma Hideout 1F Magma GruntF
@@ -12752,7 +12752,7 @@ static const struct TrainerMon sParty_GruntMagmaHideout6[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_NINETALES,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Magma Hideout B1F Magma GruntM
@@ -12761,13 +12761,13 @@ static const struct TrainerMon sParty_GruntMagmaHideout7[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_RHYHORN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_KOFFING,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Magma Hideout B1F Magma GruntM
@@ -12776,7 +12776,7 @@ static const struct TrainerMon sParty_GruntMagmaHideout8[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_LAIRON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Magma Hideout B2F Magma GruntM
@@ -12785,13 +12785,13 @@ static const struct TrainerMon sParty_GruntMagmaHideout9[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_GRAVELER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_MAGCARGO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Magma Hideout B1F Magma GruntM
@@ -12800,7 +12800,7 @@ static const struct TrainerMon sParty_GruntMagmaHideout10[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_MIGHTYENA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Magma Hideout B2F Magma GruntF
@@ -12809,13 +12809,13 @@ static const struct TrainerMon sParty_GruntMagmaHideout11[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_ZANGOOSE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_BALTOY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Magma Hideout B1F Magma GruntF
@@ -12824,13 +12824,13 @@ static const struct TrainerMon sParty_GruntMagmaHideout12[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_MURKROW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_RHYHORN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Magma Hideout B4F Magma GruntM (DOUBLE)
@@ -12839,13 +12839,13 @@ static const struct TrainerMon sParty_GruntMagmaHideout13[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_MAGCARGO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_GOLBAT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Magma Hideout B1F Magma GruntM
@@ -12854,7 +12854,7 @@ static const struct TrainerMon sParty_GruntMagmaHideout14[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_WEEZING,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Magma Hideout B4F Magma GruntM (DOUBLE)
@@ -12863,13 +12863,13 @@ static const struct TrainerMon sParty_GruntMagmaHideout15[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_MURKROW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_LAIRON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Magma Hideout B4F Magma GruntM
@@ -12878,7 +12878,7 @@ static const struct TrainerMon sParty_GruntMagmaHideout16[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 39,
     .species = SPECIES_CLAYDOL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Magma Admin Magma Hideout
@@ -12918,19 +12918,19 @@ static const struct TrainerMon sParty_Darcy[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_ALTARIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_CACTURNE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_CAMERUPT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Magma Leader Space Center (Double SC)
@@ -12966,7 +12966,7 @@ static const struct TrainerMon sParty_Pete[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 32,
     .species = SPECIES_TENTACRUEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 103 Surf SwimmerF 
@@ -12975,7 +12975,7 @@ static const struct TrainerMon sParty_Isabelle[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 32,
     .species = SPECIES_AZUMARILL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 105 Ruin Maniac
@@ -12984,13 +12984,13 @@ static const struct TrainerMon sParty_Andres1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_BALTOY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_TRAPINCH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 105 Bird Keeper
@@ -12999,13 +12999,13 @@ static const struct TrainerMon sParty_Josue[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_SWABLU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_SWELLOW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 107 Triathlete
@@ -13014,7 +13014,7 @@ static const struct TrainerMon sParty_Camron[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_STARYU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 108 Sailor (Double Battle w Carolina)
@@ -13023,19 +13023,19 @@ static const struct TrainerMon sParty_Cory1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_HARIYAMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_MACHOKE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_TENTACOOL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 108 Cooltrainer F (Double Battle with Cory)
@@ -13044,19 +13044,19 @@ static const struct TrainerMon sParty_Carolina[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_MANECTRIC,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_SWELLOW,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_MANECTRIC,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Route 109 Surf Bird Keeper
@@ -13065,13 +13065,13 @@ static const struct TrainerMon sParty_Elijah[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_SKARMORY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 29,
     .species = SPECIES_SKARMORY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 //Route 111 Desert Picnicker 3
@@ -13131,13 +13131,13 @@ static const struct TrainerMon sParty_Bryant[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 24,
     .species = SPECIES_NUMEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 24,
     .species = SPECIES_SLUGMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 112 North Section Aroma Lady
@@ -13146,13 +13146,13 @@ static const struct TrainerMon sParty_Shayla[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 24,
     .species = SPECIES_SHROOMISH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 22,
     .species = SPECIES_ROSELIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 115 Surf Triathlete
@@ -13161,13 +13161,13 @@ static const struct TrainerMon sParty_Kyra[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_PONYTA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 34,
     .species = SPECIES_DODRIO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 115 Surf Ninja Boy
@@ -13176,13 +13176,13 @@ static const struct TrainerMon sParty_Jaiden[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_NINJASK,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 33,
     .species = SPECIES_SHEDINJA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 115 Surf Psychic (Double Battle w Helene)
@@ -13191,13 +13191,13 @@ static const struct TrainerMon sParty_Alix[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 33,
     .species = SPECIES_KADABRA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 33,
     .species = SPECIES_GARDEVOIR,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 115 Surf Battle Girl (Double Battle w Alix)
@@ -13206,13 +13206,13 @@ static const struct TrainerMon sParty_Helene[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 34,
     .species = SPECIES_MEDITITE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_HARIYAMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 115 Psychic
@@ -13221,13 +13221,13 @@ static const struct TrainerMon sParty_Marlene[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_KIRLIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_SPOINK,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 116 Hiker 2
@@ -13236,13 +13236,13 @@ static const struct TrainerMon sParty_Devan[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 10,
     .species = SPECIES_GEODUDE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 11,
     .species = SPECIES_GEODUDE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 116 Youngster 2
@@ -13251,13 +13251,13 @@ static const struct TrainerMon sParty_Johnson[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 10,
     .species = SPECIES_POOCHYENA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 10,
     .species = SPECIES_LOTAD,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 117 TriathleteF 2
@@ -13266,7 +13266,7 @@ static const struct TrainerMon sParty_Melina[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 21,
     .species = SPECIES_PONYTA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 117 Psychic
@@ -13275,7 +13275,7 @@ static const struct TrainerMon sParty_Brandi[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 22,
     .species = SPECIES_KIRLIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 117 Battle Girl
@@ -13284,7 +13284,7 @@ static const struct TrainerMon sParty_Aisha[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 21,
     .species = SPECIES_MEDITITE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 132 ExpertF
@@ -13293,19 +13293,19 @@ static const struct TrainerMon sParty_Makayla[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 46,
     .species = SPECIES_ROSELIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 46,
     .species = SPECIES_GLALIE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 46,
     .species = SPECIES_MEDICHAM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 119 (Post Weather Insitute) Guitarist
@@ -13314,7 +13314,7 @@ static const struct TrainerMon sParty_Fabian[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 32,
     .species = SPECIES_MANECTRIC,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 119 Kindler
@@ -13323,13 +13323,13 @@ static const struct TrainerMon sParty_Dayton[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 27,
     .species = SPECIES_SLUGMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 27,
     .species = SPECIES_NUMEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 119 Parasol Lady
@@ -13338,7 +13338,7 @@ static const struct TrainerMon sParty_Rachel[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 28,
     .species = SPECIES_GOLDEEN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 120 CooltrainerM
@@ -13357,13 +13357,13 @@ static const struct TrainerMon sParty_Callie[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 33,
     .species = SPECIES_MEDITITE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 33,
     .species = SPECIES_HARIYAMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 121 Bug Maniac
@@ -13372,13 +13372,13 @@ static const struct TrainerMon sParty_Cale[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_TRAPINCH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_VIBRAVA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 121 BreederM
@@ -13387,31 +13387,31 @@ static const struct TrainerMon sParty_Myles[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_RAICHU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_SEAKING,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_NOSEPASS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_WIGGLYTUFF,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_BELLOSSOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 121 BreederF
@@ -13420,31 +13420,31 @@ static const struct TrainerMon sParty_Pat[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_LINOONE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_VILEPLUME,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_MANECTRIC,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_AZUMARILL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_SWALOT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Route 121 CooltrainerF
@@ -13453,13 +13453,13 @@ static const struct TrainerMon sParty_Cristin1[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_DONPHAN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 36,
     .species = SPECIES_GOLDUCK,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Rival 2 Torchic & Lotad
@@ -15075,13 +15075,13 @@ static const struct TrainerMon sParty_Darius[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 35,
     .species = SPECIES_PELIPPER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 35,
     .species = SPECIES_TROPIUS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Champion
@@ -15192,7 +15192,7 @@ static const struct TrainerMon sParty_Anabel[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_BELDUM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -15201,7 +15201,7 @@ static const struct TrainerMon sParty_Tucker[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_BELDUM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -15210,7 +15210,7 @@ static const struct TrainerMon sParty_Spenser[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_BELDUM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -15219,7 +15219,7 @@ static const struct TrainerMon sParty_Greta[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_BELDUM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -15228,7 +15228,7 @@ static const struct TrainerMon sParty_Noland[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_BELDUM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -15237,7 +15237,7 @@ static const struct TrainerMon sParty_Lucy[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_BELDUM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -15246,7 +15246,7 @@ static const struct TrainerMon sParty_Brandon[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_BELDUM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -15255,19 +15255,19 @@ static const struct TrainerMon sParty_Andres2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 34,
     .species = SPECIES_SANDSLASH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 34,
     .species = SPECIES_WHISCASH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 35,
     .species = SPECIES_VIBRAVA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -15276,19 +15276,19 @@ static const struct TrainerMon sParty_Andres3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_SANDSLASH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_CLAYDOL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_FLYGON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -15297,19 +15297,19 @@ static const struct TrainerMon sParty_Andres4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 53,
     .species = SPECIES_SANDSLASH,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 53,
     .species = SPECIES_SWAMPERT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 55,
     .species = SPECIES_FLYGON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -15375,19 +15375,19 @@ static const struct TrainerMon sParty_Cory2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 33,
     .species = SPECIES_HARIYAMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 33,
     .species = SPECIES_MACHOKE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 33,
     .species = SPECIES_TENTACRUEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -15396,19 +15396,19 @@ static const struct TrainerMon sParty_Cory3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 40,
     .species = SPECIES_HARIYAMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 40,
     .species = SPECIES_MACHOKE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 40,
     .species = SPECIES_TENTACRUEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -15417,19 +15417,19 @@ static const struct TrainerMon sParty_Cory4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 50,
     .species = SPECIES_HARIYAMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 50,
     .species = SPECIES_MACHAMP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 51,
     .species = SPECIES_TENTACRUEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -15438,19 +15438,19 @@ static const struct TrainerMon sParty_Cory5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 59,
     .species = SPECIES_HARIYAMA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 58,
     .species = SPECIES_MACHAMP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 60,
     .species = SPECIES_TENTACRUEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -15459,13 +15459,13 @@ static const struct TrainerMon sParty_Pablo2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_SEALEO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_STARMIE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -15474,13 +15474,13 @@ static const struct TrainerMon sParty_Pablo3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_WALREIN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_PILOSWINE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -15489,19 +15489,19 @@ static const struct TrainerMon sParty_Pablo4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 59,
     .species = SPECIES_PILOSWINE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 59,
     .species = SPECIES_SNEASEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 61,
     .species = SPECIES_WALREIN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -15568,13 +15568,13 @@ static const struct TrainerMon sParty_Koji2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_BRELOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 40,
     .species = SPECIES_MACHOKE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -15583,19 +15583,19 @@ static const struct TrainerMon sParty_Koji3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 47,
     .species = SPECIES_BRELOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_MACHOKE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_MACHAMP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -15604,19 +15604,19 @@ static const struct TrainerMon sParty_Koji4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_BRELOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_MACHAMP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 47,
     .species = SPECIES_MACHAMP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -15625,19 +15625,19 @@ static const struct TrainerMon sParty_Koji5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 58,
     .species = SPECIES_BRELOOM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 59,
     .species = SPECIES_MACHAMP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 60,
     .species = SPECIES_MACHAMP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -15646,13 +15646,13 @@ static const struct TrainerMon sParty_Cristin2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 39,
     .species = SPECIES_DONPHAN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 39,
     .species = SPECIES_SLAKING,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -15661,19 +15661,19 @@ static const struct TrainerMon sParty_Cristin3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_LINOONE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_DONPHAN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_SLAKING,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -15682,19 +15682,19 @@ static const struct TrainerMon sParty_Cristin4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 60,
     .species = SPECIES_SLAKING,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 60,
     .species = SPECIES_EXPLOUD,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 60,
     .species = SPECIES_SNORLAX,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -15759,20 +15759,20 @@ static const struct TrainerMon sParty_Fernando2[] = {
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
-    .species = SPECIES_ELECTRODE
-    .evs = {84, 84, 84, 84, 84, 84},
+    .species = SPECIES_ELECTRODE,
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 38,
     .species = SPECIES_MANECTRIC,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_LOUDRED,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -15781,19 +15781,19 @@ static const struct TrainerMon sParty_Fernando3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 42,
     .species = SPECIES_ELECTRODE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_MANECTRIC,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 43,
     .species = SPECIES_EXPLOUD,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -15802,19 +15802,19 @@ static const struct TrainerMon sParty_Fernando4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_ELECTRODE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 47,
     .species = SPECIES_MANECTRIC,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 49,
     .species = SPECIES_EXPLOUD,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -15823,19 +15823,19 @@ static const struct TrainerMon sParty_Fernando5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 61,
     .species = SPECIES_ELECTRODE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 63,
     .species = SPECIES_MANECTRIC,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 65,
     .species = SPECIES_EXPLOUD,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -15844,13 +15844,13 @@ static const struct TrainerMon sParty_Sawyer2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 30,
     .species = SPECIES_GRAVELER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 32,
     .species = SPECIES_NUMEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -15859,19 +15859,19 @@ static const struct TrainerMon sParty_Sawyer3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_MACHOKE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_NUMEL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 41,
     .species = SPECIES_GRAVELER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -15880,19 +15880,19 @@ static const struct TrainerMon sParty_Sawyer4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 49,
     .species = SPECIES_MACHOKE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 49,
-    .species = SPECIES_CAMERUPT
-    .evs = {84, 84, 84, 84, 84, 84},
+    .species = SPECIES_CAMERUPT,
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 49,
     .species = SPECIES_GRAVELER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -15901,19 +15901,19 @@ static const struct TrainerMon sParty_Sawyer5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 60,
     .species = SPECIES_MACHAMP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 61,
     .species = SPECIES_CAMERUPT,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 62,
     .species = SPECIES_GOLEM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -15922,25 +15922,25 @@ static const struct TrainerMon sParty_Gabrielle2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 35,
     .species = SPECIES_SHUPPET,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 35,
     .species = SPECIES_DUSKULL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 35,
     .species = SPECIES_NATU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 35,
     .species = SPECIES_CHIMECHO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -15949,25 +15949,25 @@ static const struct TrainerMon sParty_Gabrielle3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 42,
     .species = SPECIES_SHUPPET,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 42,
     .species = SPECIES_DUSCLOPS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 42,
     .species = SPECIES_XATU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 42,
     .species = SPECIES_CHIMECHO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -15976,25 +15976,25 @@ static const struct TrainerMon sParty_Gabrielle4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 50,
     .species = SPECIES_BANETTE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 50,
     .species = SPECIES_DUSCLOPS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 50,
     .species = SPECIES_XATU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 50,
     .species = SPECIES_CHIMECHO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -16003,25 +16003,25 @@ static const struct TrainerMon sParty_Gabrielle5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 58,
     .species = SPECIES_BANETTE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 58,
     .species = SPECIES_DUSCLOPS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 58,
     .species = SPECIES_XATU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 58,
     .species = SPECIES_CHIMECHO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -16030,19 +16030,19 @@ static const struct TrainerMon sParty_Thalia2[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_ROSELIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_SWABLU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 37,
     .species = SPECIES_SEADRA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -16051,19 +16051,19 @@ static const struct TrainerMon sParty_Thalia3[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 39,
     .species = SPECIES_ROSELIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 39,
     .species = SPECIES_ALTARIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 39,
     .species = SPECIES_SEADRA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -16072,19 +16072,19 @@ static const struct TrainerMon sParty_Thalia4[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_ROSELIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 49,
     .species = SPECIES_ALTARIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 48,
     .species = SPECIES_SEADRA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -16093,19 +16093,19 @@ static const struct TrainerMon sParty_Thalia5[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 58,
     .species = SPECIES_ROSELIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 60,
     .species = SPECIES_ALTARIA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 61,
     .species = SPECIES_KINGDRA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Trick Room 7
@@ -16114,7 +16114,7 @@ static const struct TrainerMon sParty_Mariela[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 46,
     .species = SPECIES_CHIMECHO,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Trick Room 7
@@ -16123,13 +16123,13 @@ static const struct TrainerMon sParty_Alvaro[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 45,
     .species = SPECIES_DUSCLOPS,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 44,
     .species = SPECIES_ALAKAZAM,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Trick Room 7
@@ -16138,7 +16138,7 @@ static const struct TrainerMon sParty_Everett[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 44,
     .species = SPECIES_WOBBUFFET,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -16147,7 +16147,7 @@ static const struct TrainerMon sParty_Red[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_CHARMANDER,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -16156,7 +16156,7 @@ static const struct TrainerMon sParty_Leaf[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_BULBASAUR,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -16165,7 +16165,7 @@ static const struct TrainerMon sParty_BrendanLinkPlaceholder[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_GROUDON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -16174,7 +16174,7 @@ static const struct TrainerMon sParty_MayLinkPlaceholder[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_KYOGRE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Dewford Gym (added) Black Belt 3 (Top Left)
@@ -16183,13 +16183,13 @@ static const struct TrainerMon sParty_Kenji[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 14,
     .species = SPECIES_MAKUHITA,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 16,
     .species = SPECIES_MACHOP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -16199,13 +16199,13 @@ static const struct TrainerMon sParty_Tully[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 13,
     .species = SPECIES_GOLDEEN,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 13,
     .species = SPECIES_TENTACOOL,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Granite Cave Hiker 1 (added) 
@@ -16214,7 +16214,7 @@ static const struct TrainerMon sParty_Daniel[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 17,
     .species = SPECIES_GEODUDE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Granite Cave Hiker 2 (added) 
@@ -16223,13 +16223,13 @@ static const struct TrainerMon sParty_Tobin[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 15,
     .species = SPECIES_GEODUDE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 15,
     .species = SPECIES_MACHOP,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 // Petalburg (added)
@@ -17027,37 +17027,37 @@ static const struct TrainerMon sParty_Eva[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_CLEFAIRY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_CLEFAIRY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_CLEFAIRY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_CLEFAIRY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_CLEFAIRY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_VAPOREON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -17067,37 +17067,37 @@ static const struct TrainerMon sParty_Evin[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_NUZLEAF,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_NUZLEAF,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_NUZLEAF,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_NUZLEAF,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_NUZLEAF,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_FLAREON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -17107,37 +17107,37 @@ static const struct TrainerMon sParty_Eve[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_SILCOON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_CASCOON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_SILCOON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_CASCOON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_SILCOON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_EEVEE,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -17147,37 +17147,37 @@ static const struct TrainerMon sParty_Evangelos[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_PIKACHU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_PIKACHU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_PIKACHU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_PIKACHU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_PIKACHU,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_JOLTEON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -17187,37 +17187,37 @@ static const struct TrainerMon sParty_Evvi[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_FLAAFFY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_FLAAFFY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_FLAAFFY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_FLAAFFY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_FLAAFFY,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_ESPEON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };
 
@@ -17227,36 +17227,36 @@ static const struct TrainerMon sParty_Evern[] = {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_TOGETIC,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_TOGETIC,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_TOGETIC,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_TOGETIC,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_TOGETIC,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     },
     {
     .ivs = BEST_IV_SPREAD,
     .lvl = 7,
     .species = SPECIES_UMBREON,
-    .evs = {84, 84, 84, 84, 84, 84},
+    .evs = {84, 84, 84, 84, 84, 84}
     }
 };

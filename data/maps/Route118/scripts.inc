@@ -8,25 +8,10 @@ Route118_MapScripts::
 
 Route118_OnTransition:
 	call GabbyAndTy_EventScript_UpdateLocation
-	call Route118_EventScript_SetWeather
 	call_if_eq VAR_SHOULD_END_ABNORMAL_WEATHER, 1, AbnormalWeather_EventScript_HideMapNamePopup
 	call_if_eq VAR_ABNORMAL_WEATHER_LOCATION, ABNORMAL_WEATHER_ROUTE_118_EAST, AbnormalWeather_StartGroudonWeather
 	call_if_eq VAR_ABNORMAL_WEATHER_LOCATION, ABNORMAL_WEATHER_ROUTE_118_WEST, AbnormalWeather_StartGroudonWeather
 	end
-
-Route118_EventScript_SetWeather::
-	getplayerxy VAR_TEMP_0, VAR_TEMP_1
-	goto_if_ge VAR_TEMP_0, 40, Route118_EventScript_SetRoute123Weather
-	goto Route118_EventScript_SetDefaultWeather
-	end
-
-Route118_EventScript_SetDefaultWeather::
-	setweather WEATHER_SUNNY
-	return
-
-Route118_EventScript_SetRoute123Weather::
-	setweather WEATHER_ROUTE123_CYCLE
-	return
 
 Route118_OnLoad:
 	call_if_eq VAR_ABNORMAL_WEATHER_LOCATION, ABNORMAL_WEATHER_ROUTE_118_EAST, AbnormalWeather_EventScript_PlaceTilesRoute118East
