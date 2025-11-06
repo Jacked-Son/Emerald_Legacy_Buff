@@ -50,8 +50,7 @@ gText_Birch_AreYouSure_Normal::
 gText_Birch_AreYouSure_Hard::
 	.string "Are you sure?\n"
 	.string "SET mode, no items in battle,\p"
-	.string "GYM level caps, half of items\n"
-	.string "lost after a white out?$"
+	.string "GYM level caps?$"
 
 gText_Birch_AreYouSure_Hardcore::
 	.string "Are you sure?\n"
