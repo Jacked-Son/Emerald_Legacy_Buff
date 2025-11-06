@@ -22,7 +22,7 @@ OldaleTown_PokemonCenter_1F_EventScript_Nurse::
 OldaleTown_PokemonCenter_1F_EventScript_Gentleman::
 	lock
 	faceplayer
-	goto_if_set FLAG_HARD, OldaleTown_PokemonCenter_1F_EventScript_Gentleman_Hard
+	goto_if_set FLAG_POKECENTER_DIFF_MAIN, OldaleTown_PokemonCenter_1F_EventScript_Gentleman_Hard
 	msgbox OldaleTown_PokemonCenter_1F_Text_TrainersCanUsePC, MSGBOX_NPC
 	release
 	end
