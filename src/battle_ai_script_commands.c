@@ -1759,7 +1759,7 @@ static void Cmd_if_can_faint(void)
     if (targetHp <= gBattleMoveDamage)
         gAIScriptPtr = T2_READ_PTR(gAIScriptPtr + 1);
 
-    else if (remainingHp <= ((maxHealth+1)/3))
+    else if (remainingHp <= ((maxHealth+1)/4))
         gAIScriptPtr = T2_READ_PTR(gAIScriptPtr + 5);
 
     else
