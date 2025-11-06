@@ -366,7 +366,7 @@ void DoWhiteOut(void)
     {
         DoSoftReset();
     }
-    if (FlagGet(FLAG_HARD))
+    if (FlagGet(FLAG_POKECENTER_DIFF_MAIN))
     {
         HalveItemStacks();
     }
