@@ -85,6 +85,10 @@ gText_Birch_PowerYes::
 	.string "have whited out and are in danger.\p"
     .string "You'll need to use other POKéMON CENTERS\n"
     .string "before healing again at the same one.\p"
+	.string "Item storage at POKéMON CENTERS\n"
+    .string "will also be disabled.\p"
+	.string "Be careful. You could lose some of\n"
+    .string "your items if you white out.\p"
     .string "Does that sound right?$"
 
 gText_Birch_PowerNo::
