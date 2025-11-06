@@ -71,8 +71,9 @@ OldaleTown_PokemonCenter_1F_Text_TrainersCanUsePCHard:
 	.string "for any POKéMON TRAINER to use.\p"
 	.string "Naturally, that means you're welcome\n"
 	.string "to use it too.\p"
-	.string "It's important to choose which items\n"
-	.string "and POKéMON to keep with you.\p"
+	.string "Peronal item storage services aren't\n"
+	.string "available right now though.\p"
+	.string "Be careful when travelling.\p"
 	.string "You'll lose some of your items\n"
 	.string "and money if you white out!$"
 
