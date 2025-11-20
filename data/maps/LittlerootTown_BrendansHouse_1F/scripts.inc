@@ -349,7 +349,7 @@ PlayersHouse_1F_Text_YouShouldNotRestABit:
 	.string "Rest upstairs as long as you need.\p"
 	.string "You should go to a POKéMON CENTER\n"
 	.string "to rest your tired POKéMON, too.\p"
-	.string "Don't forget to take care of yourself\l"
+	.string "Don't forget to take care of yourself\n"
 	.string "and your POKéMON, honey.$"
 
 PlayersHouse_1F_Text_TakeCareHoney:
