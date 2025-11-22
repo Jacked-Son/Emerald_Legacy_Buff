@@ -2950,9 +2950,9 @@ void CalculateMonStats(struct Pokemon *mon)
 void BoxMonToMon(const struct BoxPokemon *src, struct Pokemon *dest)
 {
     u32 value = 0;
-    u16 origHP     = GetBoxMonData(src, MON_DATA_HP);
-    u16 origMaxHP  = GetBoxMonData(src, MON_DATA_MAX_HP);
-    u32 origStatus = GetBoxMonData(src, MON_DATA_STATUS);
+    u16 origHP     = GetBoxMonData((struct BoxPokemon *)src, MON_DATA_HP);
+    u16 origMaxHP  = GetBoxMonData((struct BoxPokemon *)src, MON_DATA_MAX_HP);
+    u32 origStatus = GetBoxMonData((struct BoxPokemon *)src, MON_DATA_STATUS);
     dest->box = *src;
     SetMonData(dest, MON_DATA_STATUS, &value);
     SetMonData(dest, MON_DATA_HP, &value);
