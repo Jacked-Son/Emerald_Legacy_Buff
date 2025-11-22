@@ -23,6 +23,7 @@
 #include "constants/moves.h"
 #include "constants/region_map_sections.h"
 #include "battle_setup.h"
+#include "constants/battle.h"
 
 extern const struct Evolution gEvolutionTable[][EVOS_PER_MON];
 
@@ -191,10 +192,8 @@ static void StorePokemonInDaycare(struct Pokemon *mon, struct DaycareMon *daycar
         else if (status & STATUS1_FREEZE)    nv = 4;
         else if (status & STATUS1_SLEEP)     nv = 5;
 
-        u8 temp = daycareMon->mon.unused;
-        temp &= ~0x07;        // clear lowest 3 bits
-        temp |= (nv & 0x07);  // OR in encoded NV value
-        daycareMon->mon.unused = temp;
+        daycareMon->mon.unused &= ~0x07;
+        daycareMon->mon.unused |= (nv & 0x07);
     }
     else
     {
