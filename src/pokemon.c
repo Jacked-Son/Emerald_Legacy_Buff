@@ -2950,13 +2950,10 @@ void CalculateMonStats(struct Pokemon *mon)
 void BoxMonToMon(const struct BoxPokemon *src, struct Pokemon *dest)
 {
     u32 value = 0;
+    u16 origHP     = GetBoxMonData(src, MON_DATA_HP);
+    u16 origMaxHP  = GetBoxMonData(src, MON_DATA_MAX_HP);
+    u32 origStatus = GetBoxMonData(src, MON_DATA_STATUS);
     dest->box = *src;
-    if (FlagGet(FLAG_POKECENTER_DIFF_MAIN))
-    {
-        value = MAIL_NONE;
-        SetMonData(dest, MON_DATA_MAIL, &value);
-        return;
-    }
     SetMonData(dest, MON_DATA_STATUS, &value);
     SetMonData(dest, MON_DATA_HP, &value);
     SetMonData(dest, MON_DATA_MAX_HP, &value);
@@ -2967,6 +2964,12 @@ void BoxMonToMon(const struct BoxPokemon *src, struct Pokemon *dest)
     {
         value = 0;
         SetMonData(dest, MON_DATA_HP, &value);
+    }
+    if (FlagGet(FLAG_POKECENTER_DIFF_MAIN))
+    {
+        SetMonData(dest, MON_DATA_HP,       &origHP);
+        SetMonData(dest, MON_DATA_MAX_HP,   &origMaxHP);
+        SetMonData(dest, MON_DATA_STATUS,   &origStatus);
     }
 }
 
