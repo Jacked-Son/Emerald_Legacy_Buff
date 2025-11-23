@@ -23,6 +23,7 @@
 #include "constants/moves.h"
 #include "constants/region_map_sections.h"
 #include "battle_setup.h"
+#include "constants/battle.h"
 
 extern const struct Evolution gEvolutionTable[][EVOS_PER_MON];
 
@@ -173,9 +174,30 @@ static void StorePokemonInDaycare(struct Pokemon *mon, struct DaycareMon *daycar
         daycareMon->mail.message = gSaveBlock1Ptr->mail[mailId];
         TakeMailFromMon(mon);
     }
-
     daycareMon->mon = mon->box;
-    BoxMonRestorePP(&daycareMon->mon);
+    if (FlagGet(FLAG_POKECENTER_DIFF_MAIN))
+    {
+        u32 status;
+        u8 nv;
+        u16 storedhp;
+        status = GetMonData(mon, MON_DATA_STATUS, NULL);
+        nv = 0;
+        storedhp = GetMonData(mon, MON_DATA_HP, NULL);
+        daycareMon->mon.unknown = storedhp;
+        if (status & STATUS1_POISON)         nv = 1;
+        else if (status & STATUS1_BURN)      nv = 2;
+        else if (status & STATUS1_PARALYSIS) nv = 3;
+        else if (status & STATUS1_FREEZE)    nv = 4;
+        else if (status & STATUS1_SLEEP)     nv = 5;
+
+        daycareMon->mon.unused &= ~0x07;
+        daycareMon->mon.unused |= (nv & 0x07);
+    }
+    else
+    {
+        // VANILLA behavior: restore PP only
+        BoxMonRestorePP(&daycareMon->mon);
+    }
     daycareMon->steps = 0;
     ZeroMonData(mon);
     CompactPartySlots();

@@ -95,6 +95,12 @@ Route117_PokemonDayCare_EventScript_GiveMonToRaise::
 	special ChooseSendDaycareMon
 	waitstate
 	goto_if_eq VAR_0x8004, PARTY_NOTHING_CHOSEN, Route117_PokemonDayCare_EventScript_ComeAgain
+	special Daycare_IsMonFainted
+    goto_if_eq VAR_RESULT, 1, Route117_PokemonDayCare_EventScript_FaintedRefusal
+	special Daycare_IsMonBelowHalf
+    goto_if_eq VAR_RESULT, 1, Route117_PokemonDayCare_EventScript_InjuredRefusal
+	special Daycare_IsMonAfflicted
+    goto_if_eq VAR_RESULT, 1, Route117_PokemonDayCare_EventScript_AfflictedRefusal
 	specialvar VAR_RESULT, CountPartyAliveNonEggMons_IgnoreVar0x8004Slot
 	goto_if_eq VAR_RESULT, 0, Route117_PokemonDayCare_EventScript_OnlyOneAliveMon
 	specialvar VAR_0x8005, GetSelectedMonNicknameAndSpecies
@@ -109,6 +115,21 @@ Route117_PokemonDayCare_EventScript_GiveMonToRaise::
 	goto_if_eq VAR_RESULT, DAYCARE_ONE_MON, Route117_PokemonDayCare_EventScript_CanRaiseOneMore
 	release
 	end
+
+Route117_PokemonDayCare_EventScript_FaintedRefusal::
+    msgbox Route117_PokemonDayCare_Text_FaintedPokemon, MSGBOX_DEFAULT
+    release
+    end
+
+Route117_PokemonDayCare_EventScript_InjuredRefusal::
+    msgbox Route117_PokemonDayCare_Text_InjuredPokemon, MSGBOX_DEFAULT
+    release
+    end
+
+Route117_PokemonDayCare_EventScript_AfflictedRefusal::
+    msgbox Route117_PokemonDayCare_Text_AfflictedPokemon, MSGBOX_DEFAULT
+    release
+    end
 
 Route117_PokemonDayCare_EventScript_ComeAgain::
 	msgbox Route117_PokemonDayCare_Text_ComeAgain, MSGBOX_DEFAULT
@@ -415,3 +436,34 @@ Route117_PokemonDayCare_Text_YoullBeLeftWithJustOne:
 	.string "me, you'll be left with just one.\p"
 	.string "You will be better off if you catch\n"
 	.string "some more, I dare say.$"
+
+Route117_PokemonDayCare_Text_FaintedPokemon:
+    .string "Oh my… your POKéMON has fainted.\n"
+    .string "I'm afraid we can't take it, dear.\p"
+	.string "We don't operate like HOENN's\n"
+	.string "other POKéMON CARE FACILITIES.\p"
+	.string "POKéMON kept here must be healthy\n"
+	.string "enough to train with the other\l"
+	.string "POKéMON.\p"
+    .string "Please heal it and come back, dear.$"
+
+Route117_PokemonDayCare_Text_InjuredPokemon:
+    .string "Oh my… your POKéMON is injured.\n"
+    .string "I'm afraid we can't take it, dear.\p"
+	.string "We don't operate like HOENN's\n"
+	.string "other POKéMON CARE FACILITIES.\p"
+	.string "POKéMON kept here must be healthy\n"
+	.string "enough to train with the other\l"
+	.string "POKéMON.\p"
+    .string "Please heal it and come back, dear.$"
+
+Route117_PokemonDayCare_Text_AfflictedPokemon:
+    .string "Oh my… your POKéMON is suffering\n"
+	.string "from a condition.\p"
+    .string "I'm afraid we can't take it, dear.\p"
+	.string "We don't operate like HOENN's\n"
+	.string "other POKéMON CARE FACILITIES.\p"
+	.string "POKéMON kept here must be healthy\n"
+	.string "enough to train with the other\l"
+	.string "POKéMON.\p"
+    .string "Please heal it and come back, dear.$"

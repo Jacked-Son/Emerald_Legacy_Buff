@@ -50,8 +50,7 @@ gText_Birch_AreYouSure_Normal::
 gText_Birch_AreYouSure_Hard::
 	.string "Are you sure?\n"
 	.string "SET mode, no items in battle,\p"
-	.string "GYM level caps, half of items\n"
-	.string "lost after a white out?$"
+	.string "GYM level caps?$"
 
 gText_Birch_AreYouSure_Hardcore::
 	.string "Are you sure?\n"
@@ -85,6 +84,10 @@ gText_Birch_PowerYes::
 	.string "have whited out and are in danger.\p"
     .string "You'll need to use other POKéMON CENTERS\n"
     .string "before healing again at the same one.\p"
+	.string "Item storage at POKéMON CENTERS\n"
+    .string "will also be disabled.\p"
+	.string "Be careful. You could lose some of\n"
+    .string "your items if you white out.\p"
     .string "Does that sound right?$"
 
 gText_Birch_PowerNo::

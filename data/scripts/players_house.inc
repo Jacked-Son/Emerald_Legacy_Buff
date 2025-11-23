@@ -373,8 +373,15 @@ PlayersHouse_1F_EventScript_TryGiveAmuletCoin::
 	end
 
 PlayersHouse_1F_EventScript_MomHealsParty::
+	goto_if_set FLAG_POKECENTER_DIFF_MAIN, PlayersHouse_1F_EventScript_MomNoHealsParty
 	msgbox PlayersHouse_1F_Text_YouShouldRestABit, MSGBOX_DEFAULT
 	goto PlayersHouse_1F_EventScript_HealParty
+	end
+
+PlayersHouse_1F_EventScript_MomNoHealsParty::
+	incrementgamestat GAME_STAT_RESTED_AT_HOME
+	msgbox PlayersHouse_1F_Text_YouShouldNotRestABit, MSGBOX_DEFAULT
+	release
 	end
 
 PlayersHouse_1F_EventScript_SeeYouHoney::

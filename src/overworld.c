@@ -366,7 +366,7 @@ void DoWhiteOut(void)
     {
         DoSoftReset();
     }
-    if (FlagGet(FLAG_HARD))
+    if (FlagGet(FLAG_POKECENTER_DIFF_MAIN))
     {
         HalveItemStacks();
     }
@@ -3253,4 +3253,170 @@ static void SpriteCB_LinkPlayer(struct Sprite *sprite)
         sprite->invisible = ((sprite->data[7] & 4) >> 2);
         sprite->data[7]++;
     }
+}
+
+bool8 Daycare_IsMonFainted(void)
+{
+    u16 slot;
+    struct Pokemon *mon;
+    slot = VarGet(VAR_0x8004);
+
+     if (slot >= PARTY_SIZE)
+    {
+        gSpecialVar_Result = TRUE;
+        return FALSE;
+    }
+
+    mon = &gPlayerParty[slot];
+
+    gSpecialVar_Result = (GetMonData(mon, MON_DATA_HP, NULL) == 0);
+    return FALSE;
+}
+
+bool8 Daycare_IsMonBelowHalf(void)
+{
+    u16 slot;
+    u16 hp;
+    u16 maxHP;
+    struct Pokemon *mon;
+    
+    slot = VarGet(VAR_0x8004);
+
+    if (slot >= PARTY_SIZE)
+    {
+        gSpecialVar_Result = TRUE;
+        return FALSE;
+    }
+
+    mon = &gPlayerParty[slot];
+    hp    = GetMonData(mon, MON_DATA_HP, NULL);
+    maxHP = GetMonData(mon, MON_DATA_MAX_HP, NULL);
+
+    if (maxHP == 0)
+        gSpecialVar_Result = TRUE;
+    else
+        gSpecialVar_Result = (hp * 2 < maxHP);
+
+    return FALSE;
+}
+
+bool8 Daycare_IsMonAfflicted(void)
+{
+    u16 slot;
+    u32 status;
+    struct Pokemon *mon;
+    slot = VarGet(VAR_0x8004);
+    
+    if (slot >= PARTY_SIZE)
+    {
+        gSpecialVar_Result = TRUE;
+        return FALSE;
+    }
+
+    mon = &gPlayerParty[slot];
+
+    status = GetMonData(mon, MON_DATA_STATUS, NULL);
+
+    gSpecialVar_Result = (status != 0);
+    return FALSE;
+}
+
+bool8 GetPlayerHealTier(void)
+{
+    u16 tier;
+    tier = 1; // Tier ranges 1–10. Tier 1 = no badges.
+
+    if (FlagGet(FLAG_BADGE01_GET)) tier++;
+    if (FlagGet(FLAG_BADGE02_GET)) tier++;
+    if (FlagGet(FLAG_BADGE03_GET)) tier++;
+    if (FlagGet(FLAG_BADGE04_GET)) tier++;
+    if (FlagGet(FLAG_BADGE05_GET)) tier++;
+    if (FlagGet(FLAG_BADGE06_GET)) tier++;
+    if (FlagGet(FLAG_BADGE07_GET)) tier++;
+    if (FlagGet(FLAG_BADGE08_GET)) tier++;
+    if (FlagGet(FLAG_IS_CHAMPION)) tier++;
+
+    gSpecialVar_Result = tier;
+    return FALSE;   // Special completes immediately
+}
+
+bool8 GetPokecenterCounterVar(void)
+{
+    u16 id;
+    u16 varId;
+    u16 result;
+    id     = VarGet(VAR_POKECENTER_NOW); // 1,2,3,...,20,21
+    varId  = 0;
+    result = 0;
+
+    switch (id)
+    {
+        case 1:  varId = VAR_POKECENTER_1;  break;
+        case 2:  varId = VAR_POKECENTER_2;  break;
+        case 3:  varId = VAR_POKECENTER_3;  break;
+        case 4:  varId = VAR_POKECENTER_4;  break;
+        case 5:  varId = VAR_POKECENTER_5;  break;
+        case 6:  varId = VAR_POKECENTER_6;  break;
+        case 7:  varId = VAR_POKECENTER_7;  break;
+        case 8:  varId = VAR_POKECENTER_8;  break;
+        case 9:  varId = VAR_POKECENTER_9;  break;
+        case 10: varId = VAR_POKECENTER_10; break;
+        case 11: varId = VAR_POKECENTER_11; break;
+        case 12: varId = VAR_POKECENTER_12; break;
+        case 13: varId = VAR_POKECENTER_13; break;
+        case 14: varId = VAR_POKECENTER_14; break;
+        case 15: varId = VAR_POKECENTER_15; break;
+        case 20: varId = VAR_POKECENTER_20; break;
+        case 21: varId = VAR_POKECENTER_21; break;
+        default:
+            varId = 0;
+            break;
+    }
+
+    if (varId != 0)
+        result = VarGet(varId);   // actual stored heal-count for this center
+    else
+        result = 0;
+
+    gSpecialVar_Result = result;
+    return FALSE;
+}
+
+bool8 SetPokecenterCounterToTier(void)
+{
+    u16 tier;
+    u16 id;
+    u16 varId;
+    tier  = VarGet(VAR_0x8000);          // script put heal tier here
+    id    = VarGet(VAR_POKECENTER_NOW);  // which center we’re at
+    varId = 0;
+
+    switch (id)
+    {
+        case 1:  varId = VAR_POKECENTER_1;  break;
+        case 2:  varId = VAR_POKECENTER_2;  break;
+        case 3:  varId = VAR_POKECENTER_3;  break;
+        case 4:  varId = VAR_POKECENTER_4;  break;
+        case 5:  varId = VAR_POKECENTER_5;  break;
+        case 6:  varId = VAR_POKECENTER_6;  break;
+        case 7:  varId = VAR_POKECENTER_7;  break;
+        case 8:  varId = VAR_POKECENTER_8;  break;
+        case 9:  varId = VAR_POKECENTER_9;  break;
+        case 10: varId = VAR_POKECENTER_10; break;
+        case 11: varId = VAR_POKECENTER_11; break;
+        case 12: varId = VAR_POKECENTER_12; break;
+        case 13: varId = VAR_POKECENTER_13; break;
+        case 14: varId = VAR_POKECENTER_14; break;
+        case 15: varId = VAR_POKECENTER_15; break;
+        case 20: varId = VAR_POKECENTER_20; break;
+        case 21: varId = VAR_POKECENTER_21; break;
+        default:
+            varId = 0;
+            break;
+    }
+
+    if (varId != 0)
+        VarSet(varId, tier);
+
+    return FALSE;
 }

@@ -40,6 +40,7 @@
 #include "constants/moves.h"
 #include "constants/rgb.h"
 #include "constants/songs.h"
+#include "constants/battle.h"
 
 /*
     NOTE: This file is large. Some general groups of functions have
@@ -6369,7 +6370,28 @@ static void SetPlacedMonData(u8 boxId, u8 position)
     }
     else
     {
-        BoxMonRestorePP(&sStorage->movingMon.box);
+        if (FlagGet(FLAG_POKECENTER_DIFF_MAIN))
+        {
+            u32 status;
+            u8 nv;
+            u16 storedhp;
+            storedhp = GetMonData(&sStorage->movingMon, MON_DATA_HP, NULL);
+            sStorage->movingMon.box.unknown = storedhp;  // stored HP
+            status = GetMonData(&sStorage->movingMon, MON_DATA_STATUS, NULL);
+            nv = 0;
+            if (status & STATUS1_POISON)         nv = 1;
+            else if (status & STATUS1_BURN)      nv = 2;
+            else if (status & STATUS1_PARALYSIS) nv = 3;
+            else if (status & STATUS1_FREEZE)    nv = 4;
+            else if (status & STATUS1_SLEEP)     nv = 5;
+            sStorage->movingMon.box.unused &= ~0x07;
+            sStorage->movingMon.box.unused |= (nv & 0x07);
+        }
+        else
+        {
+            BoxMonRestorePP(&sStorage->movingMon.box);
+        }
+
         SetBoxMonAt(boxId, position, &sStorage->movingMon.box);
     }
 }

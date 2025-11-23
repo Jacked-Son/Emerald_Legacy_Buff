@@ -275,12 +275,26 @@
 #define VAR_ROUTE116_WILD_SET                            0x40FF
 #define VAR_NORMAN_REMATCH_CALL_STEP_COUNTER             0x4100
 #define VAR_SHOW_ZINNIA                                  0x4101
-#define VAR_POKECENTER_LAST                              0x4102 // Tracks most recently used Pokecenter
-#define VAR_POKECENTER_PREV                              0x4103 // Tracks the previous Pokecenter used
-#define VAR_POKECENTER_NOW                               0x4104 // Tracks the current Pokecenter
-#define VAR_POKECENTER_PREV2                             0x4105 // Tracks the oldest pokecenter
+#define VAR_POKECENTER_NOW                               0x4102 // Tracks the current Pokecenter
+#define VAR_POKECENTER_1                                 0x4103 // Tracks Dewford Center
+#define VAR_POKECENTER_2                                 0x4104 // Tracks Evergrande Center
+#define VAR_POKECENTER_3                                 0x4105 // Tracks Fallarbor Center
+#define VAR_POKECENTER_4                                 0x4106 // Tracks Fortree Center
+#define VAR_POKECENTER_5                                 0x4107 // Tracks Lavaridge Center
+#define VAR_POKECENTER_6                                 0x4108 // Tracks Lilycove Center
+#define VAR_POKECENTER_7                                 0x4109 // Tracks Mauville Center
+#define VAR_POKECENTER_8                                 0x4110 // Tracks Mossdeep Center
+#define VAR_POKECENTER_9                                 0x4111 // Tracks Oldale Center
+#define VAR_POKECENTER_10                                0x4112 // Tracks Pacifidlog Center
+#define VAR_POKECENTER_11                                0x4113 // Tracks Petalburg Center
+#define VAR_POKECENTER_12                                0x4114 // Tracks Rustboro Center
+#define VAR_POKECENTER_13                                0x4115 // Tracks Slateport Center
+#define VAR_POKECENTER_14                                0x4116 // Tracks Sootopolis Center
+#define VAR_POKECENTER_15                                0x4117 // Tracks Verdenturf Center
+#define VAR_POKECENTER_20                                0x4118 // Tracks Trainer Hill Center
+#define VAR_POKECENTER_21                                0x4119 // Tracks Battle Frontier Center
 
-#define VARS_END                                         0x4105
+#define VARS_END                                         0x4119
 #define VARS_COUNT                                       (VARS_END - VARS_START + 1)
 
 #define SPECIAL_VARS_START            0x8000

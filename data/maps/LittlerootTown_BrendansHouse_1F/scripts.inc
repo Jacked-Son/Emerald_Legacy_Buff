@@ -342,6 +342,16 @@ PlayersHouse_1F_Text_YouShouldRestABit:
 	.string "You look a little tired.\p"
 	.string "I think you should rest a bit.$"
 
+PlayersHouse_1F_Text_YouShouldNotRestABit:
+	.string "MOM: How are you doing, {PLAYER}?\n"
+	.string "You look a little tired.\l"
+	.string "I've made your bed for you!\p"
+	.string "Rest upstairs as long as you need.\p"
+	.string "You should go to a POKéMON CENTER\n"
+	.string "to rest your tired POKéMON, too.\p"
+	.string "Don't forget to take care of yourself\n"
+	.string "and your POKéMON, honey.$"
+
 PlayersHouse_1F_Text_TakeCareHoney:
 	.string "MOM: Take care, honey!$"
 

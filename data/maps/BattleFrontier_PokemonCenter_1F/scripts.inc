@@ -11,6 +11,7 @@ BattleFrontier_PokemonCenter_1F_OnTransition:
 
 BattleFrontier_PokemonCenter_1F_EventScript_Nurse::
 	setvar VAR_0x800B, LOCALID_NURSE
+	setvar VAR_POKECENTER_NOW, 21
 	call Common_EventScript_PkmnCenterNurse2
 	waitmessage
 	waitbuttonpress

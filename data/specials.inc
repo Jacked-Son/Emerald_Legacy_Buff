@@ -543,3 +543,9 @@ gSpecials::
 	def_special CheckFoundAllKecleon
 	def_special CheckGotAllKantoStarters
 	def_special UpdateGymLeaderRematch
+	def_special Daycare_IsMonFainted
+    def_special Daycare_IsMonBelowHalf
+    def_special Daycare_IsMonAfflicted
+	def_special GetPlayerHealTier
+	def_special GetPokecenterCounterVar
+	def_special SetPokecenterCounterToTier

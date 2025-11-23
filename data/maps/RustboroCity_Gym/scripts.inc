@@ -33,6 +33,23 @@ RustboroCity_Gym_EventScript_RoxanneDefeated::
 	msgbox RustboroCity_Gym_Text_StoneBadgeInfoTakeThis, MSGBOX_DEFAULT
 	setflag FLAG_DEFEATED_RUSTBORO_GYM
 	setflag FLAG_BADGE01_GET
+	setvar VAR_POKECENTER_1, 0
+	setvar VAR_POKECENTER_2, 0
+	setvar VAR_POKECENTER_3, 0
+	setvar VAR_POKECENTER_4, 0
+	setvar VAR_POKECENTER_5, 0
+	setvar VAR_POKECENTER_6, 0
+	setvar VAR_POKECENTER_7, 0
+	setvar VAR_POKECENTER_8, 0
+	setvar VAR_POKECENTER_9, 0
+	setvar VAR_POKECENTER_10, 0
+	setvar VAR_POKECENTER_11, 0
+	setvar VAR_POKECENTER_12, 0
+	setvar VAR_POKECENTER_13, 0
+	setvar VAR_POKECENTER_14, 0
+	setvar VAR_POKECENTER_15, 0
+	setvar VAR_POKECENTER_20, 0
+	setvar VAR_POKECENTER_21, 0
 	setvar VAR_RUSTBORO_CITY_STATE, 1
 	addvar VAR_PETALBURG_GYM_STATE, 1
 	setvar VAR_0x8008, 1

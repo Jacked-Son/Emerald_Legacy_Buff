@@ -962,10 +962,13 @@ PetalburgCity_Text_WaterReflection:
 	.string "What do you see reflected in your face?$"
 
 PetalburgCity_Text_FullPartyExplanation:
-	.string "Let's say you have six POKéMON.\n"
-	.string "If you catch another one…\p"
-	.string "It is automatically sent to a STORAGE\n"
-	.string "BOX over a PC connection.$"
+    .string "Let's say you have six POKéMON.\n"
+    .string "If you catch another one…\p"
+    .string "It is automatically sent to a STORAGE\n"
+    .string "BOX over a PC connection.\p"
+    .string "I hear HOENN has several POKéMON\n"
+    .string "CARE FACILITIES that look after\l"
+    .string "all of the stored POKéMON.$"
 
 PetalburgCity_Text_GymSign:
 	.string "PETALBURG CITY POKéMON GYM\n"

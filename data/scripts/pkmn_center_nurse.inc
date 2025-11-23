@@ -2,7 +2,7 @@ Common_EventScript_PkmnCenterNurse::
 	lock
 	faceplayer
 	setvar VAR_0x8004, 0
-	goto_if_set FLAG_POKECENTER_DIFF_MAIN, EventScript_PkmnCenterNurse_CheckVars
+	goto_if_set FLAG_POKECENTER_DIFF_MAIN, EventScript_PkmnCenterNurse_CheckChamp
 	specialvar VAR_RESULT, CountPlayerTrainerStars
 	goto_if_eq VAR_RESULT, 4, EventScript_PkmnCenterNurse_GoldCard
 	msgbox gText_WouldYouLikeToRestYourPkmn, MSGBOX_YESNO
@@ -23,10 +23,25 @@ Common_EventScript_PkmnCenterNurse2::
 	goto_if_eq VAR_RESULT, YES, EventScript_PkmnCenterNurse_HealPkmn
 	end
 
+EventScript_PkmnCenterNurse_CheckChamp::
+	special GetPlayerHealTier
+	copyvar VAR_0x8000, VAR_RESULT
+	compare VAR_0x8000, 10
+	goto_if_ne EventScript_PkmnCenterNurse_CheckVars
+	specialvar VAR_RESULT, CountPlayerTrainerStars
+	goto_if_eq VAR_RESULT, 4, EventScript_PkmnCenterNurse_GoldCard
+	msgbox gText_WouldYouLikeToRestYourPkmnPwr, MSGBOX_YESNO
+	goto_if_eq VAR_RESULT, NO, EventScript_PkmnCenterNurse_Goodbye
+	goto_if_eq VAR_RESULT, YES, EventScript_PkmnCenterNurse_HealCycle
+	end
+
 EventScript_PkmnCenterNurse_CheckVars::
-	goto_if_eq VAR_POKECENTER_NOW, VAR_POKECENTER_LAST, EventScript_PkmnCenterNurse_CannotHeal
-	goto_if_eq VAR_POKECENTER_NOW, VAR_POKECENTER_PREV, EventScript_PkmnCenterNurse_CannotHeal
-	goto_if_eq VAR_POKECENTER_NOW, VAR_POKECENTER_PREV2, EventScript_PkmnCenterNurse_CannotHeal
+	special GetPlayerHealTier
+	copyvar VAR_0x8000, VAR_RESULT
+	special GetPokecenterCounterVar
+	copyvar VAR_0x8001, VAR_RESULT
+	compare VAR_0x8001, VAR_0x8000
+    goto_if_ge EventScript_PkmnCenterNurse_CannotHeal
 	specialvar VAR_RESULT, CountPlayerTrainerStars
 	goto_if_eq VAR_RESULT, 4, EventScript_PkmnCenterNurse_GoldCard
 	msgbox gText_WouldYouLikeToRestYourPkmnPwr, MSGBOX_YESNO
@@ -40,11 +55,11 @@ EventScript_PkmnCenterNurse_CannotHeal::
 	end
 
 EventScript_PkmnCenterNurse_HealCycle::
-	copyvar VAR_POKECENTER_PREV2, VAR_POKECENTER_PREV
-	copyvar VAR_POKECENTER_PREV, VAR_POKECENTER_LAST
-	copyvar VAR_POKECENTER_LAST, VAR_POKECENTER_NOW
-	goto EventScript_PkmnCenterNurse_HealPkmn
-	end
+	special GetPlayerHealTier
+	copyvar VAR_0x8000, VAR_RESULT 
+	special SetPokecenterCounterToTier
+    goto EventScript_PkmnCenterNurse_HealPkmn
+    end
 
 EventScript_PkmnCenterNurse_Goodbye::
 	message gText_WeHopeToSeeYouAgain

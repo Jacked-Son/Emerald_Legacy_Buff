@@ -103,6 +103,7 @@ TrainerHill_Entrance_EventScript_EndExitChallenge::
 
 TrainerHill_Entrance_EventScript_Nurse::
 	setvar VAR_0x800B, LOCALID_NURSE
+	setvar VAR_POKECENTER_NOW, 20
 	call Common_EventScript_PkmnCenterNurse
 	waitmessage
 	waitbuttonpress

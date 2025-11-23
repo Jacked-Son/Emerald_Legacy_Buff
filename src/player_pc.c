@@ -2,6 +2,7 @@
 #include "constants/songs.h"
 #include "bg.h"
 #include "decoration.h"
+#include "event_data.h"
 #include "event_scripts.h"
 #include "event_object_movement.h"
 #include "field_screen_effect.h"
@@ -554,6 +555,14 @@ static void ItemStorageMenuProcessInput(u8 taskId)
 
 static void ItemStorage_Deposit(u8 taskId)
 {
+    if (FlagGet(FLAG_POKECENTER_DIFF_MAIN))
+    {
+        // Clear menu and display message instead of fading to bag menu
+        ItemStorage_EraseMainMenu(taskId);
+        DisplayItemMessageOnField(taskId, gText_PersonalStorageError, PlayerPC_ItemStorage);
+        return;
+    }
+    
     gTasks[taskId].func = Task_ItemStorage_Deposit;
     FadeScreen(FADE_TO_BLACK, 0);
 }

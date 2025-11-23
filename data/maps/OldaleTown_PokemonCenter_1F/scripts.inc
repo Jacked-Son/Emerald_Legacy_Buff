@@ -22,7 +22,7 @@ OldaleTown_PokemonCenter_1F_EventScript_Nurse::
 OldaleTown_PokemonCenter_1F_EventScript_Gentleman::
 	lock
 	faceplayer
-	goto_if_set FLAG_HARD, OldaleTown_PokemonCenter_1F_EventScript_Gentleman_Hard
+	goto_if_set FLAG_POKECENTER_DIFF_MAIN, OldaleTown_PokemonCenter_1F_EventScript_Gentleman_Hard
 	msgbox OldaleTown_PokemonCenter_1F_Text_TrainersCanUsePC, MSGBOX_NPC
 	release
 	end
@@ -71,8 +71,9 @@ OldaleTown_PokemonCenter_1F_Text_TrainersCanUsePCHard:
 	.string "for any POKéMON TRAINER to use.\p"
 	.string "Naturally, that means you're welcome\n"
 	.string "to use it too.\p"
-	.string "It's important to choose which items\n"
-	.string "and POKéMON to keep with you.\p"
+	.string "Personal item storage services aren't\n"
+	.string "available right now though.\p"
+	.string "Be careful when travelling.\p"
 	.string "You'll lose some of your items\n"
 	.string "and money if you white out!$"
 
