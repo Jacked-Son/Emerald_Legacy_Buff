@@ -73,7 +73,7 @@ OldaleTown_PokemonCenter_1F_Text_TrainersCanUsePCHard:
 	.string "to use it too.\p"
 	.string "Personal item storage services aren't\n"
 	.string "available right now though.\p"
-	.string "Be careful when travelling.\p"
+	.string "Be careful when traveling.\p"
 	.string "You'll lose some of your items\n"
 	.string "and money if you white out!$"
 

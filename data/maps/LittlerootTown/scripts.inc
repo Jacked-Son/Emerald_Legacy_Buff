@@ -247,7 +247,16 @@ LittlerootTown_EventScript_SetRivalBirchPosForDexUpgradeFemale::
 	end
 
 LittlerootTown_EventScript_FatMan::
+	goto_if_set FLAG_POKECENTER_DIFF_MAIN, LittlerootTown_EventScript_FatManHard
+	goto LittlerootTown_EventScript_FatManEasy
+	end
+
+LittlerootTown_EventScript_FatManEasy::
 	msgbox LittlerootTown_Text_CanUsePCToStoreItems, MSGBOX_NPC
+	end
+
+LittlerootTown_EventScript_FatManHard::
+	msgbox LittlerootTown_Text_CannotUsePCToStoreItems, MSGBOX_NPC
 	end
 
 LittlerootTown_EventScript_Boy::
@@ -958,11 +967,15 @@ LittlerootTown_Text_ComeHomeIfAnythingHappens:
 	.string "Go on, go get them, honey!$"
 
 LittlerootTown_Text_CanUsePCToStoreItems:
-	.string "If you use a PC, you can store your\n"
-	.string "POKéMON in a STORAGE BOX and send\l"
-	.string "them to a POKéMON CARE FACILITY\l"
-	.string "from any POKéMON CENTER.\p"
+	.string "If you use a PC, you can store items\n"
+	.string "and POKéMON.\p"
 	.string "The power of science is staggering!$"
+
+LittlerootTown_Text_CannotUsePCToStoreItems:
+	.string "Personal Item Storage used to be\n"
+	.string "available on any PC, but it was\l"
+	.string "disabled because of the trouble\l"
+	.string "at the Mauville Power Plant.$\"
 
 LittlerootTown_Text_BirchSpendsDaysInLab:
 	.string "PROF. BIRCH spends days in his LAB\n"
