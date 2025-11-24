@@ -975,7 +975,7 @@ LittlerootTown_Text_CannotUsePCToStoreItems:
 	.string "Personal Item Storage used to be\n"
 	.string "available on any PC, but it was\l"
 	.string "disabled because of the trouble\l"
-	.string "at the Mauville Power Plant.$\"
+	.string "with the Mauville Power Plant.$"
 
 LittlerootTown_Text_BirchSpendsDaysInLab:
 	.string "PROF. BIRCH spends days in his LAB\n"
