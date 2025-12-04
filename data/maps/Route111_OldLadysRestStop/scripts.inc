@@ -17,7 +17,7 @@ Route111_OldLadysRestStop_EventScript_OldLady::
 
 Route111_OldLadysRestStop_EventScript_NoResting::
 	dotimebasedevents
-	goto_if_set FLAG_DAILY_FLOWER_SHOP_RECEIVED_BERRY, Route111_OldLadysRestStop_NoRestingNoBerry
+	goto_if_set FLAG_DAILY_FLOWER_SHOP_RECEIVED_BERRY, Route111_OldLadysRestStop_EventScript_NoRestingNoBerry
 	msgbox Route111_OldLadysRestStop_Text_NoRestingTextBerry, MSGBOX_DEFAULT
 	random 8
 	addvar VAR_RESULT, FIRST_BERRY_INDEX
