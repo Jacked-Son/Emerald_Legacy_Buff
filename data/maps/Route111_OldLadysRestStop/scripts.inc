@@ -69,7 +69,7 @@ Route111_OldLadysRestStop_Text_DontNeedToBeShy:
 Route111_OldLadysRestStop_Text_NoRestingText:
 	.string "Oh dear, dear.\n"
 	.string "Are your bones tired?\p"
-	.string "Put your feet up and relax here\l"
+	.string "Put your feet up and relax here\n"
 	.string "as long as you like!$"
 
 Route111_OldLadysRestStop_Text_NoRestingTextBerry:
