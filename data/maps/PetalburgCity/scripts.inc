@@ -463,7 +463,16 @@ PetalburgCity_EventScript_CitySign::
 	end
 
 PetalburgCity_EventScript_Gentleman::
+	goto_if_set FLAG_POKECENTER_DIFF_MAIN, PetalburgCity_EventScript_GentlemanHard
+	goto PetalburgCity_EventScript_GentlemanEasy
+	end
+
+PetalburgCity_EventScript_GentlemanEasy::
 	msgbox PetalburgCity_Text_FullPartyExplanation, MSGBOX_NPC
+	end
+
+PetalburgCity_EventScript_GentlemanHard::
+	msgbox PetalburgCity_Text_FullPartyExplanationHard, MSGBOX_NPC
 	end
 
 PetalburgCity_EventScript_WallyHouseSign::
@@ -966,6 +975,16 @@ PetalburgCity_Text_FullPartyExplanation:
     .string "If you catch another one…\p"
     .string "It is automatically sent to a STORAGE\n"
     .string "BOX habitat through the PC connection.$"
+
+PetalburgCity_Text_FullPartyExplanationHard:
+    .string "Let's say you have six POKéMON.\n"
+    .string "If you catch another one…\p"
+    .string "It is automatically sent to a STORAGE\n"
+    .string "BOX habitat through the PC connection.\p"
+	.string "However, due to the current power\n"
+	.string "conservation, that POKéMON will be\l"
+	.string "weakened after the transfer and must\l"
+	.string "be healed before it can battle again.$"
 
 PetalburgCity_Text_GymSign:
 	.string "PETALBURG CITY POKéMON GYM\n"
