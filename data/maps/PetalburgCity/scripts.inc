@@ -980,11 +980,7 @@ PetalburgCity_Text_FullPartyExplanationHard:
     .string "Let's say you have six POKéMON.\n"
     .string "If you catch another one…\p"
     .string "It is automatically sent to a STORAGE\n"
-    .string "BOX habitat through the PC connection.\p"
-	.string "However, due to the current power\n"
-	.string "conservation, that POKéMON will be\l"
-	.string "weakened after the transfer and must\l"
-	.string "be healed before it can battle again.$"
+    .string "BOX habitat through the PC connection.$"
 
 PetalburgCity_Text_GymSign:
 	.string "PETALBURG CITY POKéMON GYM\n"
