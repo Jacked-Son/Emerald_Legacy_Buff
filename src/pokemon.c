@@ -4695,7 +4695,30 @@ static u8 CopyMonToPC(struct Pokemon *mon)
             struct BoxPokemon* checkingMon = GetBoxedMonPtr(boxNo, boxPos);
             if (GetBoxMonData(checkingMon, MON_DATA_SPECIES, NULL) == SPECIES_NONE)
             {
-                MonRestorePP(mon);
+                if (FlagGet(FLAG_POKECENTER_DIFF_MAIN))
+				{
+					u32 status;
+					u8 nv;
+					u16 storedhp;
+
+					storedhp = GetMonData(mon, MON_DATA_HP, NULL);
+					mon->box.unknown = storedhp;  // store HP
+
+					status = GetMonData(mon, MON_DATA_STATUS, NULL);
+					nv = 0;
+					if (status & STATUS1_POISON)         nv = 1;
+					else if (status & STATUS1_BURN)      nv = 2;
+					else if (status & STATUS1_PARALYSIS) nv = 3;
+					else if (status & STATUS1_FREEZE)    nv = 4;
+					else if (status & STATUS1_SLEEP)     nv = 5;
+
+					mon->box.unused &= ~0x07;
+					mon->box.unused |= (nv & 0x07);
+				}
+				else
+				{
+					MonRestorePP(mon);
+				}
                 CopyMon(checkingMon, &mon->box, sizeof(mon->box));
                 gSpecialVar_MonBoxId = boxNo;
                 gSpecialVar_MonBoxPos = boxPos;
