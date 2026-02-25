@@ -327,7 +327,7 @@ BattleFrontier_ExchangeServiceCorner_EventScript_PpMax::
 BattleFrontier_ExchangeServiceCorner_EventScript_RareCandy::
 	msgbox BattleFrontier_ExchangeServiceCorner_Text_ConfirmRareCandy, MSGBOX_YESNO
 	goto_if_eq VAR_RESULT, NO, BattleFrontier_ExchangeServiceCorner_EventScript_ChooseVitamin
-	setvar VAR_0x8008, 8
+	setvar VAR_0x8008, 4
 	setvar VAR_0x8009, ITEM_RARE_CANDY
 	goto BattleFrontier_ExchangeServiceCorner_EventScript_TryPurchasePrize
 	end
@@ -618,7 +618,7 @@ BattleFrontier_ExchangeServiceCorner_EventScript_ChooseBerry::
 BattleFrontier_ExchangeServiceCorner_EventScript_Liechi::
 	msgbox BattleFrontier_ExchangeServiceCorner_Text_ConfirmLiechi, MSGBOX_YESNO
 	goto_if_eq VAR_RESULT, NO, BattleFrontier_ExchangeServiceCorner_EventScript_ChooseBerry
-	setvar VAR_0x8008, 48
+	setvar VAR_0x8008, 16
 	setvar VAR_0x8009, ITEM_LIECHI_BERRY
 	goto BattleFrontier_ExchangeServiceCorner_EventScript_TryPurchasePrize
 	end
@@ -626,7 +626,7 @@ BattleFrontier_ExchangeServiceCorner_EventScript_Liechi::
 BattleFrontier_ExchangeServiceCorner_EventScript_Ganlon::
 	msgbox BattleFrontier_ExchangeServiceCorner_Text_ConfirmGanlon, MSGBOX_YESNO
 	goto_if_eq VAR_RESULT, NO, BattleFrontier_ExchangeServiceCorner_EventScript_ChooseBerry
-	setvar VAR_0x8008, 48
+	setvar VAR_0x8008, 4
 	setvar VAR_0x8009, ITEM_GANLON_BERRY
 	goto BattleFrontier_ExchangeServiceCorner_EventScript_TryPurchasePrize
 	end
@@ -634,7 +634,7 @@ BattleFrontier_ExchangeServiceCorner_EventScript_Ganlon::
 BattleFrontier_ExchangeServiceCorner_EventScript_Salac::
 	msgbox BattleFrontier_ExchangeServiceCorner_Text_ConfirmSalac, MSGBOX_YESNO
 	goto_if_eq VAR_RESULT, NO, BattleFrontier_ExchangeServiceCorner_EventScript_ChooseBerry
-	setvar VAR_0x8008, 48
+	setvar VAR_0x8008, 4
 	setvar VAR_0x8009, ITEM_SALAC_BERRY
 	goto BattleFrontier_ExchangeServiceCorner_EventScript_TryPurchasePrize
 	end
@@ -642,7 +642,7 @@ BattleFrontier_ExchangeServiceCorner_EventScript_Salac::
 BattleFrontier_ExchangeServiceCorner_EventScript_Petaya::
 	msgbox BattleFrontier_ExchangeServiceCorner_Text_ConfirmPetaya, MSGBOX_YESNO
 	goto_if_eq VAR_RESULT, NO, BattleFrontier_ExchangeServiceCorner_EventScript_ChooseBerry
-	setvar VAR_0x8008, 48
+	setvar VAR_0x8008, 4
 	setvar VAR_0x8009, ITEM_PETAYA_BERRY
 	goto BattleFrontier_ExchangeServiceCorner_EventScript_TryPurchasePrize
 	end
@@ -650,7 +650,7 @@ BattleFrontier_ExchangeServiceCorner_EventScript_Petaya::
 BattleFrontier_ExchangeServiceCorner_EventScript_Apicot::
 	msgbox BattleFrontier_ExchangeServiceCorner_Text_ConfirmApicot, MSGBOX_YESNO
 	goto_if_eq VAR_RESULT, NO, BattleFrontier_ExchangeServiceCorner_EventScript_ChooseBerry
-	setvar VAR_0x8008, 48
+	setvar VAR_0x8008, 4
 	setvar VAR_0x8009, ITEM_APICOT_BERRY
 	goto BattleFrontier_ExchangeServiceCorner_EventScript_TryPurchasePrize
 	end
@@ -658,7 +658,7 @@ BattleFrontier_ExchangeServiceCorner_EventScript_Apicot::
 BattleFrontier_ExchangeServiceCorner_EventScript_Pomeg::
 	msgbox BattleFrontier_ExchangeServiceCorner_Text_ConfirmPomeg, MSGBOX_YESNO
 	goto_if_eq VAR_RESULT, NO, BattleFrontier_ExchangeServiceCorner_EventScript_ChooseBerry
-	setvar VAR_0x8008, 3
+	setvar VAR_0x8008, 1
 	setvar VAR_0x8009, ITEM_POMEG_BERRY
 	goto BattleFrontier_ExchangeServiceCorner_EventScript_TryPurchasePrize
 	end
@@ -666,7 +666,7 @@ BattleFrontier_ExchangeServiceCorner_EventScript_Pomeg::
 BattleFrontier_ExchangeServiceCorner_EventScript_Kelpsy::
 	msgbox BattleFrontier_ExchangeServiceCorner_Text_ConfirmKelpsy, MSGBOX_YESNO
 	goto_if_eq VAR_RESULT, NO, BattleFrontier_ExchangeServiceCorner_EventScript_ChooseBerry
-	setvar VAR_0x8008, 3
+	setvar VAR_0x8008, 1
 	setvar VAR_0x8009, ITEM_KELPSY_BERRY
 	goto BattleFrontier_ExchangeServiceCorner_EventScript_TryPurchasePrize
 	end
@@ -674,7 +674,7 @@ BattleFrontier_ExchangeServiceCorner_EventScript_Kelpsy::
 BattleFrontier_ExchangeServiceCorner_EventScript_Qualot::
 	msgbox BattleFrontier_ExchangeServiceCorner_Text_ConfirmQualot, MSGBOX_YESNO
 	goto_if_eq VAR_RESULT, NO, BattleFrontier_ExchangeServiceCorner_EventScript_ChooseBerry
-	setvar VAR_0x8008, 3
+	setvar VAR_0x8008, 1
 	setvar VAR_0x8009, ITEM_QUALOT_BERRY
 	goto BattleFrontier_ExchangeServiceCorner_EventScript_TryPurchasePrize
 	end
@@ -682,7 +682,7 @@ BattleFrontier_ExchangeServiceCorner_EventScript_Qualot::
 BattleFrontier_ExchangeServiceCorner_EventScript_Hondew::
 	msgbox BattleFrontier_ExchangeServiceCorner_Text_ConfirmHondew, MSGBOX_YESNO
 	goto_if_eq VAR_RESULT, NO, BattleFrontier_ExchangeServiceCorner_EventScript_ChooseBerry
-	setvar VAR_0x8008, 3
+	setvar VAR_0x8008, 1
 	setvar VAR_0x8009, ITEM_HONDEW_BERRY
 	goto BattleFrontier_ExchangeServiceCorner_EventScript_TryPurchasePrize
 	end
@@ -690,7 +690,7 @@ BattleFrontier_ExchangeServiceCorner_EventScript_Hondew::
 BattleFrontier_ExchangeServiceCorner_EventScript_Grepa::
 	msgbox BattleFrontier_ExchangeServiceCorner_Text_ConfirmGrepa, MSGBOX_YESNO
 	goto_if_eq VAR_RESULT, NO, BattleFrontier_ExchangeServiceCorner_EventScript_ChooseBerry
-	setvar VAR_0x8008, 3
+	setvar VAR_0x8008, 1
 	setvar VAR_0x8009, ITEM_GREPA_BERRY
 	goto BattleFrontier_ExchangeServiceCorner_EventScript_TryPurchasePrize
 	end
@@ -698,7 +698,7 @@ BattleFrontier_ExchangeServiceCorner_EventScript_Grepa::
 BattleFrontier_ExchangeServiceCorner_EventScript_Tamato::
 	msgbox BattleFrontier_ExchangeServiceCorner_Text_ConfirmTamato, MSGBOX_YESNO
 	goto_if_eq VAR_RESULT, NO, BattleFrontier_ExchangeServiceCorner_EventScript_ChooseBerry
-	setvar VAR_0x8008, 3
+	setvar VAR_0x8008, 1
 	setvar VAR_0x8009, ITEM_TAMATO_BERRY
 	goto BattleFrontier_ExchangeServiceCorner_EventScript_TryPurchasePrize
 	end
